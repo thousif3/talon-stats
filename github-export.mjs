@@ -1,1 +1,253 @@
 
+// TALON — GitHub Pages Static Dashboard Exporter
+// Pushes a stats JSON + static HTML to GitHub every hour
+// Accessible publicly at: https://thousif3.github.io/talon-stats/
+
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const LOGS      = path.join(__dirname, '../logs');
+const GITHUB_TOKEN  = process.env.GITHUB_TOKEN;
+const GITHUB_OWNER  = 'thousif3';
+const GITHUB_REPO   = 'talon-stats';  // create this repo on GitHub
+const GITHUB_BRANCH = 'main';
+
+function loadData() {
+  const read = (file, fallback) => {
+    const p = path.join(LOGS, file);
+    if (!fs.existsSync(p)) return fallback;
+    try { return JSON.parse(fs.readFileSync(p, 'utf-8')); } catch { return fallback; }
+  };
+  return {
+    jobs:     read('filtered-jobs.json', []),
+    approved: read('approved-jobs.json', []),
+    gmail:    read('gmail-results.json', {}),
+    crm:      read('crm.json', { applications: [] }),
+    news:     read('news-results.json', {}),
+    lastRun:  read('last-run.json', {}),
+    apiCosts: read('api-costs.json', { totals: {}, lastUpdated: null }),
+  };
+}
+
+function buildStats(data) {
+  const { jobs, approved, gmail, crm, news, lastRun, apiCosts } = data;
+  const eligible  = jobs.filter(j => j.eligible);
+  const top7      = jobs.filter(j => j.eligible && j.score >= 7);
+  const crmApps   = crm.applications || [];
+  const totalCost = Object.values(apiCosts.totals || {}).reduce((s,t) => s+(t.cost||0), 0);
+
+  return {
+    generatedAt: new Date().toISOString(),
+    generatedAtET: new Date().toLocaleString('en-US', { timeZone: 'America/Indiana/Indianapolis' }),
+    pipeline: {
+      jobsScanned:   jobs.length,
+      eligible:      eligible.length,
+      score7plus:    top7.length,
+      approved:      approved.length,
+      applications:  (gmail.applications || []).length,
+      interviews:    (gmail.interviews || []).length,
+      rejections:    (gmail.rejections || []).length,
+      recruiters:    (gmail.recruiters || []).length,
+      crmTracked:    crmApps.length,
+    },
+    lastRuns: {
+      jobScan:       lastRun.lastJobScan || null,
+      news:          lastRun.lastNews || null,
+      gmailParsed:   gmail.fetchedAt || null,
+      newsGenerated: news.generatedAt || null,
+    },
+    aiCosts: {
+      totalSpent:    parseFloat(totalCost.toFixed(4)),
+      totalCalls:    Object.values(apiCosts.totals || {}).reduce((s,t) => s+(t.calls||0), 0),
+      lastUpdated:   apiCosts.lastUpdated || null,
+    },
+    recentNews: {
+      visa:     news.visaNews?.summary?.slice(0, 300) || '',
+      tech:     news.techNews?.summary?.slice(0, 300) || '',
+      breaking: news.breakingNews?.summary?.slice(0, 300) || '',
+    },
+    topJobs: top7.slice(0, 5).map(j => ({
+      title:    j.title,
+      company:  j.company,
+      location: j.location || 'N/A',
+      score:    j.score,
+      url:      j.url,
+    })),
+  };
+}
+
+function buildStaticHTML(stats) {
+  const p = stats.pipeline;
+  const now = stats.generatedAtET;
+
+  const topJobsHTML = stats.topJobs.length > 0
+    ? stats.topJobs.map(j => `
+      <div class="job-card">
+        <div class="job-title">${j.title}</div>
+        <div class="job-company">${j.company} · ${j.location}</div>
+        <div class="job-score">${j.score}/10</div>
+        <a href="${j.url}" target="_blank" class="job-link">View →</a>
+      </div>`).join('')
+    : '<p class="empty">No jobs yet — scan running at 8AM/8PM ET</p>';
+
+  return `<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="refresh" content="3600">
+<title>TALON — Live Stats</title>
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600&family=Outfit:wght@400;600;800&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#030508;--bg2:#070c14;--border:rgba(99,179,237,0.12);--border2:rgba(99,179,237,0.25);--blue:#63b3ed;--cyan:#76e4f7;--green:#68d391;--orange:#f6ad55;--text:#e2e8f0;--muted:#4a5568;--muted2:#718096;}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:'Outfit',sans-serif;background:var(--bg);color:var(--text);min-height:100vh;padding:0;}
+body::before{content:'';position:fixed;inset:0;background-image:linear-gradient(rgba(99,179,237,0.03) 1px,transparent 1px),linear-gradient(90deg,rgba(99,179,237,0.03) 1px,transparent 1px);background-size:48px 48px;pointer-events:none;}
+header{background:rgba(7,12,20,0.95);border-bottom:1px solid var(--border);padding:16px 24px;display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:10;backdrop-filter:blur(12px);}
+.logo{display:flex;align-items:center;gap:12px;}
+.logo-badge{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--cyan);background:rgba(118,228,247,0.08);border:1px solid rgba(118,228,247,0.2);padding:5px 10px;border-radius:6px;letter-spacing:.1em;}
+.logo h1{font-size:18px;font-weight:800;letter-spacing:.1em;background:linear-gradient(135deg,#fff 40%,var(--cyan));-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
+.logo p{font-size:9px;color:var(--muted2);font-family:'JetBrains Mono',monospace;letter-spacing:.08em;}
+.status{display:flex;align-items:center;gap:6px;font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--green);}
+.dot{width:6px;height:6px;background:var(--green);border-radius:50%;box-shadow:0 0 6px var(--green);animation:pulse 2s infinite;}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.5}}
+.main{padding:20px 24px;max-width:900px;margin:0 auto;}
+.updated{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--muted);margin-bottom:20px;letter-spacing:.06em;}
+.stats-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(130px,1fr));gap:10px;margin-bottom:24px;}
+.stat{background:var(--bg2);border:1px solid var(--border);border-radius:10px;padding:14px;position:relative;overflow:hidden;}
+.stat::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;}
+.stat.blue::before{background:linear-gradient(90deg,#4f8ef7,#818cf8)}.stat.cyan::before{background:linear-gradient(90deg,#22d3ee,#4f8ef7)}.stat.green::before{background:linear-gradient(90deg,#34d399,#2dd4bf)}.stat.orange::before{background:linear-gradient(90deg,#fb923c,#fbbf24)}.stat.red::before{background:linear-gradient(90deg,#f87171,#f472b6)}.stat.purple::before{background:linear-gradient(90deg,#c084fc,#f472b6)}
+.stat-val{font-family:'JetBrains Mono',monospace;font-size:28px;font-weight:700;color:var(--text);}
+.stat.blue .stat-val{color:#4f8ef7}.stat.cyan .stat-val{color:#22d3ee}.stat.green .stat-val{color:#34d399}.stat.orange .stat-val{color:#fb923c}.stat.red .stat-val{color:#f87171}.stat.purple .stat-val{color:#c084fc}
+.stat-lbl{font-size:10px;color:var(--muted2);margin-top:4px;font-family:'JetBrains Mono',monospace;letter-spacing:.04em;}
+.section{background:var(--bg2);border:1px solid var(--border);border-radius:12px;padding:20px;margin-bottom:16px;}
+.section h2{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--cyan);letter-spacing:.15em;text-transform:uppercase;margin-bottom:14px;display:flex;align-items:center;gap:8px;}
+.section h2::after{content:'';flex:1;height:1px;background:var(--border);}
+.job-card{background:#050810;border:1px solid var(--border);border-radius:8px;padding:14px;margin-bottom:8px;display:flex;align-items:center;gap:12px;flex-wrap:wrap;}
+.job-title{font-size:14px;font-weight:600;color:var(--text);flex:1;min-width:160px;}
+.job-company{font-size:12px;color:var(--muted2);margin-right:auto;}
+.job-score{font-family:'JetBrains Mono',monospace;font-size:12px;color:var(--orange);background:rgba(251,146,60,.1);border:1px solid rgba(251,146,60,.2);padding:2px 8px;border-radius:10px;}
+.job-link{font-family:'JetBrains Mono',monospace;font-size:11px;color:var(--cyan);text-decoration:none;}
+.job-link:hover{text-decoration:underline;}
+.news-item{padding:12px;background:#050810;border:1px solid var(--border);border-radius:8px;margin-bottom:8px;font-size:13px;color:var(--muted2);line-height:1.6;white-space:pre-line;}
+.news-label{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--cyan);margin-bottom:6px;letter-spacing:.1em;}
+.cost-row{display:flex;justify-content:space-between;align-items:center;padding:10px 0;border-bottom:1px solid var(--border);}
+.cost-row:last-child{border-bottom:none;}
+.cost-label{font-size:13px;color:var(--muted2);}
+.cost-val{font-family:'JetBrains Mono',monospace;font-size:14px;font-weight:600;color:var(--green);}
+.empty{text-align:center;color:var(--muted);font-size:13px;padding:20px;font-style:italic;}
+footer{text-align:center;padding:24px;border-top:1px solid var(--border);margin-top:24px;}
+footer p{font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--muted);letter-spacing:.06em;line-height:1.8;}
+footer a{color:var(--cyan);text-decoration:none;}
+footer a:hover{text-decoration:underline;}
+@media(max-width:600px){.main{padding:16px;}.stats-grid{grid-template-columns:repeat(2,1fr);}}
+</style>
+</head>
+<body>
+<header>
+  <div class="logo">
+    <div class="logo-badge">T A L O N</div>
+    <div><h1>INTELLIGENCE</h1><p>TACTICAL AUTOMATED LOGISTIC OPERATING NETWORK</p></div>
+  </div>
+  <div class="status"><div class="dot"></div>LIVE</div>
+</header>
+
+<div class="main">
+  <div class="updated">// LAST UPDATED: ${now} ET · AUTO-REFRESH 1HR · <a href="https://thousif3.github.io" style="color:var(--cyan);">PORTFOLIO →</a></div>
+
+  <div class="stats-grid">
+    <div class="stat blue"><div class="stat-val">${p.jobsScanned}</div><div class="stat-lbl">Jobs Scanned</div></div>
+    <div class="stat cyan"><div class="stat-val">${p.eligible}</div><div class="stat-lbl">Eligible</div></div>
+    <div class="stat purple"><div class="stat-val">${p.score7plus}</div><div class="stat-lbl">Score 7+</div></div>
+    <div class="stat orange"><div class="stat-val">${p.approved}</div><div class="stat-lbl">Approved</div></div>
+    <div class="stat blue"><div class="stat-val">${p.applications}</div><div class="stat-lbl">Applications</div></div>
+    <div class="stat orange"><div class="stat-val">${p.interviews}</div><div class="stat-lbl">Interviews</div></div>
+    <div class="stat red"><div class="stat-val">${p.rejections}</div><div class="stat-lbl">Rejections</div></div>
+    <div class="stat green"><div class="stat-val">${p.crmTracked}</div><div class="stat-lbl">CRM Tracked</div></div>
+  </div>
+
+  <div class="section">
+    <h2>⭐ Top Job Matches</h2>
+    ${topJobsHTML}
+  </div>
+
+  <div class="section">
+    <h2>📰 Latest Intel</h2>
+    ${stats.recentNews.breaking ? `<div class="news-item"><div class="news-label">🔴 BREAKING</div>${stats.recentNews.breaking}</div>` : ''}
+    ${stats.recentNews.visa ? `<div class="news-item"><div class="news-label">🛂 VISA & IMMIGRATION</div>${stats.recentNews.visa}</div>` : ''}
+    ${stats.recentNews.tech ? `<div class="news-item"><div class="news-label">💻 TECH & HIRING</div>${stats.recentNews.tech}</div>` : ''}
+  </div>
+
+  <div class="section">
+    <h2>💰 AI Cost Tracker</h2>
+    <div class="cost-row"><span class="cost-label">Total Spent (All Time)</span><span class="cost-val">$${stats.aiCosts.totalSpent.toFixed(4)}</span></div>
+    <div class="cost-row"><span class="cost-label">Total API Calls</span><span class="cost-val">${stats.aiCosts.totalCalls}</span></div>
+    <div class="cost-row"><span class="cost-label">Primary Model</span><span class="cost-val" style="color:var(--blue);font-size:11px;">Gemini 3.1 Flash-Lite (FREE)</span></div>
+  </div>
+</div>
+
+<footer>
+  <p>TALON v2.0 · TACTICAL AUTOMATED LOGISTIC OPERATING NETWORK</p>
+  <p>Built by <a href="https://thousif3.github.io">Thousifuddin Shaik</a> · <a href="mailto:thousifsk3@gmail.com">thousifsk3@gmail.com</a> · <a href="https://www.linkedin.com/in/thousifuddin-shaik/" target="_blank">LinkedIn</a> · <a href="https://github.com/thousif3" target="_blank">GitHub</a></p>
+  <p style="margin-top:8px;">Indianapolis, IN · MS Computer Science · IU Indianapolis · CSM · CSPO</p>
+</footer>
+</body>
+</html>`;
+}
+
+async function pushToGitHub(filename, content, message) {
+  if (!GITHUB_TOKEN) {
+    console.log('⚠️  GITHUB_TOKEN not set — skipping push');
+    return false;
+  }
+
+  const encoded = Buffer.from(content).toString('base64');
+  const apiUrl = `https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${filename}`;
+
+  // Get current SHA if file exists
+  let sha = null;
+  try {
+    const r = await fetch(apiUrl, { headers: { 'Authorization': `token ${GITHUB_TOKEN}`, 'Accept': 'application/vnd.github.v3+json' } });
+    if (r.ok) { const d = await r.json(); sha = d.sha; }
+  } catch { /* new file */ }
+
+  const body = { message, content: encoded, branch: GITHUB_BRANCH };
+  if (sha) body.sha = sha;
+
+  const res = await fetch(apiUrl, {
+    method: 'PUT',
+    headers: { 'Authorization': `token ${GITHUB_TOKEN}`, 'Content-Type': 'application/json', 'Accept': 'application/vnd.github.v3+json' },
+    body: JSON.stringify(body),
+  });
+
+  if (res.ok) {
+    console.log(`✅ Pushed ${filename} to GitHub`);
+    return true;
+  } else {
+    const err = await res.json();
+    console.error(`❌ GitHub push failed: ${err.message}`);
+    return false;
+  }
+}
+
+export async function exportToGitHub() {
+  console.log('📤 TALON → GitHub Pages export...');
+
+  const data  = loadData();
+  const stats = buildStats(data);
+  const html  = buildStaticHTML(stats);
+
+  // Push both files
+  const timestamp = new Date().toLocaleString('en-US', { timeZone: 'America/Indiana/Indianapolis' });
+  await pushToGitHub('index.html', html, `📊 TALON stats update — ${timestamp}`);
+  await pushToGitHub('stats.json', JSON.stringify(stats, null, 2), `📊 TALON JSON — ${timestamp}`);
+
+  console.log(`✅ Export complete — https://${GITHUB_OWNER}.github.io/${GITHUB_REPO}/`);
+}
+
+// Run directly if called as script
+if (process.argv[1] === fileURLToPath(import.meta.url)) {
+  exportToGitHub().catch(console.error);
+}
