@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-25T03:27:56.568Z",
-  "generatedAtET": "3/24/2026, 11:27:56 PM",
+  "generatedAt": "2026-03-25T04:05:29.869Z",
+  "generatedAtET": "3/25/2026, 12:05:29 AM",
   "pipeline": {
     "jobsScanned": 663,
     "eligible": 502,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0,
-    "totalCalls": 76,
-    "lastUpdated": "2026-03-25T01:53:33.229Z"
+    "totalCalls": 79,
+    "lastUpdated": "2026-03-25T04:03:47.913Z"
   },
   "recentNews": {
     "visa": "*   F-1 visa student visas dropped over a third last fall, indicating severe enrollment challenges for U.S. colleges.\n*   International students on F-1 visas report being forced to leave the U.S., often due to H-1B denial and loss of OPT work authorization.\n*   Urgent: Increased ICE enforcement and ",
