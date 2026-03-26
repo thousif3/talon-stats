@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-03-25T23:05:33.599Z",
-  "generatedAtET": "3/25/2026, 7:05:33 PM",
+  "generatedAt": "2026-03-26T06:05:25.438Z",
+  "generatedAtET": "3/26/2026, 2:05:25 AM",
   "pipeline": {
-    "jobsScanned": 643,
-    "eligible": 510,
-    "score7plus": 477,
+    "jobsScanned": 640,
+    "eligible": 499,
+    "score7plus": 468,
     "approved": 0,
     "applications": 29,
     "interviews": 3,
@@ -13,7 +13,7 @@
     "crmTracked": 24
   },
   "lastRuns": {
-    "jobScan": "2026-2-25-8",
+    "jobScan": "2026-2-25-20",
     "news": "2026-2-25-7",
     "gmailParsed": "2026-03-25T11:10:46.908Z",
     "newsGenerated": "2026-03-25T11:10:37.808Z"
@@ -30,11 +30,32 @@
   },
   "topJobs": [
     {
+      "title": "Construction Management Intern – Commercial Projects",
+      "company": "United Contractor Services",
+      "location": "Barrett Parkway, Cobb County",
+      "score": 8,
+      "url": "https://www.adzuna.com/details/5678251762?utm_medium=api&utm_source=2e4857a8"
+    },
+    {
+      "title": "Mechanical Engineering Intern",
+      "company": "U.S. Pipe 2024",
+      "location": "US",
+      "score": 8,
+      "url": "https://www.adzuna.com/land/ad/5677812714?se=iKw606Yo8RGDcKRGiRzgaw&utm_medium=api&utm_source=2e4857a8&v=3D49C03A5755A7C3F09C23C02CD149D4F8305341"
+    },
+    {
       "title": "Project Manager - US Field Medical Capabilities",
       "company": "TSR Consulting",
       "location": "Lawrence, NJ",
       "score": 8,
-      "url": "https://jooble.org/jdp/-2349853250618405699"
+      "url": "https://jooble.org/jdp/4384016377550207064"
+    },
+    {
+      "title": "STARZ Intern, Project Management Office - Project Manager",
+      "company": "Starz",
+      "location": "Denver, CO",
+      "score": 8,
+      "url": "https://jooble.org/jdp/8775525320421631181"
     },
     {
       "title": "Paid Summer Project Manager Intern - Utilities",
@@ -42,27 +63,6 @@
       "location": "Hubbard, OR",
       "score": 8,
       "url": "https://jooble.org/jdp/2519083009931127582"
-    },
-    {
-      "title": "Summer Associate Project Manager Intern — Paid and Growth",
-      "company": "Quanta Services, Inc.",
-      "location": "Sumner, WA",
-      "score": 8,
-      "url": "https://jooble.org/jdp/-6451215389171742821"
-    },
-    {
-      "title": "Summer Project Coordinator Intern - Software Services",
-      "company": "IMT Insurance",
-      "location": "West Des Moines, IA",
-      "score": 8,
-      "url": "https://jooble.org/jdp/-8160276352230148794"
-    },
-    {
-      "title": "Summer Project Coordinator Intern - Data & Procurement",
-      "company": "apexanalytix",
-      "location": "Greensboro, NC",
-      "score": 8,
-      "url": "https://jooble.org/jdp/4575278494670537681"
     }
   ]
 }
