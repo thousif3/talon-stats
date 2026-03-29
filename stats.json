@@ -1,48 +1,34 @@
 {
-  "generatedAt": "2026-03-26T22:49:45.989Z",
-  "generatedAtET": "3/26/2026, 6:49:45 PM",
+  "generatedAt": "2026-03-29T06:01:05.139Z",
+  "generatedAtET": "3/29/2026, 2:01:05 AM",
   "pipeline": {
-    "jobsScanned": 628,
-    "eligible": 484,
-    "score7plus": 450,
+    "jobsScanned": 607,
+    "eligible": 458,
+    "score7plus": 430,
     "approved": 0,
     "applications": 29,
     "interviews": 3,
-    "rejections": 11,
+    "rejections": 10,
     "recruiters": 2,
     "crmTracked": 24
   },
   "lastRuns": {
-    "jobScan": "2026-2-26-8",
-    "news": "2026-2-26-7",
-    "gmailParsed": "2026-03-26T11:03:21.835Z",
-    "newsGenerated": "2026-03-26T11:03:02.584Z"
+    "jobScan": "2026-2-28-20",
+    "news": "2026-2-27-7",
+    "gmailParsed": "2026-03-27T11:09:22.682Z",
+    "newsGenerated": "2026-03-27T11:09:13.551Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0003,
-    "totalCalls": 185,
-    "lastUpdated": "2026-03-26T11:15:41.694Z"
+    "totalSpent": 0.0007,
+    "totalCalls": 237,
+    "lastUpdated": "2026-03-27T11:56:10.953Z"
   },
   "recentNews": {
-    "visa": "*   OPT program faces political criticism for potentially displacing U.S. workers, creating uncertainty for students relying on it for post-graduation work.\n*   H-1B visa process changes with a new Form I-129 effective April 1, 2026; a new $100,000 fee is under legal review as a potential tax.\n*   I",
-    "tech": "*   Major tech firms like Meta are conducting targeted layoffs while simultaneously investing record sums in AI infrastructure and talent.\n*   AI fears are influencing career choices, with some Gen Z individuals opting for blue-collar roles over traditional white-collar paths.\n*   The internship and",
-    "breaking": "*   The Trump-Xi summit is rescheduled for May 14-15 in Beijing, a six-week delay officials attribute to the Iran conflict.\n*   A Department of Homeland Security funding deal is stalled in the Senate, with Republicans rejecting a Democratic counteroffer.\n*   Trump's top housing official, Bill Pulte,"
+    "visa": "*   A lawsuit challenging Trump administration student visa (F-1) revocations is proceeding; no court reprieve was granted in September.\n*   DOL proposed rule would significantly increase H-1B and PERM prevailing wage levels starting March 2026, making sponsorship more expensive.\n*   ICE enforcement",
+    "tech": "*   PM/BA hiring focuses on \"non-tech\" professionals who can translate AI into business outcomes, not just technical skills.\n*   Major tech firms like Amazon are making massive AI investments while simultaneously conducting workforce layoffs and restructuring.\n*   The internship market shows specifi",
+    "breaking": "- President Trump announced he will sign an order to restart pay for TSA officers, who have been without full paychecks for over a month.\n- Trump stated he is \"pausing\" his plan to destroy Iranian power plants for 10 days, as U.S.-Iran ceasefire talks appear at an impasse.\n- NYPD officer Veckash Khe"
   },
   "topJobs": [
-    {
-      "title": "Project Management Intern",
-      "company": "Stride Learning",
-      "location": "US",
-      "score": 8,
-      "url": "https://www.adzuna.com/details/5678874098?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "Project Management Intern (Clients)",
-      "company": "APEX Fintech Services",
-      "location": "New York City, New York",
-      "score": 8,
-      "url": "https://www.adzuna.com/details/5678804560?utm_medium=api&utm_source=2e4857a8"
-    },
     {
       "title": "Project Manager - US Field Medical Capabilities",
       "company": "TSR Consulting",
@@ -63,6 +49,20 @@
       "location": "Hubbard, OR",
       "score": 8,
       "url": "https://jooble.org/jdp/2519083009931127582"
+    },
+    {
+      "title": "Summer Project Coordinator Intern - Software Services",
+      "company": "IMT Insurance",
+      "location": "West Des Moines, IA",
+      "score": 8,
+      "url": "https://jooble.org/jdp/-8160276352230148794"
+    },
+    {
+      "title": "Summer Associate Project Manager Intern — Paid and Growth",
+      "company": "Quanta Services, Inc.",
+      "location": "Sumner, WA",
+      "score": 8,
+      "url": "https://jooble.org/jdp/-6451215389171742821"
     }
   ]
 }
