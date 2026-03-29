@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-29T06:01:05.139Z",
-  "generatedAtET": "3/29/2026, 2:01:05 AM",
+  "generatedAt": "2026-03-29T06:53:31.298Z",
+  "generatedAtET": "3/29/2026, 2:53:31 AM",
   "pipeline": {
     "jobsScanned": 607,
     "eligible": 458,
@@ -16,17 +16,17 @@
     "jobScan": "2026-2-28-20",
     "news": "2026-2-27-7",
     "gmailParsed": "2026-03-27T11:09:22.682Z",
-    "newsGenerated": "2026-03-27T11:09:13.551Z"
+    "newsGenerated": "2026-03-29T06:37:33.027Z"
   },
   "aiCosts": {
     "totalSpent": 0.0007,
-    "totalCalls": 237,
-    "lastUpdated": "2026-03-27T11:56:10.953Z"
+    "totalCalls": 266,
+    "lastUpdated": "2026-03-29T06:48:56.786Z"
   },
   "recentNews": {
-    "visa": "*   A lawsuit challenging Trump administration student visa (F-1) revocations is proceeding; no court reprieve was granted in September.\n*   DOL proposed rule would significantly increase H-1B and PERM prevailing wage levels starting March 2026, making sponsorship more expensive.\n*   ICE enforcement",
-    "tech": "*   PM/BA hiring focuses on \"non-tech\" professionals who can translate AI into business outcomes, not just technical skills.\n*   Major tech firms like Amazon are making massive AI investments while simultaneously conducting workforce layoffs and restructuring.\n*   The internship market shows specifi",
-    "breaking": "- President Trump announced he will sign an order to restart pay for TSA officers, who have been without full paychecks for over a month.\n- Trump stated he is \"pausing\" his plan to destroy Iranian power plants for 10 days, as U.S.-Iran ceasefire talks appear at an impasse.\n- NYPD officer Veckash Khe"
+    "visa": "*   DHS funding uncertainty continues due to a House revolt, prolonging a partial shutdown that has slowed immigration agency operations.\n*   A proposed rule aims to significantly raise the minimum wage required for H-1B, H-1B1, and E-3 visa holders, increasing sponsorship costs.\n*   High-profile IC",
+    "tech": "*   AI adoption in manufacturing is accelerating, with 57% now using AI for machine vision, shifting focus from pure accuracy to ease of use.\n*   Government and defense sectors show strong tech hiring demand, with companies like Hughes positioning software to capture rising contracts.\n*   Startups e",
+    "breaking": "*   Iran's missile strike on a Saudi air base damaged a U.S. E-3 Sentry aircraft and injured several American troops on Friday.\n*   Haryana CM Nayab Singh Saini flagged off the state's first special pilgrim train to Ayodhya and announced a new Hazur Sahib service.\n*   The North America Water Pump Ma"
   },
   "topJobs": [
     {
