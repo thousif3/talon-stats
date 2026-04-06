@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-06T15:05:04.094Z",
-  "generatedAtET": "4/6/2026, 11:05:04 AM",
+  "generatedAt": "2026-04-06T16:05:04.123Z",
+  "generatedAtET": "4/6/2026, 12:05:04 PM",
   "pipeline": {
     "jobsScanned": 658,
     "eligible": 516,
@@ -16,7 +16,7 @@
     "jobScan": "2026-3-4-20",
     "news": "2026-3-3-7",
     "gmailParsed": "2026-04-05T17:35:08.596Z",
-    "newsGenerated": "2026-04-05T17:35:04.195Z"
+    "newsGenerated": "2026-04-06T15:06:19.587Z"
   },
   "aiCosts": {
     "totalSpent": 0.0015,
@@ -24,9 +24,9 @@
     "lastUpdated": "2026-04-05T17:57:09.916Z"
   },
   "recentNews": {
-    "visa": "*   USCIS reached the FY 2027 H-1B cap (65k + 20k masters) on April 1, 2026. No more regular petitions accepted.\n*   High demand and a proposed $100,000 H-1B fee are cited as barriers to attracting global talent.\n*   Companies like Oracle face criticism for filing H-1Bs during layoffs, highlighting ",
-    "tech": "*   Oracle plans major 2026 layoffs, restructuring thousands of roles, with AI cited as a potential driver for the cuts.\n*   AI is creating high-demand, specialized career paths while simultaneously being linked to workforce reductions in some tech companies.\n*   Internship opportunities remain acti",
-    "breaking": "*   Samsung will shut down its Messages app in India by July 2026, directing Galaxy users to switch to Google Messages for RCS and AI features.\n*   Homicide detectives have reopened the cold case murder of Eliseo Salas, 36, who was shot at a Rancho Cucamonga party on July 15, 2007.\n*   AAP MP Raghav"
+    "visa": "• Downed planes spell new peril for Trump as Tehran hunts missing US pilot - Reuters\n• USCIS Reaches H-1B Cap For 2027 - letsdatascience.com\n• UK Joins US, Canada, France, Germany, New Zealand, Saudi Arabia, and More in Bold 2026 Immigration Reforms That Will Shake Up Global Mobility with Digital Bo",
+    "tech": "• JPMorgan CEO Jamie Dimon predicts AI will cut the workweek down to 3.5 days\n• Meta Restructures: 200 employees set to lose jobs in Bay Area\n• Ask by voice, get brand data in 10 seconds: HarrisQuest launches Lou\n• NeuBird AI Raises $19.3 Million To Scale Agentic AI Across Enterprise Production Oper",
+    "breaking": "• Manav Gohil on Ranveer Singh's 'Dhurandhar 2: The Revenge' journey says, 'The sincerity he has towards his craft is no fluke'\n• Aurobindo Pharma To Buyback Shares Worth Rs 800 Crore - Check Record Date\n• Excessive salt intake can lead to high heart and kidney disease risk, tips to reduce it\n• Airs"
   },
   "topJobs": [
     {
