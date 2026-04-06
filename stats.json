@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-06T17:05:34.282Z",
-  "generatedAtET": "4/6/2026, 1:05:34 PM",
+  "generatedAt": "2026-04-06T18:05:04.243Z",
+  "generatedAtET": "4/6/2026, 2:05:04 PM",
   "pipeline": {
     "jobsScanned": 658,
     "eligible": 516,
@@ -14,14 +14,14 @@
   },
   "lastRuns": {
     "jobScan": "2026-3-4-20",
-    "news": null,
+    "news": "2026-3-3-7",
     "gmailParsed": "2026-04-05T17:35:08.596Z",
     "newsGenerated": "2026-04-06T15:06:19.587Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0015,
-    "totalCalls": 477,
-    "lastUpdated": "2026-04-05T17:57:09.916Z"
+    "totalSpent": 0.0073,
+    "totalCalls": 480,
+    "lastUpdated": "2026-04-06T17:17:26.761Z"
   },
   "recentNews": {
     "visa": "• Downed planes spell new peril for Trump as Tehran hunts missing US pilot - Reuters\n• USCIS Reaches H-1B Cap For 2027 - letsdatascience.com\n• UK Joins US, Canada, France, Germany, New Zealand, Saudi Arabia, and More in Bold 2026 Immigration Reforms That Will Shake Up Global Mobility with Digital Bo",
