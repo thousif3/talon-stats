@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-07T15:05:50.503Z",
-  "generatedAtET": "4/7/2026, 11:05:50 AM",
+  "generatedAt": "2026-04-07T16:05:23.816Z",
+  "generatedAtET": "4/7/2026, 12:05:23 PM",
   "pipeline": {
     "jobsScanned": 946,
     "eligible": 28,
@@ -14,7 +14,7 @@
   },
   "lastRuns": {
     "jobScan": "2026-3-4-20",
-    "news": "2026-3-3-7",
+    "news": null,
     "gmailParsed": "2026-04-07T14:13:03.049Z",
     "newsGenerated": "2026-04-07T14:12:56.486Z"
   },
