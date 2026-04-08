@@ -1,68 +1,32 @@
 {
-  "generatedAt": "2026-04-07T23:05:58.603Z",
-  "generatedAtET": "4/7/2026, 7:05:58 PM",
+  "generatedAt": "2026-04-08T01:05:41.248Z",
+  "generatedAtET": "4/7/2026, 9:05:41 PM",
   "pipeline": {
-    "jobsScanned": 946,
-    "eligible": 28,
-    "score7plus": 24,
+    "jobsScanned": 854,
+    "eligible": 0,
+    "score7plus": 0,
     "approved": 1,
     "applications": 29,
     "interviews": 3,
     "rejections": 9,
-    "recruiters": 2,
+    "recruiters": 3,
     "crmTracked": 25
   },
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-07T14:13:03.049Z",
-    "newsGenerated": "2026-04-07T14:12:56.486Z"
+    "gmailParsed": "2026-04-08T00:04:17.401Z",
+    "newsGenerated": "2026-04-08T00:04:02.978Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0085,
-    "totalCalls": 652,
-    "lastUpdated": "2026-04-07T14:40:12.370Z"
+    "totalSpent": 0.0091,
+    "totalCalls": 740,
+    "lastUpdated": "2026-04-08T00:24:16.909Z"
   },
   "recentNews": {
-    "visa": "• Stay Legally in the U.S. After Missing H-1B Lottery\n• Not end of road for those who didn't get selected in H-1B lottery: Immigration attorney explains 8 best o\n• H-1B fee hike may redirect Indian software talent abroad\n• When a Federal Visa Policy Hurts the School Families Select\n• ICE Agents Deta",
-    "tech": "• CNBC's The China Connection newsletter: Why AI isn't replacing jobs in China (yet)\n• Goldman Sachs' blunt warning to laid-off tech workers: It will take time and earnings loss to find a new job\n• Weekly market commentary\n• Best AI Stocks to Buy in 2026 and How to Invest in Them\n• Beep App Launches",
-    "breaking": "• Rapper Offset hospitalized after being shot in Florida\n• 'You No Longer Have Credibility': Trump Fumes At New York Times Reporter During Press Conference\n• ICE arrests ‘sicko’ illegal migrant accused of kidnapping 4-year-old girl from Long Island laundromat\n• ‘Smell’ of war lingers in St Petersbur"
+    "visa": "• Stay Legally in the U.S. After Missing H-1B Lottery\n• United States Offers Eight Powerful Visa Alternatives for Those Who Missed the H‑1B Lottery\n• Commentary: New $100k Fee and Wage-Weighted H-1B Lottery Could Sideline U.S. Start-Ups\n• Minimum Salary Changes Announced\n• US Soldier's Wife Freed Fr",
+    "tech": "• US Tech Sector Lost Jobs in March, AI Enters Layoff Calculations\n• Tech layoffs 2026: Over 71,000 jobs gone as companies double down on AI\n• Ukraine's attack drone fleet faces a mini jet engine supply crunch\n• Best AI Stocks to Buy in 2026 and How to Invest in Them\n• Beep App Launches Its Career-F",
+    "breaking": "• Valeo - Voting rights - March 2026\n• Gold price today: Yellow metal slips; check 24K, 22K city-wise rates in Delhi, Mumbai, Pune and more - The Times of India\n• New Airseekers Tron SE mulching robot mower launches with discount\n• Optimus Technologies and Sunoil Biodiesel Partner to Bring B100 to H"
   },
-  "topJobs": [
-    {
-      "title": "Product Manager Intern: Shape User-Focused Solutions",
-      "company": "Cloudflare",
-      "location": "Austin, TX",
-      "score": 9.3,
-      "url": "https://jooble.org/jdp/2762125895813069863"
-    },
-    {
-      "title": "Product Manager Intern",
-      "company": "Typeface",
-      "location": "Palo Alto, CA",
-      "score": 8.9,
-      "url": "https://jooble.org/jdp/6357701491530229353"
-    },
-    {
-      "title": "Strategy Analyst Intern: Data-Driven Growth & Partnerships",
-      "company": "Course Bhai",
-      "location": "New York, NY",
-      "score": 8.9,
-      "url": "https://jooble.org/jdp/-5509570468845437123"
-    },
-    {
-      "title": "2026 Strategy & Operations Analyst Intern - West & Postmates, US",
-      "company": "Uber",
-      "location": "Pico Heights, Los Angeles County",
-      "score": 8.8,
-      "url": "https://www.adzuna.com/land/ad/5690882967?se=BLSYfnky8RG_ub7N08qpsw&utm_medium=api&utm_source=2e4857a8&v=A6EBA3263D9525D13C1CA2DEF53910E59988EFF5"
-    },
-    {
-      "title": "Agile Project manager /Scrum Master",
-      "company": "Nava Software Solutions",
-      "location": "Nashville, TN",
-      "score": 8.7,
-      "url": "https://jooble.org/jdp/-4183521754892107868"
-    }
-  ]
+  "topJobs": []
 }
