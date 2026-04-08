@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-08T06:05:41.409Z",
-  "generatedAtET": "4/8/2026, 2:05:41 AM",
+  "generatedAt": "2026-04-08T07:05:41.453Z",
+  "generatedAtET": "4/8/2026, 3:05:41 AM",
   "pipeline": {
-    "jobsScanned": 150,
-    "eligible": 65,
-    "score7plus": 55,
+    "jobsScanned": 130,
+    "eligible": 88,
+    "score7plus": 82,
     "approved": 1,
     "applications": 29,
     "interviews": 3,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0091,
-    "totalCalls": 1013,
-    "lastUpdated": "2026-04-08T06:05:36.059Z"
+    "totalCalls": 1038,
+    "lastUpdated": "2026-04-08T06:14:21.422Z"
   },
   "recentNews": {
     "visa": "• Stay Legally in the U.S. After Missing H-1B Lottery\n• United States Offers Eight Powerful Visa Alternatives for Those Who Missed the H‑1B Lottery\n• Commentary: New $100k Fee and Wage-Weighted H-1B Lottery Could Sideline U.S. Start-Ups\n• Minimum Salary Changes Announced\n• US Soldier's Wife Freed Fr",
@@ -33,36 +33,36 @@
       "title": "Project Manager US Field Medical Capabilities",
       "company": "TSR Consulting",
       "location": "Princeton Junction, NJ",
-      "score": 8.3,
+      "score": 7.5,
       "url": "https://jooble.org/jdp/6688852167473575934"
+    },
+    {
+      "title": "Project Manager - Medical Affairs",
+      "company": "Eclaro",
+      "location": "Lawrence, NJ",
+      "score": 8.1,
+      "url": "https://jooble.org/jdp/1525470203237407051"
     },
     {
       "title": "Project Manager Intern",
       "company": "Strategic Technology",
       "location": "Puerto Rico",
-      "score": 7.6,
+      "score": 8.5,
       "url": "https://jooble.org/jdp/8768566432527887850"
     },
     {
-      "title": "Project Coordinator",
-      "company": "Aecon Group Inc.",
-      "location": "Taylor, TX",
-      "score": 8.3,
-      "url": "https://jooble.org/jdp/-3468520001283294999"
-    },
-    {
-      "title": "STARZ Intern, Project Management Office - Project Manager",
-      "company": "Starz",
-      "location": "Denver, CO",
-      "score": 9.3,
-      "url": "https://jooble.org/jdp/-1022778823458223356"
-    },
-    {
-      "title": "Associate Project Manager Intern",
-      "company": "Quanta Services",
-      "location": "Hubbard, OR",
+      "title": "Project Manager - Aviation",
+      "company": "F.H. Paschen",
+      "location": "Chicago, IL",
       "score": 7.6,
-      "url": "https://jooble.org/jdp/-7738244754909794772"
+      "url": "https://jooble.org/jdp/-5136035948245662765"
+    },
+    {
+      "title": "CQV Project Manager",
+      "company": "PSC Biotech",
+      "location": "Chicago, IL",
+      "score": 7.8,
+      "url": "https://jooble.org/jdp/-5671234539624373467"
     }
   ]
 }
