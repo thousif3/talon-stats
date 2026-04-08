@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-08T05:05:41.400Z",
-  "generatedAtET": "4/8/2026, 1:05:41 AM",
+  "generatedAt": "2026-04-08T06:05:41.409Z",
+  "generatedAtET": "4/8/2026, 2:05:41 AM",
   "pipeline": {
-    "jobsScanned": 854,
-    "eligible": 0,
-    "score7plus": 0,
+    "jobsScanned": 150,
+    "eligible": 65,
+    "score7plus": 55,
     "approved": 1,
     "applications": 29,
     "interviews": 3,
@@ -20,13 +20,49 @@
   },
   "aiCosts": {
     "totalSpent": 0.0091,
-    "totalCalls": 751,
-    "lastUpdated": "2026-04-08T05:04:44.575Z"
+    "totalCalls": 1013,
+    "lastUpdated": "2026-04-08T06:05:36.059Z"
   },
   "recentNews": {
     "visa": "• Stay Legally in the U.S. After Missing H-1B Lottery\n• United States Offers Eight Powerful Visa Alternatives for Those Who Missed the H‑1B Lottery\n• Commentary: New $100k Fee and Wage-Weighted H-1B Lottery Could Sideline U.S. Start-Ups\n• Minimum Salary Changes Announced\n• US Soldier's Wife Freed Fr",
     "tech": "• US Tech Sector Lost Jobs in March, AI Enters Layoff Calculations\n• Tech layoffs 2026: Over 71,000 jobs gone as companies double down on AI\n• Ukraine's attack drone fleet faces a mini jet engine supply crunch\n• Best AI Stocks to Buy in 2026 and How to Invest in Them\n• Beep App Launches Its Career-F",
     "breaking": "• Valeo - Voting rights - March 2026\n• Gold price today: Yellow metal slips; check 24K, 22K city-wise rates in Delhi, Mumbai, Pune and more - The Times of India\n• New Airseekers Tron SE mulching robot mower launches with discount\n• Optimus Technologies and Sunoil Biodiesel Partner to Bring B100 to H"
   },
-  "topJobs": []
+  "topJobs": [
+    {
+      "title": "Project Manager US Field Medical Capabilities",
+      "company": "TSR Consulting",
+      "location": "Princeton Junction, NJ",
+      "score": 8.3,
+      "url": "https://jooble.org/jdp/6688852167473575934"
+    },
+    {
+      "title": "Project Manager Intern",
+      "company": "Strategic Technology",
+      "location": "Puerto Rico",
+      "score": 7.6,
+      "url": "https://jooble.org/jdp/8768566432527887850"
+    },
+    {
+      "title": "Project Coordinator",
+      "company": "Aecon Group Inc.",
+      "location": "Taylor, TX",
+      "score": 8.3,
+      "url": "https://jooble.org/jdp/-3468520001283294999"
+    },
+    {
+      "title": "STARZ Intern, Project Management Office - Project Manager",
+      "company": "Starz",
+      "location": "Denver, CO",
+      "score": 9.3,
+      "url": "https://jooble.org/jdp/-1022778823458223356"
+    },
+    {
+      "title": "Associate Project Manager Intern",
+      "company": "Quanta Services",
+      "location": "Hubbard, OR",
+      "score": 7.6,
+      "url": "https://jooble.org/jdp/-7738244754909794772"
+    }
+  ]
 }
