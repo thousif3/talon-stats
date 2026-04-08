@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-08T21:05:38.101Z",
-  "generatedAtET": "4/8/2026, 5:05:38 PM",
+  "generatedAt": "2026-04-08T23:05:04.323Z",
+  "generatedAtET": "4/8/2026, 7:05:04 PM",
   "pipeline": {
     "jobsScanned": 846,
     "eligible": 409,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0091,
-    "totalCalls": 1961,
-    "lastUpdated": "2026-04-08T19:48:16.054Z"
+    "totalCalls": 2150,
+    "lastUpdated": "2026-04-08T22:18:03.686Z"
   },
   "recentNews": {
     "visa": "### **H-1B Lottery & Strategic Shifts**\n* **[URGENT]** FY 2027 H-1B lottery concluded; non-selected students should immediately pivot to O-1, L-1, or cap-exempt alternatives.\n* New weighted selection processes and rising USCIS fees are pricing smaller employers out of the H-1B market.\n* Tighter enfo",
