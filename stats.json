@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-04-09T20:05:20.510Z",
-  "generatedAtET": "4/9/2026, 4:05:20 PM",
+  "generatedAt": "2026-04-09T21:05:20.540Z",
+  "generatedAtET": "4/9/2026, 5:05:20 PM",
   "pipeline": {
     "jobsScanned": 908,
     "eligible": 468,
     "score7plus": 383,
-    "approved": 2,
+    "approved": 5,
     "applications": 29,
     "interviews": 3,
     "rejections": 9,
@@ -19,9 +19,9 @@
     "newsGenerated": "2026-04-09T19:39:13.223Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0091,
-    "totalCalls": 3140,
-    "lastUpdated": "2026-04-09T20:00:39.323Z"
+    "totalSpent": 0.0124,
+    "totalCalls": 3177,
+    "lastUpdated": "2026-04-09T20:46:01.815Z"
   },
   "recentNews": {
     "visa": "**H-1B & Employment Pathways**\n* FY 2027 H-1B lottery concluded; explore O-1, L-1, or Cap-exempt H-1B if not selected.\n* Day 1 CPT and O-1 visas are top alternatives for students needing to maintain work authorization.\n* Policy crackdowns are prompting skilled foreign workers to evaluate career opti",
