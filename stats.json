@@ -1,68 +1,32 @@
 {
-  "generatedAt": "2026-04-09T21:05:20.540Z",
-  "generatedAtET": "4/9/2026, 5:05:20 PM",
+  "generatedAt": "2026-04-10T05:05:04.068Z",
+  "generatedAtET": "4/10/2026, 1:05:04 AM",
   "pipeline": {
-    "jobsScanned": 908,
-    "eligible": 468,
-    "score7plus": 383,
+    "jobsScanned": 886,
+    "eligible": 0,
+    "score7plus": 0,
     "approved": 5,
-    "applications": 29,
-    "interviews": 3,
-    "rejections": 9,
-    "recruiters": 1,
-    "crmTracked": 26
+    "applications": 0,
+    "interviews": 0,
+    "rejections": 0,
+    "recruiters": 0,
+    "crmTracked": 29
   },
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-09T19:39:25.508Z",
-    "newsGenerated": "2026-04-09T19:39:13.223Z"
+    "gmailParsed": "2026-04-10T04:16:01.184Z",
+    "newsGenerated": "2026-04-10T04:15:58.600Z"
   },
   "aiCosts": {
     "totalSpent": 0.0124,
-    "totalCalls": 3177,
-    "lastUpdated": "2026-04-09T20:46:01.815Z"
+    "totalCalls": 4289,
+    "lastUpdated": "2026-04-10T04:15:58.594Z"
   },
   "recentNews": {
-    "visa": "**H-1B & Employment Pathways**\n* FY 2027 H-1B lottery concluded; explore O-1, L-1, or Cap-exempt H-1B if not selected.\n* Day 1 CPT and O-1 visas are top alternatives for students needing to maintain work authorization.\n* Policy crackdowns are prompting skilled foreign workers to evaluate career opti",
-    "tech": "**The AI-Driven Labor Shift**\n* 80,000 tech layoffs recorded in early 2026; AI's direct causality remains a point of industry debate.\n* Experts warn AI-related job losses may cause permanent career scarring and prolonged unemployment for displaced workers.\n\n**Enterprise AI & Infrastructure**\n* Oracl",
-    "breaking": "**FINANCE & MARKETS**\n* Bernstein names HomeFirst and Aadhar Housing Finance top picks as affordable housing stocks reach inflection points.\n* Gold prices fell sharply on April 9; 22K and 24K rates hit key support levels across India.\n\n**HEALTHCARE & PHARMA**\n* Semaglutide generics in India threaten"
+    "visa": "**H-1B & USCIS UPDATES**\n* **FY 202",
+    "tech": "**Labor Market Volatility**\n* 80,000 tech layoffs recorded in early",
+    "breaking": "### Economy & Real Estate\n* **Mortgage Relief:** Freddie Mac reports 3"
   },
-  "topJobs": [
-    {
-      "title": "Intern - Project Manager - Summer 2026",
-      "company": "Acxiom",
-      "location": "International, King County",
-      "score": 10,
-      "url": "https://www.adzuna.com/land/ad/5694205206?se=6tS0vQs08RGTlIBmrr8xIg&utm_medium=api&utm_source=2e4857a8&v=33F4B330C185A6A2C148E274083EB668F77F2B6E"
-    },
-    {
-      "title": "Intern - Project Manager - Summer 2026",
-      "company": "Acxiom",
-      "location": "Tumwater, Thurston County",
-      "score": 9.3,
-      "url": "https://www.adzuna.com/land/ad/5694205193?se=6tS0vQs08RGTlIBmrr8xIg&utm_medium=api&utm_source=2e4857a8&v=8F0B093F02C6BCF89E7C08EBF040526F5D645CCF"
-    },
-    {
-      "title": "Intern - Project Manager - Summer 2026",
-      "company": "Acxiom",
-      "location": "Madison, Dane County",
-      "score": 9.3,
-      "url": "https://www.adzuna.com/land/ad/5694204943?se=6tS0vQs08RGTlIBmrr8xIg&utm_medium=api&utm_source=2e4857a8&v=0021EB21F983BF60D467916EE841EF989B8B37E3"
-    },
-    {
-      "title": "Intern - Project Manager - Summer 2026",
-      "company": "Acxiom",
-      "location": "Bonnie, Utah County",
-      "score": 10,
-      "url": "https://www.adzuna.com/land/ad/5694191605?se=6tS0vQs08RGTlIBmrr8xIg&utm_medium=api&utm_source=2e4857a8&v=FC7868C0C5C44C5842104AA190D7D37E40C5F75C"
-    },
-    {
-      "title": "Intern - Project Manager - Summer 2026",
-      "company": "Acxiom",
-      "location": "Montpelier, Washington County",
-      "score": 9.5,
-      "url": "https://www.adzuna.com/land/ad/5694116318?se=6tS0vQs08RGTlIBmrr8xIg&utm_medium=api&utm_source=2e4857a8&v=51791915A452DAE36F3C0ABC91780DECCADA1560"
-    }
-  ]
+  "topJobs": []
 }
