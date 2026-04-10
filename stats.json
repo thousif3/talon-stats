@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-10T11:05:04.376Z",
-  "generatedAtET": "4/10/2026, 7:05:04 AM",
+  "generatedAt": "2026-04-10T16:05:12.534Z",
+  "generatedAtET": "4/10/2026, 12:05:12 PM",
   "pipeline": {
-    "jobsScanned": 886,
+    "jobsScanned": 940,
     "eligible": 0,
     "score7plus": 0,
     "approved": 5,
@@ -15,18 +15,18 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-10T04:16:01.184Z",
-    "newsGenerated": "2026-04-10T04:15:58.600Z"
+    "gmailParsed": "2026-04-10T15:46:09.461Z",
+    "newsGenerated": "2026-04-10T15:46:07.024Z"
   },
   "aiCosts": {
     "totalSpent": 0.0124,
-    "totalCalls": 4289,
-    "lastUpdated": "2026-04-10T04:15:58.594Z"
+    "totalCalls": 5236,
+    "lastUpdated": "2026-04-10T15:46:07.019Z"
   },
   "recentNews": {
-    "visa": "**H-1B & USCIS UPDATES**\n* **FY 202",
-    "tech": "**Labor Market Volatility**\n* 80,000 tech layoffs recorded in early",
-    "breaking": "### Economy & Real Estate\n* **Mortgage Relief:** Freddie Mac reports 3"
+    "visa": "**H-1B & Employment-Based Policy**\n* **🚨",
+    "tech": "### **Labor Market & Hiring Realities**\n* Tech layoffs at mid-to-large firms",
+    "breaking": "Chhattisgarh accident)\n\n    *   *Geopolitics:*\n        *   JD"
   },
   "topJobs": []
 }
