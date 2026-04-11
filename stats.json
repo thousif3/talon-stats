@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-10T23:05:12.885Z",
-  "generatedAtET": "4/10/2026, 7:05:12 PM",
+  "generatedAt": "2026-04-11T04:05:16.304Z",
+  "generatedAtET": "4/11/2026, 12:05:16 AM",
   "pipeline": {
-    "jobsScanned": 940,
+    "jobsScanned": 935,
     "eligible": 0,
     "score7plus": 0,
     "approved": 5,
@@ -15,18 +15,18 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-10T15:46:09.461Z",
-    "newsGenerated": "2026-04-10T15:46:07.024Z"
+    "gmailParsed": "2026-04-11T03:50:08.463Z",
+    "newsGenerated": "2026-04-11T03:50:01.044Z"
   },
   "aiCosts": {
     "totalSpent": 0.0124,
-    "totalCalls": 5236,
-    "lastUpdated": "2026-04-10T15:46:07.019Z"
+    "totalCalls": 6178,
+    "lastUpdated": "2026-04-11T03:50:01.039Z"
   },
   "recentNews": {
-    "visa": "**H-1B & Employment-Based Policy**\n* **🚨",
-    "tech": "### **Labor Market & Hiring Realities**\n* Tech layoffs at mid-to-large firms",
-    "breaking": "Chhattisgarh accident)\n\n    *   *Geopolitics:*\n        *   JD"
+    "visa": "20 words? Yes.\n    *   No fluff/intro",
+    "tech": "### **Market Volatility & Layoffs**\n* Tech layoffs at midsize and large firms projected",
+    "breaking": "**GEOPOLITICS & CONFLICT**\n* Trump warns of military action against"
   },
   "topJobs": []
 }
