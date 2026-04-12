@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-12T11:05:19.565Z",
-  "generatedAtET": "4/12/2026, 7:05:19 AM",
+  "generatedAt": "2026-04-12T16:05:42.185Z",
+  "generatedAtET": "4/12/2026, 12:05:42 PM",
   "pipeline": {
-    "jobsScanned": 953,
+    "jobsScanned": 925,
     "eligible": 0,
     "score7plus": 0,
     "approved": 5,
@@ -15,18 +15,18 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-12T03:47:16.447Z",
-    "newsGenerated": "2026-04-12T03:47:14.104Z"
+    "gmailParsed": "2026-04-12T15:40:34.397Z",
+    "newsGenerated": "2026-04-12T15:40:32.005Z"
   },
   "aiCosts": {
     "totalSpent": 0.0124,
-    "totalCalls": 8070,
-    "lastUpdated": "2026-04-12T03:47:14.099Z"
+    "totalCalls": 8999,
+    "lastUpdated": "2026-04-12T15:40:32.000Z"
   },
   "recentNews": {
-    "visa": "**F-1 Visa Barriers & Academic Access**\n* **URGENT:** F-1",
-    "tech": "### **AI-Driven Workforce Restructuring**\n* Silicon Valley firms are increasingly citing AI",
-    "breaking": "### Geopolitics & Global Security\n* Trump claims Strait of Hormuz will reopen soon; asserts"
+    "visa": "### **Visa Processing & Rejections**\n*   **URGENT:** F-",
+    "tech": "### **AI-Driven Job Market Volatility & Skill Shifts**\n* AI-driven",
+    "breaking": "**GEOPOLITICS & GLOBAL CONFLICT**\n* Russia strikes Odesa ahead"
   },
   "topJobs": []
 }
