@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-11T23:05:37.500Z",
-  "generatedAtET": "4/11/2026, 7:05:37 PM",
+  "generatedAt": "2026-04-12T04:05:19.175Z",
+  "generatedAtET": "4/12/2026, 12:05:19 AM",
   "pipeline": {
-    "jobsScanned": 928,
+    "jobsScanned": 953,
     "eligible": 0,
     "score7plus": 0,
     "approved": 5,
@@ -15,18 +15,18 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-11T15:40:34.150Z",
-    "newsGenerated": "2026-04-11T15:40:31.772Z"
+    "gmailParsed": "2026-04-12T03:47:16.447Z",
+    "newsGenerated": "2026-04-12T03:47:14.104Z"
   },
   "aiCosts": {
     "totalSpent": 0.0124,
-    "totalCalls": 7111,
-    "lastUpdated": "2026-04-11T15:40:31.766Z"
+    "totalCalls": 8070,
+    "lastUpdated": "2026-04-12T03:47:14.099Z"
   },
   "recentNews": {
-    "visa": "### **H-1B & Employment Pathways**\n*   **FY 2027",
-    "tech": "### **The Tech Labor Crunch & AI Pivot**\n* 71,447",
-    "breaking": "**Geopolitics & Global Security**\n* US and Iran begin high-stakes talks"
+    "visa": "**F-1 Visa Barriers & Academic Access**\n* **URGENT:** F-1",
+    "tech": "### **AI-Driven Workforce Restructuring**\n* Silicon Valley firms are increasingly citing AI",
+    "breaking": "### Geopolitics & Global Security\n* Trump claims Strait of Hormuz will reopen soon; asserts"
   },
   "topJobs": []
 }
