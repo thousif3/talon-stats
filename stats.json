@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-12T23:05:42.567Z",
-  "generatedAtET": "4/12/2026, 7:05:42 PM",
+  "generatedAt": "2026-04-13T04:05:21.744Z",
+  "generatedAtET": "4/13/2026, 12:05:21 AM",
   "pipeline": {
-    "jobsScanned": 925,
+    "jobsScanned": 921,
     "eligible": 0,
     "score7plus": 0,
     "approved": 5,
@@ -15,18 +15,18 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-12T15:40:34.397Z",
-    "newsGenerated": "2026-04-12T15:40:32.005Z"
+    "gmailParsed": "2026-04-13T04:01:18.661Z",
+    "newsGenerated": "2026-04-13T04:01:11.271Z"
   },
   "aiCosts": {
     "totalSpent": 0.0124,
-    "totalCalls": 8999,
-    "lastUpdated": "2026-04-12T15:40:32.000Z"
+    "totalCalls": 9927,
+    "lastUpdated": "2026-04-13T04:01:11.266Z"
   },
   "recentNews": {
-    "visa": "### **Visa Processing & Rejections**\n*   **URGENT:** F-",
-    "tech": "### **AI-Driven Job Market Volatility & Skill Shifts**\n* AI-driven",
-    "breaking": "**GEOPOLITICS & GLOBAL CONFLICT**\n* Russia strikes Odesa ahead"
+    "visa": "**H-1B & Employment Pathways**\n    *   H-1B lottery concluded;",
+    "tech": "### **The Entry-Level Crisis**\n* **Worst market since 19",
+    "breaking": "### **Geopolitics & Energy Resilience**\n* China’s green industrial complex provides"
   },
   "topJobs": []
 }
