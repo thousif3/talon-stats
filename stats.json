@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-04-13T23:05:45.237Z",
-  "generatedAtET": "4/13/2026, 7:05:45 PM",
+  "generatedAt": "2026-04-14T05:05:05.371Z",
+  "generatedAtET": "4/14/2026, 1:05:05 AM",
   "pipeline": {
-    "jobsScanned": 889,
+    "jobsScanned": 940,
     "eligible": 0,
     "score7plus": 0,
     "approved": 5,
-    "applications": 0,
-    "interviews": 0,
-    "rejections": 0,
-    "recruiters": 0,
+    "applications": 28,
+    "interviews": 3,
+    "rejections": 8,
+    "recruiters": 1,
     "crmTracked": 29
   },
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-13T15:31:36.763Z",
-    "newsGenerated": "2026-04-13T15:31:34.354Z"
+    "gmailParsed": "2026-04-14T04:10:33.131Z",
+    "newsGenerated": "2026-04-14T04:10:23.933Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0124,
-    "totalCalls": 10823,
-    "lastUpdated": "2026-04-13T15:31:34.349Z"
+    "totalSpent": 0.0137,
+    "totalCalls": 11909,
+    "lastUpdated": "2026-04-14T04:44:01.174Z"
   },
   "recentNews": {
-    "visa": "Judicial Purge:* Immigration judges face pressure to accelerate deportations or risk removal",
-    "tech": "Trend 2: AI-Driven Layoffs*\n        *   Indian startups cut 1,",
-    "breaking": "### **Finance & Business**\n* **Anand Rathi Wealth** targets 29%"
+    "visa": "**Visa Processing & Rejection Rates**\n*   **URGENT:** F-1 student",
+    "tech": "### **AI & The Entry-Level Crisis**\n* **Hiring Slowdown:** AI is",
+    "breaking": "Could not fetch breaking news."
   },
   "topJobs": []
 }
