@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-14T11:05:05.681Z",
-  "generatedAtET": "4/14/2026, 7:05:05 AM",
+  "generatedAt": "2026-04-14T17:05:24.754Z",
+  "generatedAtET": "4/14/2026, 1:05:24 PM",
   "pipeline": {
-    "jobsScanned": 940,
+    "jobsScanned": 898,
     "eligible": 0,
     "score7plus": 0,
     "approved": 5,
@@ -15,18 +15,18 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-14T04:10:33.131Z",
-    "newsGenerated": "2026-04-14T04:10:23.933Z"
+    "gmailParsed": "2026-04-14T15:47:41.138Z",
+    "newsGenerated": "2026-04-14T15:47:32.012Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0137,
-    "totalCalls": 11909,
-    "lastUpdated": "2026-04-14T04:44:01.174Z"
+    "totalSpent": 0.0147,
+    "totalCalls": 12854,
+    "lastUpdated": "2026-04-14T16:19:20.871Z"
   },
   "recentNews": {
-    "visa": "**Visa Processing & Rejection Rates**\n*   **URGENT:** F-1 student",
-    "tech": "### **AI & The Entry-Level Crisis**\n* **Hiring Slowdown:** AI is",
-    "breaking": "Could not fetch breaking news."
+    "visa": "### **H-1B & Employment Outlook**\n* **FY 2027 Lottery",
+    "tech": "### **The State of Tech Employment & AI**\n\n**Macro Trend: Aggressive Workforce",
+    "breaking": "**Business & Infrastructure**\n* ArisInfra Solutions signed an ₹8"
   },
   "topJobs": []
 }
