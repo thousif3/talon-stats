@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-15T22:05:39.476Z",
-  "generatedAtET": "4/15/2026, 6:05:39 PM",
+  "generatedAt": "2026-04-15T23:05:39.515Z",
+  "generatedAtET": "4/15/2026, 7:05:39 PM",
   "pipeline": {
-    "jobsScanned": 10,
-    "eligible": 5,
-    "score7plus": 5,
+    "jobsScanned": 180,
+    "eligible": 84,
+    "score7plus": 84,
     "approved": 5,
     "applications": 28,
     "interviews": 3,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0173,
-    "totalCalls": 14761,
-    "lastUpdated": "2026-04-15T22:05:38.365Z"
+    "totalCalls": 14928,
+    "lastUpdated": "2026-04-15T23:05:22.898Z"
   },
   "recentNews": {
     "visa": "### **Visa Processing & Approval Trends**\n*   🚨 **URGENT:** U.S",
