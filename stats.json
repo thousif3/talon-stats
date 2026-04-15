@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-15T21:05:39.480Z",
-  "generatedAtET": "4/15/2026, 5:05:39 PM",
+  "generatedAt": "2026-04-15T22:05:39.476Z",
+  "generatedAtET": "4/15/2026, 6:05:39 PM",
   "pipeline": {
-    "jobsScanned": 905,
-    "eligible": 0,
-    "score7plus": 0,
+    "jobsScanned": 10,
+    "eligible": 5,
+    "score7plus": 5,
     "approved": 5,
     "applications": 28,
     "interviews": 3,
@@ -20,13 +20,49 @@
   },
   "aiCosts": {
     "totalSpent": 0.0173,
-    "totalCalls": 14745,
-    "lastUpdated": "2026-04-15T16:37:35.415Z"
+    "totalCalls": 14761,
+    "lastUpdated": "2026-04-15T22:05:38.365Z"
   },
   "recentNews": {
     "visa": "### **Visa Processing & Approval Trends**\n*   🚨 **URGENT:** U.S",
     "tech": "### **Tech Labor Market & Layoffs**\n* Tech layoffs projected to continue through",
     "breaking": "### **Geopolitics & Finance**\n* **Rupee Rebound:** Indian"
   },
-  "topJobs": []
+  "topJobs": [
+    {
+      "title": "Summer Project Coordinator Intern - Software Services",
+      "company": "IMT Insurance",
+      "location": "West Des Moines, IA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-8160276352230148794"
+    },
+    {
+      "title": "Summer Associate Project Manager Intern — Paid and Growth",
+      "company": "Quanta Services, Inc.",
+      "location": "Sumner, WA",
+      "score": 9.3,
+      "url": "https://jooble.org/jdp/-6451215389171742821"
+    },
+    {
+      "title": "Summer Project Coordinator Intern - Data & Procurement",
+      "company": "apexanalytix",
+      "location": "Greensboro, NC",
+      "score": 10,
+      "url": "https://jooble.org/jdp/4575278494670537681"
+    },
+    {
+      "title": "Summer Assistant Project Manager Intern - Relocation",
+      "company": "Interstates Companies",
+      "location": "Tulsa, OK",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-5895857954798279330"
+    },
+    {
+      "title": "Summer Assistant Project Manager Intern - Relocation",
+      "company": "Interstates Companies",
+      "location": "Houston, TX",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-8429705881688720186"
+    }
+  ]
 }
