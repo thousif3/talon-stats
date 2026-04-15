@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-04-15T11:05:17.419Z",
-  "generatedAtET": "4/15/2026, 7:05:17 AM",
+  "generatedAt": "2026-04-15T17:05:39.322Z",
+  "generatedAtET": "4/15/2026, 1:05:39 PM",
   "pipeline": {
-    "jobsScanned": 893,
+    "jobsScanned": 905,
     "eligible": 0,
     "score7plus": 0,
     "approved": 5,
@@ -15,18 +15,18 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-15T03:32:36.380Z",
-    "newsGenerated": "2026-04-15T03:32:22.406Z"
+    "gmailParsed": "2026-04-15T15:38:06.615Z",
+    "newsGenerated": "2026-04-15T15:37:57.429Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0147,
-    "totalCalls": 13794,
-    "lastUpdated": "2026-04-15T03:50:07.877Z"
+    "totalSpent": 0.0173,
+    "totalCalls": 14745,
+    "lastUpdated": "2026-04-15T16:37:35.415Z"
   },
   "recentNews": {
-    "visa": "**VISA ADMISSIONS & REFUSALS**\n*   **🚨 URGENT:** F-",
-    "tech": "20 words? Yes.\n    *   High signal? Yes",
-    "breaking": "*   *Finance & Venture Capital*\n    *   Iceland issued additional RIKB"
+    "visa": "### **Visa Processing & Approval Trends**\n*   🚨 **URGENT:** U.S",
+    "tech": "### **Tech Labor Market & Layoffs**\n* Tech layoffs projected to continue through",
+    "breaking": "### **Geopolitics & Finance**\n* **Rupee Rebound:** Indian"
   },
   "topJobs": []
 }
