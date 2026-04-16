@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-15T23:05:39.515Z",
-  "generatedAtET": "4/15/2026, 7:05:39 PM",
+  "generatedAt": "2026-04-16T06:05:56.718Z",
+  "generatedAtET": "4/16/2026, 2:05:56 AM",
   "pipeline": {
-    "jobsScanned": 180,
-    "eligible": 84,
-    "score7plus": 84,
+    "jobsScanned": 807,
+    "eligible": 263,
+    "score7plus": 263,
     "approved": 5,
-    "applications": 28,
+    "applications": 29,
     "interviews": 3,
     "rejections": 8,
     "recruiters": 1,
@@ -15,54 +15,54 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-15T15:38:06.615Z",
-    "newsGenerated": "2026-04-15T15:37:57.429Z"
+    "gmailParsed": "2026-04-16T04:53:14.478Z",
+    "newsGenerated": "2026-04-16T04:53:00.413Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0173,
-    "totalCalls": 14928,
-    "lastUpdated": "2026-04-15T23:05:22.898Z"
+    "totalSpent": 0.0003,
+    "totalCalls": 1304,
+    "lastUpdated": "2026-04-16T05:31:42.568Z"
   },
   "recentNews": {
-    "visa": "### **Visa Processing & Approval Trends**\n*   🚨 **URGENT:** U.S",
-    "tech": "### **Tech Labor Market & Layoffs**\n* Tech layoffs projected to continue through",
-    "breaking": "### **Geopolitics & Finance**\n* **Rupee Rebound:** Indian"
+    "visa": "**Visa Processing & Rejections**\n*   **URGENT:**",
+    "tech": "### **AI-Driven Workforce Restructuring**\n* Major tech firms are explicitly blaming AI adoption for",
+    "breaking": "**Global Markets & Finance**\n* Wall Street nears record highs as investors bet on"
   },
   "topJobs": [
     {
-      "title": "Summer Project Coordinator Intern - Software Services",
-      "company": "IMT Insurance",
-      "location": "West Des Moines, IA",
+      "title": "Project Management Intern - Vehicle Motion Manufacturing",
+      "company": "Bosch Group",
+      "location": "Plymouth, Wayne County",
       "score": 10,
-      "url": "https://jooble.org/jdp/-8160276352230148794"
+      "url": "https://www.adzuna.com/details/5700359056?utm_medium=api&utm_source=2e4857a8"
     },
     {
-      "title": "Summer Associate Project Manager Intern — Paid and Growth",
-      "company": "Quanta Services, Inc.",
-      "location": "Sumner, WA",
+      "title": "Project Manager Intern",
+      "company": "BlueScope",
+      "location": "Kansas City, Jackson County",
+      "score": 10,
+      "url": "https://www.adzuna.com/details/5700002927?utm_medium=api&utm_source=2e4857a8"
+    },
+    {
+      "title": "Project Management/Sales Intern - Honda Driver Assistance",
+      "company": "Bosch Group",
+      "location": "Plymouth, Wayne County",
+      "score": 10,
+      "url": "https://www.adzuna.com/details/5699858688?utm_medium=api&utm_source=2e4857a8"
+    },
+    {
+      "title": "Project Management Intern (Summer 2026)",
+      "company": "Parsons",
+      "location": "US",
       "score": 9.3,
-      "url": "https://jooble.org/jdp/-6451215389171742821"
+      "url": "https://www.adzuna.com/details/5699658049?utm_medium=api&utm_source=2e4857a8"
     },
     {
-      "title": "Summer Project Coordinator Intern - Data & Procurement",
-      "company": "apexanalytix",
-      "location": "Greensboro, NC",
+      "title": "Program Manager",
+      "company": "Abbott",
+      "location": "Grandview Heights, Franklin County",
       "score": 10,
-      "url": "https://jooble.org/jdp/4575278494670537681"
-    },
-    {
-      "title": "Summer Assistant Project Manager Intern - Relocation",
-      "company": "Interstates Companies",
-      "location": "Tulsa, OK",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-5895857954798279330"
-    },
-    {
-      "title": "Summer Assistant Project Manager Intern - Relocation",
-      "company": "Interstates Companies",
-      "location": "Houston, TX",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-8429705881688720186"
+      "url": "https://www.adzuna.com/land/ad/5699610290?se=IgJYTic58RGyK70cOvv1NQ&utm_medium=api&utm_source=2e4857a8&v=2023E86EC510AE548135158093553A38090A3A2A"
     }
   ]
 }
