@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-16T11:05:56.937Z",
-  "generatedAtET": "4/16/2026, 7:05:56 AM",
+  "generatedAt": "2026-04-16T20:05:16.754Z",
+  "generatedAtET": "4/16/2026, 4:05:16 PM",
   "pipeline": {
-    "jobsScanned": 807,
-    "eligible": 263,
-    "score7plus": 263,
+    "jobsScanned": 888,
+    "eligible": 321,
+    "score7plus": 321,
     "approved": 5,
     "applications": 29,
     "interviews": 3,
@@ -15,20 +15,41 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-16T04:53:14.478Z",
-    "newsGenerated": "2026-04-16T04:53:00.413Z"
+    "gmailParsed": "2026-04-16T16:26:49.341Z",
+    "newsGenerated": "2026-04-16T16:26:34.922Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0003,
-    "totalCalls": 1304,
-    "lastUpdated": "2026-04-16T05:31:42.568Z"
+    "totalSpent": 0.0102,
+    "totalCalls": 2248,
+    "lastUpdated": "2026-04-16T19:58:02.432Z"
   },
   "recentNews": {
-    "visa": "**Visa Processing & Rejections**\n*   **URGENT:**",
-    "tech": "### **AI-Driven Workforce Restructuring**\n* Major tech firms are explicitly blaming AI adoption for",
-    "breaking": "**Global Markets & Finance**\n* Wall Street nears record highs as investors bet on"
+    "visa": "• Recent policy shifts have narrowed margins for H-1B and F-1 holders, making long-term immigration planning",
+    "tech": "• AI, cybersecurity, and data analysis remain the most in-demand tech roles despite persistent talent shortages in 20",
+    "breaking": "• Iran threatens to block Gulf trade routes as the United States considers imposing tougher new sanctions against Tehran.\n•"
   },
   "topJobs": [
+    {
+      "title": "2026 Summer Intern - Technical Project/Program Manager",
+      "company": "Applied Materials",
+      "location": "Santa Clara, Santa Clara County",
+      "score": 10,
+      "url": "https://www.adzuna.com/details/5701180660?utm_medium=api&utm_source=2e4857a8"
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Leidos",
+      "location": "Reston, Fairfax County",
+      "score": 10,
+      "url": "https://www.adzuna.com/land/ad/5700968244?se=zGYc7os58RG0kLsBT_IAUA&utm_medium=api&utm_source=2e4857a8&v=55DE404FE7CDF207C2D3CCBB1545486FF4B5D012"
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Leidos",
+      "location": "Reston, Fairfax County",
+      "score": 10,
+      "url": "https://www.adzuna.com/details/5700742880?utm_medium=api&utm_source=2e4857a8"
+    },
     {
       "title": "Project Management Intern - Vehicle Motion Manufacturing",
       "company": "Bosch Group",
@@ -37,32 +58,11 @@
       "url": "https://www.adzuna.com/details/5700359056?utm_medium=api&utm_source=2e4857a8"
     },
     {
-      "title": "Project Manager Intern",
-      "company": "BlueScope",
-      "location": "Kansas City, Jackson County",
-      "score": 10,
-      "url": "https://www.adzuna.com/details/5700002927?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "Project Management/Sales Intern - Honda Driver Assistance",
-      "company": "Bosch Group",
-      "location": "Plymouth, Wayne County",
-      "score": 10,
-      "url": "https://www.adzuna.com/details/5699858688?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "Project Management Intern (Summer 2026)",
-      "company": "Parsons",
-      "location": "US",
-      "score": 9.3,
-      "url": "https://www.adzuna.com/details/5699658049?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "Program Manager",
-      "company": "Abbott",
-      "location": "Grandview Heights, Franklin County",
-      "score": 10,
-      "url": "https://www.adzuna.com/land/ad/5699610290?se=IgJYTic58RGyK70cOvv1NQ&utm_medium=api&utm_source=2e4857a8&v=2023E86EC510AE548135158093553A38090A3A2A"
+      "title": "Summer Project Coordinator Intern - Software Services",
+      "company": "IMT Insurance",
+      "location": "West Des Moines, IA",
+      "score": 9.6,
+      "url": "https://jooble.org/jdp/-8160276352230148794"
     }
   ]
 }
