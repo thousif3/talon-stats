@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-16T23:05:00.098Z",
-  "generatedAtET": "4/16/2026, 7:05:00 PM",
+  "generatedAt": "2026-04-17T06:05:23.335Z",
+  "generatedAtET": "4/17/2026, 2:05:23 AM",
   "pipeline": {
-    "jobsScanned": 888,
-    "eligible": 321,
-    "score7plus": 321,
+    "jobsScanned": 745,
+    "eligible": 236,
+    "score7plus": 236,
     "approved": 5,
     "applications": 29,
     "interviews": 3,
@@ -15,54 +15,54 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-16T16:26:49.341Z",
-    "newsGenerated": "2026-04-16T16:26:34.922Z"
+    "gmailParsed": "2026-04-17T01:58:28.259Z",
+    "newsGenerated": "2026-04-17T02:35:25.141Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0102,
-    "totalCalls": 2283,
-    "lastUpdated": "2026-04-16T22:01:59.453Z"
+    "totalSpent": 0.0214,
+    "totalCalls": 3106,
+    "lastUpdated": "2026-04-17T05:26:09.151Z"
   },
   "recentNews": {
-    "visa": "• Recent policy shifts have narrowed margins for H-1B and F-1 holders, making long-term immigration planning",
-    "tech": "• AI, cybersecurity, and data analysis remain the most in-demand tech roles despite persistent talent shortages in 20",
-    "breaking": "• Iran threatens to block Gulf trade routes as the United States considers imposing tougher new sanctions against Tehran.\n•"
+    "visa": "• Hyundai’s partnership with Cal State Long Beach offers STEM mentorship, potentially benefiting international students seeking career development and future OPT opportunities.\n\n• **URG",
+    "tech": "• Major tech firms like Disney and Oracle continue workforce reductions into 2026, signaling a sustained period of restructuring across the industry.\n\n• Current",
+    "breaking": "Could not fetch breaking news."
   },
   "topJobs": [
     {
-      "title": "2026 Summer Intern - Technical Project/Program Manager",
-      "company": "Applied Materials",
-      "location": "Santa Clara, Santa Clara County",
+      "title": "STARZ Intern, Project Management Office - Project Manager",
+      "company": "Starz",
+      "location": "Denver, CO",
       "score": 10,
-      "url": "https://www.adzuna.com/details/5701180660?utm_medium=api&utm_source=2e4857a8"
+      "url": "https://jooble.org/jdp/7780994586829843929"
     },
     {
-      "title": "Project Management Intern",
-      "company": "Leidos",
-      "location": "Reston, Fairfax County",
-      "score": 10,
-      "url": "https://www.adzuna.com/land/ad/5700968244?se=zGYc7os58RG0kLsBT_IAUA&utm_medium=api&utm_source=2e4857a8&v=55DE404FE7CDF207C2D3CCBB1545486FF4B5D012"
+      "title": "Project Manager Intern",
+      "company": "Strategic Technology",
+      "location": "Puerto Rico",
+      "score": 9.3,
+      "url": "https://jooble.org/jdp/8768566432527887850"
     },
     {
-      "title": "Project Management Intern",
-      "company": "Leidos",
-      "location": "Reston, Fairfax County",
+      "title": "Project Portfolio Data Analyst Intern",
+      "company": "Ensono",
+      "location": "Remote",
       "score": 10,
-      "url": "https://www.adzuna.com/details/5700742880?utm_medium=api&utm_source=2e4857a8"
+      "url": "https://jooble.org/jdp/2433180817978213026"
     },
     {
-      "title": "Project Management Intern - Vehicle Motion Manufacturing",
-      "company": "Bosch Group",
-      "location": "Plymouth, Wayne County",
+      "title": "State Street Custody and Complex Operations - Project Analyst Summer Internship",
+      "company": "State Street",
+      "location": "Quincy, MA",
       "score": 10,
-      "url": "https://www.adzuna.com/details/5700359056?utm_medium=api&utm_source=2e4857a8"
+      "url": "https://jooble.org/jdp/-2183119680652251075"
     },
     {
-      "title": "Summer Project Coordinator Intern - Software Services",
-      "company": "IMT Insurance",
-      "location": "West Des Moines, IA",
-      "score": 9.6,
-      "url": "https://jooble.org/jdp/-8160276352230148794"
+      "title": "IT Project Coordinator Intern - Corporate Headquarters",
+      "company": "BayCare Clinic",
+      "location": "Green Bay, WI",
+      "score": 10,
+      "url": "https://jooble.org/jdp/7209158128863117397"
     }
   ]
 }
