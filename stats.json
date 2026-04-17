@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-17T09:05:23.497Z",
-  "generatedAtET": "4/17/2026, 5:05:23 AM",
+  "generatedAt": "2026-04-17T10:05:23.552Z",
+  "generatedAtET": "4/17/2026, 6:05:23 AM",
   "pipeline": {
     "jobsScanned": 745,
     "eligible": 236,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0214,
-    "totalCalls": 3106,
-    "lastUpdated": "2026-04-17T05:26:09.151Z"
+    "totalCalls": 3124,
+    "lastUpdated": "2026-04-17T10:01:15.650Z"
   },
   "recentNews": {
     "visa": "• Hyundai’s partnership with Cal State Long Beach offers STEM mentorship, potentially benefiting international students seeking career development and future OPT opportunities.\n\n• **URG",
