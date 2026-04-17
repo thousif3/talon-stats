@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-17T11:05:23.592Z",
-  "generatedAtET": "4/17/2026, 7:05:23 AM",
+  "generatedAt": "2026-04-17T17:05:52.541Z",
+  "generatedAtET": "4/17/2026, 1:05:52 PM",
   "pipeline": {
-    "jobsScanned": 745,
-    "eligible": 236,
-    "score7plus": 236,
+    "jobsScanned": 848,
+    "eligible": 317,
+    "score7plus": 317,
     "approved": 5,
     "applications": 29,
     "interviews": 3,
@@ -15,54 +15,54 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-17T01:58:28.259Z",
-    "newsGenerated": "2026-04-17T02:35:25.141Z"
+    "gmailParsed": "2026-04-17T13:32:52.372Z",
+    "newsGenerated": "2026-04-17T13:32:43.239Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0214,
-    "totalCalls": 3124,
-    "lastUpdated": "2026-04-17T10:01:15.650Z"
+    "totalSpent": 0.0298,
+    "totalCalls": 4018,
+    "lastUpdated": "2026-04-17T16:53:38.050Z"
   },
   "recentNews": {
-    "visa": "• Hyundai’s partnership with Cal State Long Beach offers STEM mentorship, potentially benefiting international students seeking career development and future OPT opportunities.\n\n• **URG",
-    "tech": "• Major tech firms like Disney and Oracle continue workforce reductions into 2026, signaling a sustained period of restructuring across the industry.\n\n• Current",
-    "breaking": "Could not fetch breaking news."
+    "visa": "• Delays in OPT processing are reportedly causing significant career disruptions for Iranian students, highlighting ongoing administrative hurdles for international graduates.\n\n• Hyundai’s partnership",
+    "tech": "• UKG has laid off 950 employees as part of a restructuring effort, reflecting ongoing volatility within the enterprise software sector.\n• A new",
+    "breaking": "• Donald Trump indicated he might visit Pakistan to sign a finalized nuclear agreement with Iran as diplomatic negotiations continue between the involved nations.\n\n• OpenAI plans to"
   },
   "topJobs": [
     {
-      "title": "STARZ Intern, Project Management Office - Project Manager",
-      "company": "Starz",
-      "location": "Denver, CO",
+      "title": "Summer Project Coordinator Intern - Software Services",
+      "company": "IMT Insurance",
+      "location": "West Des Moines, IA",
       "score": 10,
-      "url": "https://jooble.org/jdp/7780994586829843929"
+      "url": "https://jooble.org/jdp/-8160276352230148794"
     },
     {
-      "title": "Project Manager Intern",
-      "company": "Strategic Technology",
-      "location": "Puerto Rico",
-      "score": 9.3,
-      "url": "https://jooble.org/jdp/8768566432527887850"
+      "title": "Summer Project Coordinator Intern - Data & Procurement",
+      "company": "apexanalytix",
+      "location": "Greensboro, NC",
+      "score": 10,
+      "url": "https://jooble.org/jdp/4575278494670537681"
     },
     {
-      "title": "Project Portfolio Data Analyst Intern",
-      "company": "Ensono",
-      "location": "Remote",
+      "title": "Summer Assistant Project Manager Intern - Relocation",
+      "company": "Interstates Companies",
+      "location": "Houston, TX",
       "score": 10,
-      "url": "https://jooble.org/jdp/2433180817978213026"
+      "url": "https://jooble.org/jdp/-8429705881688720186"
     },
     {
-      "title": "State Street Custody and Complex Operations - Project Analyst Summer Internship",
-      "company": "State Street",
-      "location": "Quincy, MA",
+      "title": "Summer PMO Project Manager Intern (Foxboro)",
+      "company": "Schneider Electric",
+      "location": "Oklahoma City, OK",
       "score": 10,
-      "url": "https://jooble.org/jdp/-2183119680652251075"
+      "url": "https://jooble.org/jdp/7314261320089645378"
     },
     {
-      "title": "IT Project Coordinator Intern - Corporate Headquarters",
-      "company": "BayCare Clinic",
-      "location": "Green Bay, WI",
+      "title": "Summer Project Manager: Admin & Process Improvement Intern",
+      "company": "Richemont",
+      "location": "Fort Worth, TX",
       "score": 10,
-      "url": "https://jooble.org/jdp/7209158128863117397"
+      "url": "https://jooble.org/jdp/-7264108403528992537"
     }
   ]
 }
