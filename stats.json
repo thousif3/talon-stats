@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-17T23:05:11.948Z",
-  "generatedAtET": "4/17/2026, 7:05:11 PM",
+  "generatedAt": "2026-04-18T02:05:00.355Z",
+  "generatedAtET": "4/17/2026, 10:05:00 PM",
   "pipeline": {
-    "jobsScanned": 848,
-    "eligible": 317,
-    "score7plus": 317,
+    "jobsScanned": 817,
+    "eligible": 294,
+    "score7plus": 294,
     "approved": 5,
     "applications": 29,
     "interviews": 3,
@@ -15,18 +15,18 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-17T13:32:52.372Z",
-    "newsGenerated": "2026-04-17T13:32:43.239Z"
+    "gmailParsed": "2026-04-18T01:26:20.770Z",
+    "newsGenerated": "2026-04-18T01:26:01.348Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0298,
-    "totalCalls": 4068,
-    "lastUpdated": "2026-04-17T22:03:11.287Z"
+    "totalSpent": 0.0302,
+    "totalCalls": 4931,
+    "lastUpdated": "2026-04-18T02:01:50.680Z"
   },
   "recentNews": {
-    "visa": "• Delays in OPT processing are reportedly causing significant career disruptions for Iranian students, highlighting ongoing administrative hurdles for international graduates.\n\n• Hyundai’s partnership",
-    "tech": "• UKG has laid off 950 employees as part of a restructuring effort, reflecting ongoing volatility within the enterprise software sector.\n• A new",
-    "breaking": "• Donald Trump indicated he might visit Pakistan to sign a finalized nuclear agreement with Iran as diplomatic negotiations continue between the involved nations.\n\n• OpenAI plans to"
+    "visa": "• Delays in OPT processing are significantly impacting Iranian students, potentially jeopardizing their legal status and employment opportunities in the United States.\n\n• Hyundai’s partnership",
+    "tech": "• Meta will begin a new wave of layoffs on May 20, with additional workforce reductions planned for later in 2026.\n\n• HR",
+    "breaking": "• The FDA is reviewing whether to permit increased access to specific peptides, potentially impacting compounding pharmacies and patients seeking specialized treatments.\n\n• Grand Seiko has launched a new"
   },
   "topJobs": [
     {
@@ -47,7 +47,7 @@
       "title": "Summer Assistant Project Manager Intern - Relocation",
       "company": "Interstates Companies",
       "location": "Houston, TX",
-      "score": 10,
+      "score": 9.3,
       "url": "https://jooble.org/jdp/-8429705881688720186"
     },
     {
