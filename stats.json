@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-18T21:05:29.829Z",
-  "generatedAtET": "4/18/2026, 5:05:29 PM",
+  "generatedAt": "2026-04-18T22:05:36.845Z",
+  "generatedAtET": "4/18/2026, 6:05:36 PM",
   "pipeline": {
     "jobsScanned": 862,
     "eligible": 309,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0302,
-    "totalCalls": 5866,
-    "lastUpdated": "2026-04-18T14:10:14.843Z"
+    "totalCalls": 5892,
+    "lastUpdated": "2026-04-18T22:01:36.232Z"
   },
   "recentNews": {
     "visa": "• Delays in OPT processing are reportedly causing significant professional and legal hardships for Iranian international students seeking work authorization.\n\n• A new partnership",
