@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-18T11:05:22.739Z",
-  "generatedAtET": "4/18/2026, 7:05:22 AM",
+  "generatedAt": "2026-04-18T15:05:29.524Z",
+  "generatedAtET": "4/18/2026, 11:05:29 AM",
   "pipeline": {
-    "jobsScanned": 817,
-    "eligible": 294,
-    "score7plus": 294,
+    "jobsScanned": 862,
+    "eligible": 309,
+    "score7plus": 309,
     "approved": 5,
     "applications": 29,
     "interviews": 3,
@@ -15,54 +15,54 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-18T01:26:20.770Z",
-    "newsGenerated": "2026-04-18T01:26:01.348Z"
+    "gmailParsed": "2026-04-18T13:29:12.144Z",
+    "newsGenerated": "2026-04-18T13:29:08.117Z"
   },
   "aiCosts": {
     "totalSpent": 0.0302,
-    "totalCalls": 4959,
-    "lastUpdated": "2026-04-18T10:01:22.073Z"
+    "totalCalls": 5866,
+    "lastUpdated": "2026-04-18T14:10:14.843Z"
   },
   "recentNews": {
-    "visa": "• Delays in OPT processing are significantly impacting Iranian students, potentially jeopardizing their legal status and employment opportunities in the United States.\n\n• Hyundai’s partnership",
-    "tech": "• Meta will begin a new wave of layoffs on May 20, with additional workforce reductions planned for later in 2026.\n\n• HR",
-    "breaking": "• The FDA is reviewing whether to permit increased access to specific peptides, potentially impacting compounding pharmacies and patients seeking specialized treatments.\n\n• Grand Seiko has launched a new"
+    "visa": "• Delays in OPT processing are reportedly causing significant professional and legal hardships for Iranian international students seeking work authorization.\n\n• A new partnership",
+    "tech": "• Meta will initiate a new wave of layoffs on May 20, with additional workforce reductions planned for later in 2026.",
+    "breaking": "• A federal judge halted the Nexstar-Tegna TV station merger, maintaining the status quo until an ongoing antitrust lawsuit reaches a final settlement."
   },
   "topJobs": [
+    {
+      "title": "CMC Project Management Intern",
+      "company": "Legend Biotech US",
+      "location": "Somerset, Somerset County",
+      "score": 10,
+      "url": "https://www.adzuna.com/details/5703408150?utm_medium=api&utm_source=2e4857a8"
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Stride, Inc.",
+      "location": "Austin, Travis County",
+      "score": 10,
+      "url": "https://www.adzuna.com/details/5703161983?utm_medium=api&utm_source=2e4857a8"
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Stride, Inc.",
+      "location": "Indianapolis, Marion County",
+      "score": 10,
+      "url": "https://www.adzuna.com/details/5703161991?utm_medium=api&utm_source=2e4857a8"
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Stride, Inc.",
+      "location": "Columbia, Richland County",
+      "score": 10,
+      "url": "https://www.adzuna.com/details/5703161978?utm_medium=api&utm_source=2e4857a8"
+    },
     {
       "title": "Summer Project Coordinator Intern - Software Services",
       "company": "IMT Insurance",
       "location": "West Des Moines, IA",
       "score": 10,
       "url": "https://jooble.org/jdp/-8160276352230148794"
-    },
-    {
-      "title": "Summer Project Coordinator Intern - Data & Procurement",
-      "company": "apexanalytix",
-      "location": "Greensboro, NC",
-      "score": 10,
-      "url": "https://jooble.org/jdp/4575278494670537681"
-    },
-    {
-      "title": "Summer Assistant Project Manager Intern - Relocation",
-      "company": "Interstates Companies",
-      "location": "Houston, TX",
-      "score": 9.3,
-      "url": "https://jooble.org/jdp/-8429705881688720186"
-    },
-    {
-      "title": "Summer PMO Project Manager Intern (Foxboro)",
-      "company": "Schneider Electric",
-      "location": "Oklahoma City, OK",
-      "score": 10,
-      "url": "https://jooble.org/jdp/7314261320089645378"
-    },
-    {
-      "title": "Summer Project Manager: Admin & Process Improvement Intern",
-      "company": "Richemont",
-      "location": "Fort Worth, TX",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-7264108403528992537"
     }
   ]
 }
