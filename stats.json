@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-19T21:05:32.435Z",
-  "generatedAtET": "4/19/2026, 5:05:32 PM",
+  "generatedAt": "2026-04-19T22:05:32.473Z",
+  "generatedAtET": "4/19/2026, 6:05:32 PM",
   "pipeline": {
     "jobsScanned": 843,
     "eligible": 314,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0327,
-    "totalCalls": 7728,
-    "lastUpdated": "2026-04-19T20:57:24.822Z"
+    "totalCalls": 7749,
+    "lastUpdated": "2026-04-19T22:01:18.791Z"
   },
   "recentNews": {
     "visa": "• This timeline examines how shifting U.S. visa policies have historically impacted Nigerian nationals and may change following political shifts in Washington.\n\n• Starting May 1, Belgium will require online filing for select work permit categories to modernize and streamline the application process ",
