@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-19T11:05:34.415Z",
-  "generatedAtET": "4/19/2026, 7:05:34 AM",
+  "generatedAt": "2026-04-19T15:05:32.133Z",
+  "generatedAtET": "4/19/2026, 11:05:32 AM",
   "pipeline": {
-    "jobsScanned": 832,
-    "eligible": 299,
-    "score7plus": 299,
+    "jobsScanned": 843,
+    "eligible": 314,
+    "score7plus": 314,
     "approved": 5,
     "applications": 30,
     "interviews": 3,
@@ -15,27 +15,20 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-19T01:46:00.707Z",
-    "newsGenerated": "2026-04-19T01:45:56.553Z"
+    "gmailParsed": "2026-04-19T13:33:06.974Z",
+    "newsGenerated": "2026-04-19T13:32:52.783Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0313,
-    "totalCalls": 6803,
-    "lastUpdated": "2026-04-19T10:01:33.739Z"
+    "totalSpent": 0.0327,
+    "totalCalls": 7694,
+    "lastUpdated": "2026-04-19T14:36:17.965Z"
   },
   "recentNews": {
-    "visa": "• Iranian students face significant career setbacks due to reported OPT processing pauses, highlighting urgent administrative hurdles for international graduates.\n\n• Hyundai’s partnership with Cal",
-    "tech": "• Speculation on Polymarket suggests rising tech layoffs as companies debate whether AI is replacing staff or simply centralizing talent within specific departments.\n• Global",
-    "breaking": "• Russian military aircraft were filmed intercepting and destroying Ukrainian kamikaze drones during high-stakes aerial combat operations over the active conflict zone.\n\n• Negotiations"
+    "visa": "• Immigration attorneys suggest eight alternative pathways, such as O-1 or L-1 visas, for international students not selected in the H-1B lottery.",
+    "tech": "• Tech giants including Meta and Oracle slashed over 73,000 jobs in early 2026, signaling a volatile market for product and",
+    "breaking": "• The Rosen Law Firm urges monday.com (MNDY) investors to secure legal counsel before the upcoming deadline in a pending securities class action lawsuit."
   },
   "topJobs": [
-    {
-      "title": "CMC Project Management Intern",
-      "company": "Legend Biotech US",
-      "location": "Somerset, Somerset County",
-      "score": 9.3,
-      "url": "https://www.adzuna.com/details/5703408150?utm_medium=api&utm_source=2e4857a8"
-    },
     {
       "title": "Summer Project Coordinator Intern - Software Services",
       "company": "IMT Insurance",
@@ -49,6 +42,13 @@
       "location": "Greensboro, NC",
       "score": 10,
       "url": "https://jooble.org/jdp/4575278494670537681"
+    },
+    {
+      "title": "Summer Assistant Project Manager Intern - Relocation",
+      "company": "Interstates Companies",
+      "location": "Houston, TX",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-8429705881688720186"
     },
     {
       "title": "Summer Assistant Project Manager Intern - Relocation",
