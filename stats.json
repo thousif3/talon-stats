@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-19T20:05:32.406Z",
-  "generatedAtET": "4/19/2026, 4:05:32 PM",
+  "generatedAt": "2026-04-19T21:05:32.435Z",
+  "generatedAtET": "4/19/2026, 5:05:32 PM",
   "pipeline": {
     "jobsScanned": 843,
     "eligible": 314,
@@ -16,17 +16,17 @@
     "jobScan": "2026-3-4-20",
     "news": null,
     "gmailParsed": "2026-04-19T13:33:06.974Z",
-    "newsGenerated": "2026-04-19T13:32:52.783Z"
+    "newsGenerated": "2026-04-19T20:59:25.071Z"
   },
   "aiCosts": {
     "totalSpent": 0.0327,
-    "totalCalls": 7694,
-    "lastUpdated": "2026-04-19T14:36:17.965Z"
+    "totalCalls": 7728,
+    "lastUpdated": "2026-04-19T20:57:24.822Z"
   },
   "recentNews": {
-    "visa": "• Immigration attorneys suggest eight alternative pathways, such as O-1 or L-1 visas, for international students not selected in the H-1B lottery.",
-    "tech": "• Tech giants including Meta and Oracle slashed over 73,000 jobs in early 2026, signaling a volatile market for product and",
-    "breaking": "• The Rosen Law Firm urges monday.com (MNDY) investors to secure legal counsel before the upcoming deadline in a pending securities class action lawsuit."
+    "visa": "• This timeline examines how shifting U.S. visa policies have historically impacted Nigerian nationals and may change following political shifts in Washington.\n\n• Starting May 1, Belgium will require online filing for select work permit categories to modernize and streamline the application process ",
+    "tech": "• Meta is reportedly planning to cut 8,000 jobs as the company navigates rising cost pressures associated with its aggressive pivot toward AI development.\n\n• Tech industry giants eliminated over 73,000 positions in early 2026, signaling a massive workforce",
+    "breaking": "• A 20% DME-LPG blend could reduce imports by 6.3 million tonnes and save Rs 34,200 crore annually, according to a new report.\n\n• Two Indian men were killed in a shooting outside a gurdwara in Italy after"
   },
   "topJobs": [
     {
