@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-19T09:05:03.964Z",
-  "generatedAtET": "4/19/2026, 5:05:03 AM",
+  "generatedAt": "2026-04-19T10:05:34.350Z",
+  "generatedAtET": "4/19/2026, 6:05:34 AM",
   "pipeline": {
     "jobsScanned": 832,
     "eligible": 299,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0313,
-    "totalCalls": 6771,
-    "lastUpdated": "2026-04-19T02:34:49.382Z"
+    "totalCalls": 6803,
+    "lastUpdated": "2026-04-19T10:01:33.739Z"
   },
   "recentNews": {
     "visa": "• Iranian students face significant career setbacks due to reported OPT processing pauses, highlighting urgent administrative hurdles for international graduates.\n\n• Hyundai’s partnership with Cal",
