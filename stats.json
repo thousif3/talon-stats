@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-20T11:05:14.229Z",
-  "generatedAtET": "4/20/2026, 7:05:14 AM",
+  "generatedAt": "2026-04-20T14:05:28.218Z",
+  "generatedAtET": "4/20/2026, 10:05:28 AM",
   "pipeline": {
-    "jobsScanned": 866,
-    "eligible": 331,
-    "score7plus": 331,
+    "jobsScanned": 560,
+    "eligible": 276,
+    "score7plus": 276,
     "approved": 5,
     "applications": 30,
     "interviews": 3,
@@ -16,19 +16,33 @@
     "jobScan": "2026-3-4-20",
     "news": null,
     "gmailParsed": "2026-04-20T01:35:42.349Z",
-    "newsGenerated": "2026-04-20T01:35:38.166Z"
+    "newsGenerated": "2026-04-20T13:27:12.566Z"
   },
   "aiCosts": {
     "totalSpent": 0.0327,
-    "totalCalls": 8688,
-    "lastUpdated": "2026-04-20T10:02:13.565Z"
+    "totalCalls": 9252,
+    "lastUpdated": "2026-04-20T13:28:55.071Z"
   },
   "recentNews": {
-    "visa": "• Immigration attorneys have outlined eight alternative pathways for international students and workers who were not selected in the recent H-1B lottery.\n\n• Proposed legal immigration restrictions under a potential Trump administration could significantly decrease long-term population growth in the ",
-    "tech": "• An industry leader is providing transparent insights regarding how the integration of artificial intelligence will inevitably lead to significant workforce reductions across tech.\n\n• Meta reportedly plans to eliminate 8,000 positions to manage rising infrastructure costs associated with its aggres",
-    "breaking": "• Billionaire investor David Einhorn expressed strong confidence in Brighthouse Financial Inc., highlighting the insurance firm’s value within his hedge fund's strategic portfolio.\n\n• A Chinese humanoid robot shattered the half marathon world record, significantly outperforming human benchmarks duri"
+    "visa": "• Trump’s proposed restrictions on legal immigration could drastically lower U.S. population growth by limiting various visa pathways and entry numbers.\n\n• ⚠️ **URGENT:** Federal authorities exposed an H-1B fraud scheme where recruiters used fake university positions to illegally secure visas for fo",
+    "tech": "• Tennessee tech experts suggest AI-driven layoffs may lead to lower starting salaries for new roles as automation shifts regional labor demand.\n\n• Despite some CEOs reporting minimal gains from AI, companies eliminated 40,000 jobs in early 2026 to prioritize investment in the technology",
+    "breaking": "• President Trump announced U.S. Marines seized the Iranian vessel Touska, an action Tehran condemned as \"armed piracy\" amid escalating regional tensions.\n• Police in Ludhiana arrested a man for allegedly strangling his wife to death after he suspected her of being unfaithful.\n• Ousseni Bouda ended "
   },
   "topJobs": [
+    {
+      "title": "Project Management Intern",
+      "company": "Rust-Oleum Corporation",
+      "location": "Baltimore, Baltimore County",
+      "score": 10,
+      "url": "https://www.adzuna.com/details/5704878277?utm_medium=api&utm_source=2e4857a8"
+    },
+    {
+      "title": "IT Project Management - IT Originations - Intern",
+      "company": "Banco Santander",
+      "location": "Dallas, Texas",
+      "score": 10,
+      "url": "https://www.adzuna.com/details/5704396070?utm_medium=api&utm_source=2e4857a8"
+    },
     {
       "title": "Summer Project Coordinator Intern - Software Services",
       "company": "IMT Insurance",
@@ -46,23 +60,9 @@
     {
       "title": "Summer Assistant Project Manager Intern - Relocation",
       "company": "Interstates Companies",
-      "location": "Tulsa, OK",
-      "score": 9.3,
-      "url": "https://jooble.org/jdp/-5895857954798279330"
-    },
-    {
-      "title": "Summer Assistant Project Manager Intern - Relocation",
-      "company": "Interstates Companies",
       "location": "Houston, TX",
-      "score": 9.3,
-      "url": "https://jooble.org/jdp/-8429705881688720186"
-    },
-    {
-      "title": "Summer Project Manager: Admin & Process Improvement Intern",
-      "company": "Richemont",
-      "location": "Fort Worth, TX",
       "score": 10,
-      "url": "https://jooble.org/jdp/-7264108403528992537"
+      "url": "https://jooble.org/jdp/-8429705881688720186"
     }
   ]
 }
