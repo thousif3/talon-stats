@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-19T23:05:32.519Z",
-  "generatedAtET": "4/19/2026, 7:05:32 PM",
+  "generatedAt": "2026-04-20T03:05:40.716Z",
+  "generatedAtET": "4/19/2026, 11:05:40 PM",
   "pipeline": {
-    "jobsScanned": 843,
-    "eligible": 314,
-    "score7plus": 314,
+    "jobsScanned": 866,
+    "eligible": 331,
+    "score7plus": 331,
     "approved": 5,
     "applications": 30,
     "interviews": 3,
@@ -15,18 +15,18 @@
   "lastRuns": {
     "jobScan": "2026-3-4-20",
     "news": null,
-    "gmailParsed": "2026-04-19T13:33:06.974Z",
-    "newsGenerated": "2026-04-19T20:59:25.071Z"
+    "gmailParsed": "2026-04-20T01:35:42.349Z",
+    "newsGenerated": "2026-04-20T01:35:38.166Z"
   },
   "aiCosts": {
     "totalSpent": 0.0327,
-    "totalCalls": 7749,
-    "lastUpdated": "2026-04-19T22:01:18.791Z"
+    "totalCalls": 8656,
+    "lastUpdated": "2026-04-20T02:29:26.532Z"
   },
   "recentNews": {
-    "visa": "• This timeline examines how shifting U.S. visa policies have historically impacted Nigerian nationals and may change following political shifts in Washington.\n\n• Starting May 1, Belgium will require online filing for select work permit categories to modernize and streamline the application process ",
-    "tech": "• Meta is reportedly planning to cut 8,000 jobs as the company navigates rising cost pressures associated with its aggressive pivot toward AI development.\n\n• Tech industry giants eliminated over 73,000 positions in early 2026, signaling a massive workforce",
-    "breaking": "• A 20% DME-LPG blend could reduce imports by 6.3 million tonnes and save Rs 34,200 crore annually, according to a new report.\n\n• Two Indian men were killed in a shooting outside a gurdwara in Italy after"
+    "visa": "• Immigration attorneys have outlined eight alternative pathways for international students and workers who were not selected in the recent H-1B lottery.\n\n• Proposed legal immigration restrictions under a potential Trump administration could significantly decrease long-term population growth in the ",
+    "tech": "• An industry leader is providing transparent insights regarding how the integration of artificial intelligence will inevitably lead to significant workforce reductions across tech.\n\n• Meta reportedly plans to eliminate 8,000 positions to manage rising infrastructure costs associated with its aggres",
+    "breaking": "• Billionaire investor David Einhorn expressed strong confidence in Brighthouse Financial Inc., highlighting the insurance firm’s value within his hedge fund's strategic portfolio.\n\n• A Chinese humanoid robot shattered the half marathon world record, significantly outperforming human benchmarks duri"
   },
   "topJobs": [
     {
@@ -46,16 +46,16 @@
     {
       "title": "Summer Assistant Project Manager Intern - Relocation",
       "company": "Interstates Companies",
-      "location": "Houston, TX",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-8429705881688720186"
+      "location": "Tulsa, OK",
+      "score": 9.3,
+      "url": "https://jooble.org/jdp/-5895857954798279330"
     },
     {
       "title": "Summer Assistant Project Manager Intern - Relocation",
       "company": "Interstates Companies",
-      "location": "Tulsa, OK",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-5895857954798279330"
+      "location": "Houston, TX",
+      "score": 9.3,
+      "url": "https://jooble.org/jdp/-8429705881688720186"
     },
     {
       "title": "Summer Project Manager: Admin & Process Improvement Intern",
