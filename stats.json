@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-20T09:05:41.045Z",
-  "generatedAtET": "4/20/2026, 5:05:41 AM",
+  "generatedAt": "2026-04-20T10:05:14.177Z",
+  "generatedAtET": "4/20/2026, 6:05:14 AM",
   "pipeline": {
     "jobsScanned": 866,
     "eligible": 331,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0327,
-    "totalCalls": 8656,
-    "lastUpdated": "2026-04-20T02:29:26.532Z"
+    "totalCalls": 8688,
+    "lastUpdated": "2026-04-20T10:02:13.565Z"
   },
   "recentNews": {
     "visa": "• Immigration attorneys have outlined eight alternative pathways for international students and workers who were not selected in the recent H-1B lottery.\n\n• Proposed legal immigration restrictions under a potential Trump administration could significantly decrease long-term population growth in the ",
