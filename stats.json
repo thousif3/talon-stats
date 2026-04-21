@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-20T23:05:57.883Z",
-  "generatedAtET": "4/20/2026, 7:05:57 PM",
+  "generatedAt": "2026-04-21T16:05:21.919Z",
+  "generatedAtET": "4/21/2026, 12:05:21 PM",
   "pipeline": {
-    "jobsScanned": 560,
-    "eligible": 276,
-    "score7plus": 276,
+    "jobsScanned": 350,
+    "eligible": 0,
+    "score7plus": 0,
     "approved": 5,
     "applications": 30,
     "interviews": 3,
@@ -20,49 +20,13 @@
   },
   "aiCosts": {
     "totalSpent": 0.0327,
-    "totalCalls": 9279,
-    "lastUpdated": "2026-04-20T22:37:57.216Z"
+    "totalCalls": 9636,
+    "lastUpdated": "2026-04-21T12:45:16.935Z"
   },
   "recentNews": {
     "visa": "• Trump’s proposed restrictions on legal immigration could drastically lower U.S. population growth by limiting various visa pathways and entry numbers.\n\n• ⚠️ **URGENT:** Federal authorities exposed an H-1B fraud scheme where recruiters used fake university positions to illegally secure visas for fo",
     "tech": "• Tennessee tech experts suggest AI-driven layoffs may lead to lower starting salaries for new roles as automation shifts regional labor demand.\n\n• Despite some CEOs reporting minimal gains from AI, companies eliminated 40,000 jobs in early 2026 to prioritize investment in the technology",
     "breaking": "• President Trump announced U.S. Marines seized the Iranian vessel Touska, an action Tehran condemned as \"armed piracy\" amid escalating regional tensions.\n• Police in Ludhiana arrested a man for allegedly strangling his wife to death after he suspected her of being unfaithful.\n• Ousseni Bouda ended "
   },
-  "topJobs": [
-    {
-      "title": "Project Management Intern",
-      "company": "Rust-Oleum Corporation",
-      "location": "Baltimore, Baltimore County",
-      "score": 10,
-      "url": "https://www.adzuna.com/details/5704878277?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "IT Project Management - IT Originations - Intern",
-      "company": "Banco Santander",
-      "location": "Dallas, Texas",
-      "score": 10,
-      "url": "https://www.adzuna.com/details/5704396070?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "Summer Project Coordinator Intern - Software Services",
-      "company": "IMT Insurance",
-      "location": "West Des Moines, IA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-8160276352230148794"
-    },
-    {
-      "title": "Summer Project Coordinator Intern - Data & Procurement",
-      "company": "apexanalytix",
-      "location": "Greensboro, NC",
-      "score": 10,
-      "url": "https://jooble.org/jdp/4575278494670537681"
-    },
-    {
-      "title": "Summer Assistant Project Manager Intern - Relocation",
-      "company": "Interstates Companies",
-      "location": "Houston, TX",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-8429705881688720186"
-    }
-  ]
+  "topJobs": []
 }
