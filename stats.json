@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-23T01:05:33.566Z",
-  "generatedAtET": "4/22/2026, 9:05:33 PM",
+  "generatedAt": "2026-04-23T02:05:40.155Z",
+  "generatedAtET": "4/22/2026, 10:05:40 PM",
   "pipeline": {
     "jobsScanned": 10,
-    "eligible": 0,
-    "score7plus": 0,
+    "eligible": 10,
+    "score7plus": 10,
     "approved": 5,
     "applications": 30,
     "interviews": 3,
@@ -19,14 +19,50 @@
     "newsGenerated": "2026-04-20T13:27:12.566Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0447,
-    "totalCalls": 10044,
-    "lastUpdated": "2026-04-23T00:53:22.985Z"
+    "totalSpent": 0.0475,
+    "totalCalls": 10059,
+    "lastUpdated": "2026-04-23T02:04:53.226Z"
   },
   "recentNews": {
     "visa": "• Trump’s proposed restrictions on legal immigration could drastically lower U.S. population growth by limiting various visa pathways and entry numbers.\n\n• ⚠️ **URGENT:** Federal authorities exposed an H-1B fraud scheme where recruiters used fake university positions to illegally secure visas for fo",
     "tech": "• Tennessee tech experts suggest AI-driven layoffs may lead to lower starting salaries for new roles as automation shifts regional labor demand.\n\n• Despite some CEOs reporting minimal gains from AI, companies eliminated 40,000 jobs in early 2026 to prioritize investment in the technology",
     "breaking": "• President Trump announced U.S. Marines seized the Iranian vessel Touska, an action Tehran condemned as \"armed piracy\" amid escalating regional tensions.\n• Police in Ludhiana arrested a man for allegedly strangling his wife to death after he suspected her of being unfaithful.\n• Ousseni Bouda ended "
   },
-  "topJobs": []
+  "topJobs": [
+    {
+      "title": "Summer Project Coordinator Intern - Software Services",
+      "company": "IMT Insurance",
+      "location": "West Des Moines, IA",
+      "score": 9.3,
+      "url": "https://jooble.org/jdp/-8160276352230148794"
+    },
+    {
+      "title": "Summer Project Coordinator Intern - Data & Procurement",
+      "company": "apexanalytix",
+      "location": "Greensboro, NC",
+      "score": 10,
+      "url": "https://jooble.org/jdp/4575278494670537681"
+    },
+    {
+      "title": "Summer Project Coordinator Intern — Paid & Learning",
+      "company": "N-STORE Services, LLC",
+      "location": "Chesterfield, MO",
+      "score": 9.9,
+      "url": "https://jooble.org/jdp/-3792384251511150732"
+    },
+    {
+      "title": "People Success Project Lead Intern",
+      "company": "Wayne State University",
+      "location": "San Francisco, CA",
+      "score": 9.9,
+      "url": "https://jooble.org/jdp/4729192167955727092"
+    },
+    {
+      "title": "Summer Project Analyst Intern: PM, Data & Strategy",
+      "company": "State Street",
+      "location": "Quincy, MA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/1250715213663094100"
+    }
+  ]
 }
