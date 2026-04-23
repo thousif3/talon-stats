@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-23T09:05:40.492Z",
-  "generatedAtET": "4/23/2026, 5:05:40 AM",
+  "generatedAt": "2026-04-23T11:05:55.746Z",
+  "generatedAtET": "4/23/2026, 7:05:55 AM",
   "pipeline": {
     "jobsScanned": 10,
     "eligible": 10,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0475,
-    "totalCalls": 10062,
-    "lastUpdated": "2026-04-23T02:14:06.744Z"
+    "totalCalls": 10068,
+    "lastUpdated": "2026-04-23T10:13:54.926Z"
   },
   "recentNews": {
     "visa": "• Trump’s proposed restrictions on legal immigration could drastically lower U.S. population growth by limiting various visa pathways and entry numbers.\n\n• ⚠️ **URGENT:** Federal authorities exposed an H-1B fraud scheme where recruiters used fake university positions to illegally secure visas for fo",
