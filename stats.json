@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-27T23:05:11.147Z",
-  "generatedAtET": "4/27/2026, 7:05:11 PM",
+  "generatedAt": "2026-04-28T00:23:18.863Z",
+  "generatedAtET": "4/27/2026, 8:23:18 PM",
   "pipeline": {
     "jobsScanned": 869,
     "eligible": 830,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 11791,
-    "lastUpdated": "2026-04-27T22:44:27.542Z"
+    "totalCalls": 11797,
+    "lastUpdated": "2026-04-28T00:21:23.692Z"
   },
   "recentNews": {
     "visa": "• H-1B lottery losers have 8 alternative options, says immigration attorney.\n• Trump's restrictions may reduce US population growth sharply.\n• Justices to review DOL's H-2A fine power.\n• Vivakor's Nasdaq uplisting is unrelated to visas.\n• High-yield savings accounts are unrelated to visas.\n• H-1B bi",
