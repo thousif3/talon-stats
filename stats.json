@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-29T00:00:03.100Z",
-  "generatedAtET": "4/28/2026, 8:00:03 PM",
+  "generatedAt": "2026-04-29T19:05:56.356Z",
+  "generatedAtET": "4/29/2026, 3:05:56 PM",
   "pipeline": {
-    "jobsScanned": 460,
-    "eligible": 425,
-    "score7plus": 425,
+    "jobsScanned": 820,
+    "eligible": 774,
+    "score7plus": 774,
     "approved": 5,
     "applications": 0,
     "interviews": 0,
@@ -13,15 +13,15 @@
     "crmTracked": 29
   },
   "lastRuns": {
-    "jobScan": "2026-3-4-20",
+    "jobScan": null,
     "news": null,
     "gmailParsed": "2026-04-26T21:16:53.512Z",
     "newsGenerated": "2026-04-27T22:44:27.550Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 12255,
-    "lastUpdated": "2026-04-28T23:57:37.935Z"
+    "totalCalls": 12615,
+    "lastUpdated": "2026-04-29T18:49:54.330Z"
   },
   "recentNews": {
     "visa": "• H-1B lottery losers have 8 alternative options, says immigration attorney.\n• Trump's restrictions may reduce US population growth sharply.\n• Justices to review DOL's H-2A fine power.\n• Vivakor's Nasdaq uplisting is unrelated to visas.\n• High-yield savings accounts are unrelated to visas.\n• H-1B bi",
