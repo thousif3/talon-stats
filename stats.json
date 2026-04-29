@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-04-28T00:23:18.863Z",
-  "generatedAtET": "4/27/2026, 8:23:18 PM",
+  "generatedAt": "2026-04-29T00:00:03.100Z",
+  "generatedAtET": "4/28/2026, 8:00:03 PM",
   "pipeline": {
-    "jobsScanned": 869,
-    "eligible": 830,
-    "score7plus": 830,
+    "jobsScanned": 460,
+    "eligible": 425,
+    "score7plus": 425,
     "approved": 5,
     "applications": 0,
     "interviews": 0,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 11797,
-    "lastUpdated": "2026-04-28T00:21:23.692Z"
+    "totalCalls": 12255,
+    "lastUpdated": "2026-04-28T23:57:37.935Z"
   },
   "recentNews": {
     "visa": "• H-1B lottery losers have 8 alternative options, says immigration attorney.\n• Trump's restrictions may reduce US population growth sharply.\n• Justices to review DOL's H-2A fine power.\n• Vivakor's Nasdaq uplisting is unrelated to visas.\n• High-yield savings accounts are unrelated to visas.\n• H-1B bi",
@@ -44,13 +44,6 @@
       "url": "https://jooble.org/jdp/-3792384251511150732"
     },
     {
-      "title": "Summer Project Coordinator Intern - Data & Procurement",
-      "company": "apexanalytix",
-      "location": "Greensboro, NC",
-      "score": 10,
-      "url": "https://jooble.org/jdp/4575278494670537681"
-    },
-    {
       "title": "People Success Project Lead Intern",
       "company": "Wayne State University",
       "location": "San Francisco, CA",
@@ -63,6 +56,13 @@
       "location": "Quincy, MA",
       "score": 10,
       "url": "https://jooble.org/jdp/1250715213663094100"
+    },
+    {
+      "title": "Summer Project Manager: Admin & Process Improvement Intern",
+      "company": "Richemont",
+      "location": "Fort Worth, TX",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-7264108403528992537"
     }
   ]
 }
