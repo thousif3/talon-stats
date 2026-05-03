@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-02T09:05:53.082Z",
-  "generatedAtET": "5/2/2026, 5:05:53 AM",
+  "generatedAt": "2026-05-03T18:05:06.626Z",
+  "generatedAtET": "5/3/2026, 2:05:06 PM",
   "pipeline": {
-    "jobsScanned": 730,
-    "eligible": 682,
-    "score7plus": 682,
+    "jobsScanned": 200,
+    "eligible": 183,
+    "score7plus": 183,
     "approved": 5,
     "applications": 0,
     "interviews": 0,
@@ -16,25 +16,32 @@
     "jobScan": null,
     "news": null,
     "gmailParsed": "2026-04-26T21:16:53.512Z",
-    "newsGenerated": "2026-04-27T22:44:27.550Z"
+    "newsGenerated": "2026-05-03T16:49:10.850Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 13692,
-    "lastUpdated": "2026-05-02T00:05:51.806Z"
+    "totalCalls": 15146,
+    "lastUpdated": "2026-05-03T17:28:11.263Z"
   },
   "recentNews": {
-    "visa": "• H-1B lottery losers have 8 alternative options, says immigration attorney.\n• Trump's restrictions may reduce US population growth sharply.\n• Justices to review DOL's H-2A fine power.\n• Vivakor's Nasdaq uplisting is unrelated to visas.\n• High-yield savings accounts are unrelated to visas.\n• H-1B bi",
-    "tech": "• Corporate layoffs continue in 2026 with rising numbers.\n• AI may trigger white-collar job collapse, experts warn.\n• Salesforce hires 1,000 new grads to prove AI won't kill entry-level jobs.\n• Amazon layoffs affect 4 states, starting tomorrow.\n• Big tech cuts jobs to fund AI development.\n• Oracle c",
-    "breaking": "• Hisense AX5125H audio available for £209.\n• Wall Street Journal criticizes Trump's 'pot lobby' move.\n• Massachusetts expects two sunny days before weather changes.\n• Hartford police investigate teen shooting on Sunday.\n• Fed expected to hold rates, may cut in 2026.\n• NEURONES reports treasury shar"
+    "visa": "• H-1B lottery losers have 8 alternative options, says immigration attorney.\n• International students use OPT to enter the US workforce.\n• OPT application pause leaves students uncertain about status.\n• Teaching AI is not relevant to visa or immigration news.\n• Seattle tech workers leaving jobs is n",
+    "tech": "• Sam Altman claims some companies blame AI for unrelated layoffs.\n• AI job apocalypse is unlikely to happen, says opinion piece.\n• Meta cuts 200 Silicon Valley jobs amid AI hiring growth.\n• Taub Center studies AI's effects on employment and jobs.\n• Bengaluru techies face layoffs, AI fears, and risi",
+    "breaking": "• Forney ISD fires principal, employees amid investigation.\n• Drugmakers appeal abortion pill access to Supreme Court.\n• Nix, Hene advance to Tyler mayoral runoff election.\n• Multnomah Athletic Club bomber threatened members for years.\n• NYC considers banning armed police robots entirely.\n• Troopers"
   },
   "topJobs": [
     {
-      "title": "Summer Project Coordinator Intern - Software Services",
-      "company": "IMT Insurance",
-      "location": "West Des Moines, IA",
-      "score": 9.9,
-      "url": "https://jooble.org/jdp/-8160276352230148794"
+      "title": "Paid Summer Project Coordinator Intern — Construction",
+      "company": "E-Z Bel Construction, LLC",
+      "location": "San Antonio, TX",
+      "score": 9.2,
+      "url": "https://jooble.org/jdp/2411165883585087827"
+    },
+    {
+      "title": "Summer Project Coordinator Intern - Data & Procurement",
+      "company": "apexanalytix",
+      "location": "Greensboro, NC",
+      "score": 10,
+      "url": "https://jooble.org/jdp/4575278494670537681"
     },
     {
       "title": "Summer Project Coordinator Intern — Paid & Learning",
@@ -49,13 +56,6 @@
       "location": "San Francisco, CA",
       "score": 9.9,
       "url": "https://jooble.org/jdp/4729192167955727092"
-    },
-    {
-      "title": "Summer Project Analyst Intern: PM, Data & Strategy",
-      "company": "State Street",
-      "location": "Quincy, MA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/1250715213663094100"
     },
     {
       "title": "Summer Project Manager: Admin & Process Improvement Intern",
