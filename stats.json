@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-03T23:05:26.902Z",
-  "generatedAtET": "5/3/2026, 7:05:26 PM",
+  "generatedAt": "2026-05-04T15:05:48.024Z",
+  "generatedAtET": "5/4/2026, 11:05:48 AM",
   "pipeline": {
-    "jobsScanned": 200,
-    "eligible": 183,
-    "score7plus": 183,
+    "jobsScanned": 580,
+    "eligible": 538,
+    "score7plus": 538,
     "approved": 5,
     "applications": 0,
     "interviews": 0,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 15271,
-    "lastUpdated": "2026-05-03T22:44:26.182Z"
+    "totalCalls": 15856,
+    "lastUpdated": "2026-05-04T15:03:41.422Z"
   },
   "recentNews": {
     "visa": "• H-1B lottery losers have 8 alternative options, says immigration attorney.\n• International students use OPT to enter the US workforce.\n• OPT application pause leaves students uncertain about status.\n• Teaching AI is not relevant to visa or immigration news.\n• Seattle tech workers leaving jobs is n",
@@ -37,18 +37,18 @@
       "url": "https://jooble.org/jdp/2411165883585087827"
     },
     {
-      "title": "Summer Project Coordinator Intern - Data & Procurement",
-      "company": "apexanalytix",
-      "location": "Greensboro, NC",
-      "score": 10,
-      "url": "https://jooble.org/jdp/4575278494670537681"
-    },
-    {
       "title": "Summer Project Coordinator Intern — Paid & Learning",
       "company": "N-STORE Services, LLC",
       "location": "Chesterfield, MO",
       "score": 9.9,
       "url": "https://jooble.org/jdp/-3792384251511150732"
+    },
+    {
+      "title": "Summer Project Coordinator Intern - Data & Procurement",
+      "company": "apexanalytix",
+      "location": "Greensboro, NC",
+      "score": 10,
+      "url": "https://jooble.org/jdp/4575278494670537681"
     },
     {
       "title": "People Success Project Lead Intern",
