@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-04T21:05:19.269Z",
-  "generatedAtET": "5/4/2026, 5:05:19 PM",
+  "generatedAt": "2026-05-05T08:05:02.937Z",
+  "generatedAtET": "5/5/2026, 4:05:02 AM",
   "pipeline": {
     "jobsScanned": 580,
     "eligible": 538,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 15856,
-    "lastUpdated": "2026-05-04T15:03:41.422Z"
+    "totalCalls": 16136,
+    "lastUpdated": "2026-05-05T07:58:01.849Z"
   },
   "recentNews": {
     "visa": "• H-1B lottery losers have 8 alternative options, says immigration attorney.\n• International students use OPT to enter the US workforce.\n• OPT application pause leaves students uncertain about status.\n• Teaching AI is not relevant to visa or immigration news.\n• Seattle tech workers leaving jobs is n",
