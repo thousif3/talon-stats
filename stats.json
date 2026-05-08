@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-05T23:05:05.608Z",
-  "generatedAtET": "5/5/2026, 7:05:05 PM",
+  "generatedAt": "2026-05-08T04:05:10.707Z",
+  "generatedAtET": "5/8/2026, 12:05:10 AM",
   "pipeline": {
-    "jobsScanned": 580,
-    "eligible": 538,
-    "score7plus": 538,
+    "jobsScanned": 995,
+    "eligible": 933,
+    "score7plus": 933,
     "approved": 5,
     "applications": 0,
     "interviews": 0,
@@ -15,40 +15,26 @@
   "lastRuns": {
     "jobScan": null,
     "news": null,
-    "gmailParsed": "2026-04-26T21:16:53.512Z",
-    "newsGenerated": "2026-05-03T16:49:10.850Z"
+    "gmailParsed": "2026-05-08T03:32:56.992Z",
+    "newsGenerated": "2026-05-08T03:32:54.014Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 16416,
-    "lastUpdated": "2026-05-05T19:55:29.834Z"
+    "totalCalls": 17418,
+    "lastUpdated": "2026-05-08T03:32:54.006Z"
   },
   "recentNews": {
-    "visa": "• H-1B lottery losers have 8 alternative options, says immigration attorney.\n• International students use OPT to enter the US workforce.\n• OPT application pause leaves students uncertain about status.\n• Teaching AI is not relevant to visa or immigration news.\n• Seattle tech workers leaving jobs is n",
-    "tech": "• Sam Altman claims some companies blame AI for unrelated layoffs.\n• AI job apocalypse is unlikely to happen, says opinion piece.\n• Meta cuts 200 Silicon Valley jobs amid AI hiring growth.\n• Taub Center studies AI's effects on employment and jobs.\n• Bengaluru techies face layoffs, AI fears, and risi",
-    "breaking": "• Forney ISD fires principal, employees amid investigation.\n• Drugmakers appeal abortion pill access to Supreme Court.\n• Nix, Hene advance to Tyler mayoral runoff election.\n• Multnomah Athletic Club bomber threatened members for years.\n• NYC considers banning armed police robots entirely.\n• Troopers"
+    "visa": "• Government phases out Special Student Relief.\n• ASML grant expands STEM access, no visa impact.\n• Students from crisis countries lose support.\n• Immigration news digest available.\n• H-1B delays and fees threaten physician hiring.\n• Preparation tips for H-1B success provided.\n• J-1 Waiver Program b",
+    "tech": "• April job cuts rose 38% from March, down 50% year-to-date.\n• AI caused 26% of April's job cuts, a top layoff reason.\n• Meta, Amazon, and Coinbase laid off staff this year.\n• Tech industry layoffs increased despite overall decline in 2026.\n• April job cuts surged 40% in multiple industries.\n• AI do",
+    "breaking": "• Virginia Democrats face disintegration, impacting national politics.\n• Hantavirus monitoring begins for early-leaving cruise passengers worldwide.\n• Israeli strike on Gaza kills Hamas negotiator's son.\n• Declaration of Independence raises questions in 250th year.\n• Marco Rubio's video sparks presi"
   },
   "topJobs": [
-    {
-      "title": "Paid Summer Project Coordinator Intern — Construction",
-      "company": "E-Z Bel Construction, LLC",
-      "location": "San Antonio, TX",
-      "score": 9.2,
-      "url": "https://jooble.org/jdp/2411165883585087827"
-    },
     {
       "title": "Summer Project Coordinator Intern — Paid & Learning",
       "company": "N-STORE Services, LLC",
       "location": "Chesterfield, MO",
       "score": 9.9,
       "url": "https://jooble.org/jdp/-3792384251511150732"
-    },
-    {
-      "title": "Summer Project Coordinator Intern - Data & Procurement",
-      "company": "apexanalytix",
-      "location": "Greensboro, NC",
-      "score": 10,
-      "url": "https://jooble.org/jdp/4575278494670537681"
     },
     {
       "title": "People Success Project Lead Intern",
@@ -63,6 +49,20 @@
       "location": "Fort Worth, TX",
       "score": 10,
       "url": "https://jooble.org/jdp/-7264108403528992537"
+    },
+    {
+      "title": "STARZ Intern, Project Management Office - Project Manager",
+      "company": "Starz",
+      "location": "Greenwood Village, CO",
+      "score": 10,
+      "url": "https://jooble.org/jdp/6570565853634623912"
+    },
+    {
+      "title": "Remote PMO Intern: Agile Software Project Coordinator",
+      "company": "BD (Becton, Dickinson and Company)",
+      "location": "San Diego, CA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/150935881303612082"
     }
   ]
 }
