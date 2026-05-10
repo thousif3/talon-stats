@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-10T21:05:51.275Z",
-  "generatedAtET": "5/10/2026, 5:05:51 PM",
+  "generatedAt": "2026-05-10T23:05:58.377Z",
+  "generatedAtET": "5/10/2026, 7:05:58 PM",
   "pipeline": {
     "jobsScanned": 995,
     "eligible": 933,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 18568,
-    "lastUpdated": "2026-05-10T16:27:07.196Z"
+    "totalCalls": 18676,
+    "lastUpdated": "2026-05-10T23:05:56.973Z"
   },
   "recentNews": {
     "visa": "• Government phases out Special Student Relief.\n• ASML grant expands STEM access, no visa impact.\n• Students from crisis countries lose support.\n• Immigration news digest available.\n• H-1B delays and fees threaten physician hiring.\n• Preparation tips for H-1B success provided.\n• J-1 Waiver Program b",
