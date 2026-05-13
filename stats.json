@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-12T11:05:23.556Z",
-  "generatedAtET": "5/12/2026, 7:05:23 AM",
+  "generatedAt": "2026-05-13T03:05:05.663Z",
+  "generatedAtET": "5/12/2026, 11:05:05 PM",
   "pipeline": {
-    "jobsScanned": 140,
-    "eligible": 22,
-    "score7plus": 22,
+    "jobsScanned": 1028,
+    "eligible": 26,
+    "score7plus": 26,
     "approved": 5,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": null,
-    "gmailParsed": "2026-05-11T11:31:43.431Z",
-    "newsGenerated": "2026-05-12T01:58:48.104Z"
+    "news": "2026-05-12T22:39:19.637Z",
+    "gmailParsed": "2026-05-12T22:35:07.715Z",
+    "newsGenerated": "2026-05-12T22:39:12.489Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 19202,
-    "lastUpdated": "2026-05-12T01:58:48.096Z"
+    "totalCalls": 20088,
+    "lastUpdated": "2026-05-12T22:39:12.481Z"
   },
   "recentNews": {
-    "visa": "• Federal Government Phasing Out Special Student Relief - Inside Higher Ed\n• ‘It’s Getting Unfriendlier’: International Students Race to Find Jobs - The New York Times\n• New Immigration Restrictions On H-1B Visas And Students Are Coming - Forbes\n• New Immigration Restrictions On H-1B Visas And Stude",
-    "tech": "• GM is cutting up to 600 white-collar jobs while actively seeking new tech talent.\n• Hassett claims AI isn't costing jobs, but ongoing tech layoffs contradict that view.\n• Over 92,000 tech layoffs in five months of 2026 as AI accelerates job replacement.\n• Starbucks’ recent job cuts will eliminate ",
-    "breaking": "• Senators Ayotte and Shaheen announce White Mountains research station to stay open.\n• Consumer Reports warns of retail text scams with fake offers and links.\n• White House press dinner shooting suspect pleads not guilty to all charges.\n• New Rochelle School District proposes $370.4M budget with 1."
+    "visa": "• International students face increasing difficulty securing jobs, per The New York Times.\n• Inside Higher Ed column debates whether higher education needs defense or improvement.\n• Time Magazine reports a 20% decline in new international students entering the U.S.\n• First data reveals changes to th",
+    "tech": "• Laid-off GM employees tell of ominous email, severance and role of AI\n• Tech Layoff Wave Has Already Hit 100,000 Jobs This Year\n• After 92,000-plus layoffs in 2026, economists and industry experts are fearful that corporate America is\n• Rufo revives H-1B debate as tech layoffs fuel worker anxiety\n",
+    "breaking": "• Christman’s shutout leads Whitehall past Parkland, advancing them to the EPC baseball final.\n• Hantavirus patient is critical after doctors initially dismissed symptoms as “anxiety.”\n• Sicily police probe an illegal race involving horse-drawn carts and Kalashnikovs.\n• Contenders to replace UK lead"
   },
   "topJobs": [
     {
-      "title": "Production Intern Summer 2026",
-      "company": "Storm Guard Madison",
-      "location": "Madison, Dane County",
-      "score": 8.5,
-      "url": "https://www.adzuna.com/land/ad/5725955026?se=bMk7pJVN8RGA6PKGb09ZzQ&utm_medium=api&utm_source=2e4857a8&v=7BA870DF178245F1555F49EB436E0CD5D79D9F4D"
-    },
-    {
-      "title": "Material Laboratory Project Management Intern",
-      "company": "Trelleborg Sealing Solutions",
-      "location": "New Haven Heights, Allen County",
-      "score": 9.3,
-      "url": "https://www.adzuna.com/details/5724933153?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "STARZ Intern, Project Management Office - Project Manager",
-      "company": "Starz",
-      "location": "Greenwood Village, CO",
+      "title": "Sales & Project Management Intern",
+      "company": "Bosch Group",
+      "location": "Farmington Hills, Oakland County",
       "score": 9.8,
-      "url": "https://jooble.org/jdp/6570565853634623912"
+      "url": "https://www.adzuna.com/details/5726537352?utm_medium=api&utm_source=2e4857a8"
+    },
+    {
+      "title": "Infrastructure Project Manager I (Sewerage & Water Board) (Class Code 3415)",
+      "company": "City of New Orleans",
+      "location": "New Orleans, Orleans Parish",
+      "score": 8.5,
+      "url": "https://www.adzuna.com/details/5726396714?utm_medium=api&utm_source=2e4857a8"
+    },
+    {
+      "title": "Summer Project Manager: Admin & Process Improvement Intern",
+      "company": "Richemont",
+      "location": "Fort Worth, TX",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-7264108403528992537"
     },
     {
       "title": "Scrum Master Intern",
       "company": "Corpay",
-      "location": "Atlanta, GA",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/2715557496601353622"
+      "location": "Peachtree Corners, GA",
+      "score": 9.7,
+      "url": "https://jooble.org/jdp/3070828316104438261"
     },
     {
-      "title": "Assistant Project Manager Intern - Cincinnati, OH",
-      "company": "Interstates",
-      "location": "Cincinnati, OH",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/7861216953961103957"
+      "title": "Remote PMO Intern: Agile Software Project Coordinator",
+      "company": "BD (Becton, Dickinson and Company)",
+      "location": "San Diego, CA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/150935881303612082"
     }
   ]
 }
