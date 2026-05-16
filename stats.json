@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-13T11:05:55.774Z",
-  "generatedAtET": "5/13/2026, 7:05:55 AM",
+  "generatedAt": "2026-05-16T01:37:14.116Z",
+  "generatedAtET": "5/15/2026, 9:37:14 PM",
   "pipeline": {
-    "jobsScanned": 1028,
-    "eligible": 26,
-    "score7plus": 26,
+    "jobsScanned": 1008,
+    "eligible": 49,
+    "score7plus": 49,
     "approved": 5,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-05-12T22:39:19.637Z",
-    "gmailParsed": "2026-05-12T22:35:07.715Z",
-    "newsGenerated": "2026-05-12T22:39:12.489Z"
+    "news": "2026-05-15T23:04:12.260Z",
+    "gmailParsed": "2026-05-15T22:57:41.807Z",
+    "newsGenerated": "2026-05-15T23:04:10.015Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 20088,
-    "lastUpdated": "2026-05-12T22:39:12.481Z"
+    "totalCalls": 21634,
+    "lastUpdated": "2026-05-15T22:47:38.192Z"
   },
   "recentNews": {
-    "visa": "• International students face increasing difficulty securing jobs, per The New York Times.\n• Inside Higher Ed column debates whether higher education needs defense or improvement.\n• Time Magazine reports a 20% decline in new international students entering the U.S.\n• First data reveals changes to th",
-    "tech": "• Laid-off GM employees tell of ominous email, severance and role of AI\n• Tech Layoff Wave Has Already Hit 100,000 Jobs This Year\n• After 92,000-plus layoffs in 2026, economists and industry experts are fearful that corporate America is\n• Rufo revives H-1B debate as tech layoffs fuel worker anxiety\n",
-    "breaking": "• Christman’s shutout leads Whitehall past Parkland, advancing them to the EPC baseball final.\n• Hantavirus patient is critical after doctors initially dismissed symptoms as “anxiety.”\n• Sicily police probe an illegal race involving horse-drawn carts and Kalashnikovs.\n• Contenders to replace UK lead"
+    "visa": "• ICE Director Calls Foreign Student Work Program Fraud ‘Magnet’ - Bloomberg Law News\n• ‘It’s Getting Unfriendlier’: International Students Race to Find Jobs - The New York Times\n• New Immigration Restrictions On H-1B Visas And Students Are Coming - Forbes\n• This Week in Immigration: May 15, 2026\n• ",
+    "tech": "• Amazon layoffs 2026: Amazon fires another wave after 30,000 cuts — who is next, and why AI is replacing jo\n• Detroit automakers have cut more than 20,000 U.S. salaried jobs as AI threat looms\n• From Cisco to Block, more companies are pointing to AI when unveiling job cuts\n• As layoffs cross 1 lakh",
+    "breaking": "• LG Display: Q1 Earnings Snapshot\n• Don't sleep on Battlestar Galactica: Scattered Hopes—it's tricky, tactical and the best FTL-like since, well, FTL\n• Finland ends drone alert amid regional fears of Ukraine war spillover\n• Uncle Sam on Mother’s Day\n• Stellantis, Dongfeng in $1.2 Billion Deal to Ma"
   },
   "topJobs": [
     {
-      "title": "Sales & Project Management Intern",
-      "company": "Bosch Group",
-      "location": "Farmington Hills, Oakland County",
+      "title": "People Success Project Lead Intern",
+      "company": "Wayne State University",
+      "location": "San Francisco, CA",
       "score": 9.8,
-      "url": "https://www.adzuna.com/details/5726537352?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "Infrastructure Project Manager I (Sewerage & Water Board) (Class Code 3415)",
-      "company": "City of New Orleans",
-      "location": "New Orleans, Orleans Parish",
-      "score": 8.5,
-      "url": "https://www.adzuna.com/details/5726396714?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "Summer Project Manager: Admin & Process Improvement Intern",
-      "company": "Richemont",
-      "location": "Fort Worth, TX",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-7264108403528992537"
+      "url": "https://jooble.org/jdp/4729192167955727092"
     },
     {
       "title": "Scrum Master Intern",
       "company": "Corpay",
       "location": "Peachtree Corners, GA",
-      "score": 9.7,
+      "score": 9.4,
       "url": "https://jooble.org/jdp/3070828316104438261"
     },
     {
-      "title": "Remote PMO Intern: Agile Software Project Coordinator",
-      "company": "BD (Becton, Dickinson and Company)",
-      "location": "San Diego, CA",
+      "title": "Project Manager",
+      "company": "ExtraPower",
+      "location": "New York, NY",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/1549930238334936984"
+    },
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge-Priest, Inc.",
+      "location": "Fort Worth, TX",
+      "score": 9.4,
+      "url": "https://jooble.org/jdp/5918605750114768743"
+    },
+    {
+      "title": "iXp: Associate Project Manager Intern (6-Month)",
+      "company": "SAP",
+      "location": "Newtown Square, PA",
       "score": 10,
-      "url": "https://jooble.org/jdp/150935881303612082"
+      "url": "https://jooble.org/jdp/-2618465786915142241"
     }
   ]
 }
