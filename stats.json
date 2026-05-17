@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-16T23:05:59.545Z",
-  "generatedAtET": "5/16/2026, 7:05:59 PM",
+  "generatedAt": "2026-05-17T23:05:37.209Z",
+  "generatedAtET": "5/17/2026, 7:05:37 PM",
   "pipeline": {
-    "jobsScanned": 1008,
-    "eligible": 49,
-    "score7plus": 49,
+    "jobsScanned": 962,
+    "eligible": 33,
+    "score7plus": 33,
     "approved": 5,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-05-15T23:04:12.260Z",
-    "gmailParsed": "2026-05-15T22:57:41.807Z",
-    "newsGenerated": "2026-05-15T23:04:10.015Z"
+    "news": "2026-05-17T11:43:08.296Z",
+    "gmailParsed": "2026-05-17T22:09:51.461Z",
+    "newsGenerated": "2026-05-17T11:43:00.868Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 21634,
-    "lastUpdated": "2026-05-15T22:47:38.192Z"
+    "totalCalls": 22878,
+    "lastUpdated": "2026-05-17T22:09:36.968Z"
   },
   "recentNews": {
-    "visa": "• ICE Director Calls Foreign Student Work Program Fraud ‘Magnet’ - Bloomberg Law News\n• ‘It’s Getting Unfriendlier’: International Students Race to Find Jobs - The New York Times\n• New Immigration Restrictions On H-1B Visas And Students Are Coming - Forbes\n• This Week in Immigration: May 15, 2026\n• ",
-    "tech": "• Amazon layoffs 2026: Amazon fires another wave after 30,000 cuts — who is next, and why AI is replacing jo\n• Detroit automakers have cut more than 20,000 U.S. salaried jobs as AI threat looms\n• From Cisco to Block, more companies are pointing to AI when unveiling job cuts\n• As layoffs cross 1 lakh",
-    "breaking": "• LG Display: Q1 Earnings Snapshot\n• Don't sleep on Battlestar Galactica: Scattered Hopes—it's tricky, tactical and the best FTL-like since, well, FTL\n• Finland ends drone alert amid regional fears of Ukraine war spillover\n• Uncle Sam on Mother’s Day\n• Stellantis, Dongfeng in $1.2 Billion Deal to Ma"
+    "visa": "• ‘It’s Getting Unfriendlier’: International Students Race to Find Jobs - The New York Times\n• Subject: Latitudes: For OPT, frontal attacks and an end run - The Chronicle of Higher Education\n• Does Higher Ed Need Defense, Improvement or Both? (column) - Inside Higher Ed\n• A missing signature may cos",
+    "tech": "• AI pushes 2026 tech layoffs past 50K in just three months, employers reveal\n• GM’s IT layoffs show Detroit’s AI future comes with job losses first\n• Meta layoffs 2026 shock: brutal AI-era job cuts\n• Crypto Jobs Offer Lifeline to Tech Workers Facing AI Layoffs\n• Job postings for this tech role have",
+    "breaking": "• Bulgaria Comes Out of Nowhere to Win Eurovision, Israel Is Runner-Up\n• Adelphi women's lacrosse has 14-game winning streak snapped in NCAA Tournament quarterfinals\n• Former Michigan State legend, Super Bowl winner and Lions coordinator dies at 83\n• Michigan staves off elimination as sophomore move"
   },
   "topJobs": [
     {
-      "title": "People Success Project Lead Intern",
-      "company": "Wayne State University",
-      "location": "San Francisco, CA",
-      "score": 9.8,
-      "url": "https://jooble.org/jdp/4729192167955727092"
-    },
-    {
-      "title": "Scrum Master Intern",
-      "company": "Corpay",
-      "location": "Peachtree Corners, GA",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/3070828316104438261"
-    },
-    {
       "title": "Project Manager",
-      "company": "ExtraPower",
-      "location": "New York, NY",
+      "company": "KPRS Construction Services, Inc.",
+      "location": "San Diego, CA",
       "score": 8.5,
-      "url": "https://jooble.org/jdp/1549930238334936984"
+      "url": "https://jooble.org/jdp/1026621356860488250"
     },
     {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge-Priest, Inc.",
-      "location": "Fort Worth, TX",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/5918605750114768743"
+      "title": "Product Manager Intern",
+      "company": "Crusoe",
+      "location": "San Francisco, CA",
+      "score": 8.3,
+      "url": "https://jooble.org/jdp/-1466153240931487710"
     },
     {
-      "title": "iXp: Associate Project Manager Intern (6-Month)",
-      "company": "SAP",
-      "location": "Newtown Square, PA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-2618465786915142241"
+      "title": "Assistant Project Manager",
+      "company": "JEM Group LLC",
+      "location": "Camp Hill, PA",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/-5565070797862273863"
+    },
+    {
+      "title": "Staffing Operations Analyst Intern",
+      "company": "Teleworld Solutions",
+      "location": "Chantilly, Loudoun County, VA",
+      "score": 8,
+      "url": "https://jooble.org/jdp/-8455234633022344323"
+    },
+    {
+      "title": "Operations Analyst Intern: Drive Process Improvement",
+      "company": "Digital Factory, Inc.",
+      "location": "Chicago, IL",
+      "score": 8,
+      "url": "https://jooble.org/jdp/464455746905871696"
     }
   ]
 }
