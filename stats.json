@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-21T23:05:47.744Z",
-  "generatedAtET": "5/21/2026, 7:05:47 PM",
+  "generatedAt": "2026-05-25T19:52:26.900Z",
+  "generatedAtET": "5/25/2026, 3:52:26 PM",
   "pipeline": {
-    "jobsScanned": 891,
-    "eligible": 12,
-    "score7plus": 12,
+    "jobsScanned": 989,
+    "eligible": 1,
+    "score7plus": 1,
     "approved": 5,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,27 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-05-21T12:10:34.698Z",
-    "gmailParsed": "2026-05-21T12:03:49.798Z",
-    "newsGenerated": "2026-05-21T12:10:27.975Z"
+    "news": "2026-05-24T00:25:11.344Z",
+    "gmailParsed": "2026-05-24T12:04:39.199Z",
+    "newsGenerated": "2026-05-25T19:51:02.047Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 25382,
-    "lastUpdated": "2026-05-21T22:57:17.446Z"
+    "totalCalls": 26180,
+    "lastUpdated": "2026-05-25T19:51:02.036Z"
   },
   "recentNews": {
-    "visa": "• Fresh Food Delivery for Space Station - NASA (.gov)\n• USI opens new STEM Discovery Lab for K-8 students - Courier & Press\n• Trimble Empowers Future Skilled Workforce Through National SkillsUSA Sponsorship - DredgeWire\n• Opinion | This immigration policy is a winner. It just needs a champion. - The",
-    "tech": "• Meta to commence layoffs of 10 pc of workforce from May 20 - english.punjabkesari.com\n• Meta cuts 8,000 jobs in sweeping global layoffs - Al Jazeera\n• Exclusive: ASML CEO sees tight supply in booming chip market as AI demand soars - Reuters\n• Why we should think of AI as replacing tasks, not jobs ",
-    "breaking": "• Filing period continues in Rochester and Olmsted County elections\n• ‘Good looking men’, the Iran war and déjà vu at Trump’s Coast Guard speech\n• East Quogue waterside restaurant Dockers damaged by fire\n• AMD just dropped a compact AI workstation that makes discrete GPUs look outdated for running"
+    "visa": "• International students consider abroad alternatives.\n• OPT lawsuit ends in Supreme Court.\n• Green Card rules change for H1-B, F-1 OPT.\n• USCIS adjusts status policy with new rules.\n• H-1B registrations drop under strict wage rules.\n• Opinion supports effective immigration policy.\n• ICE deportation",
+    "tech": "• Tech layoffs exceed 100,000 in 2026.\n• Meta lays off 10% of workforce.\n• Intuit cuts 3,000 jobs to focus on AI.\n• ASML CEO sees tight chip supply due to AI.\n• AI replaces tasks, not entire jobs.\n• UBS raises S&P 500 target due to AI demand.\n• Tallo wins award for career readiness services.\n• Sempe",
+    "breaking": "• Shooter killed near White House was previously charged.\n• Ross Gerber highlights market and happiness disconnect.\n• Iran reaches conclusions on US memorandum topics.\n• Iran confirms progress, but no imminent deal.\n• Russia attacks Kyiv with hypersonic Oreshnik missile.\n• Donald Trump Jr. predicts "
   },
   "topJobs": [
     {
-      "title": "Remote Product Manager Intern, Analytics Platform",
-      "company": "Pendulum, LLC",
-      "location": "New York, NY",
-      "score": 10,
-      "url": "https://jooble.org/jdp/1395087638233451035"
-    },
-    {
-      "title": "Junior Project Manager — Mentorship & Growth Path",
-      "company": "ELEVANCE NYC",
-      "location": "New York, NY",
-      "score": 10,
-      "url": "https://jooble.org/jdp/3670833405949336243"
-    },
-    {
-      "title": "Public Health Project Coordinator - Hybrid Role",
-      "company": "Nashville Public Radio",
-      "location": "Omaha, NE",
-      "score": 8,
-      "url": "https://jooble.org/jdp/3343316470340349095"
-    },
-    {
-      "title": "Operations Analyst Intern",
-      "company": "Inside Higher Ed",
-      "location": "Chicago, IL",
-      "score": 8.7,
-      "url": "https://jooble.org/jdp/-7912881334592080887"
-    },
-    {
-      "title": "Data Analytics Intern - Summer 2026",
-      "company": "Vanasse Hangen Brustlin",
-      "location": "Washington, D.C., US",
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
       "score": 9,
-      "url": "https://www.adzuna.com/details/5735010627?utm_medium=api&utm_source=2e4857a8"
+      "url": "https://jooble.org/jdp/4110353824091807495"
     }
   ]
 }
