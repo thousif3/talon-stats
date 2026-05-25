@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-25T21:05:16.943Z",
-  "generatedAtET": "5/25/2026, 5:05:16 PM",
+  "generatedAt": "2026-05-25T22:05:25.614Z",
+  "generatedAtET": "5/25/2026, 6:05:25 PM",
   "pipeline": {
-    "jobsScanned": 170,
-    "eligible": 40,
-    "score7plus": 40,
+    "jobsScanned": 270,
+    "eligible": 53,
+    "score7plus": 53,
     "approved": 5,
     "applications": 0,
     "interviews": 0,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 26444,
-    "lastUpdated": "2026-05-25T21:05:03.646Z"
+    "totalCalls": 26536,
+    "lastUpdated": "2026-05-25T22:03:37.889Z"
   },
   "recentNews": {
     "visa": "• International students consider abroad alternatives.\n• OPT lawsuit ends in Supreme Court.\n• Green Card rules change for H1-B, F-1 OPT.\n• USCIS adjusts status policy with new rules.\n• H-1B registrations drop under strict wage rules.\n• Opinion supports effective immigration policy.\n• ICE deportation",
