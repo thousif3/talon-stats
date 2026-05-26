@@ -1,68 +1,40 @@
 {
-  "generatedAt": "2026-05-25T23:14:49.172Z",
-  "generatedAtET": "5/25/2026, 7:14:49 PM",
+  "generatedAt": "2026-05-26T01:05:41.878Z",
+  "generatedAtET": "5/25/2026, 9:05:41 PM",
   "pipeline": {
-    "jobsScanned": 380,
-    "eligible": 74,
-    "score7plus": 74,
-    "approved": 5,
+    "jobsScanned": 976,
+    "eligible": 1,
+    "score7plus": 1,
+    "approved": 9,
     "applications": 0,
     "interviews": 0,
     "rejections": 0,
     "recruiters": 0,
-    "crmTracked": 29
+    "crmTracked": 33
   },
   "lastRuns": {
-    "jobScan": "2026-4-25-19",
-    "news": "2026-05-24T00:25:11.344Z",
-    "gmailParsed": "2026-05-24T12:04:39.199Z",
-    "newsGenerated": "2026-05-25T19:51:02.047Z"
+    "jobScan": null,
+    "news": "2026-05-26T00:14:41.648Z",
+    "gmailParsed": "2026-05-26T00:12:07.388Z",
+    "newsGenerated": "2026-05-26T00:14:39.326Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 26664,
-    "lastUpdated": "2026-05-25T23:13:21.241Z"
+    "totalCalls": 26680,
+    "lastUpdated": "2026-05-26T00:13:54.313Z"
   },
   "recentNews": {
-    "visa": "• International students consider abroad alternatives.\n• OPT lawsuit ends in Supreme Court.\n• Green Card rules change for H1-B, F-1 OPT.\n• USCIS adjusts status policy with new rules.\n• H-1B registrations drop under strict wage rules.\n• Opinion supports effective immigration policy.\n• ICE deportation",
-    "tech": "• Tech layoffs exceed 100,000 in 2026.\n• Meta lays off 10% of workforce.\n• Intuit cuts 3,000 jobs to focus on AI.\n• ASML CEO sees tight chip supply due to AI.\n• AI replaces tasks, not entire jobs.\n• UBS raises S&P 500 target due to AI demand.\n• Tallo wins award for career readiness services.\n• Sempe",
-    "breaking": "• Shooter killed near White House was previously charged.\n• Ross Gerber highlights market and happiness disconnect.\n• Iran reaches conclusions on US memorandum topics.\n• Iran confirms progress, but no imminent deal.\n• Russia attacks Kyiv with hypersonic Oreshnik missile.\n• Donald Trump Jr. predicts "
+    "visa": "• Running out of options in the U.S., more international students are eyeing alternative paths abroad - CNBC\n• دعوى قضائية ضد برامج OPT للطلاب الأجانب تنتهي في المحكمة العليا - SHRM\n• Immigration Law firm explains change in Green Card rules for H1-B, L-1, F-1 OPT: Here's full breakdown of - The Time",
+    "tech": "• Tech layoffs have already passed 100,000 in 2026 as the industry cuts jobs to fund AI - TechSpot\n• Meta to commence layoffs of 10 pc of workforce from May 20 - english.punjabkesari.com\n• Intuit to lay off over 3,000 employees to refocus on AI - TechCrunch\n• Exclusive: ASML CEO sees tight supply in",
+    "breaking": "• Injured Yamal and Williams in Spain's World Cup squad, no Real Madrid players named\n• Springsteen’s TD Garden show was a ferocious, rock-filled fight for America\n• AGM G3 Pro: Thermal imaging technology with a wide range of possibilities\n• Ex-Trump pal Megyn Kelly revives rape allegation against t"
   },
   "topJobs": [
-    {
-      "title": "Project Management Co-op (Fall 2026)",
-      "company": "Consigli Construction",
-      "location": "Portland, Cumberland County",
-      "score": 8.5,
-      "url": "https://www.adzuna.com/land/ad/5740580286?se=hikoRnNY8RGWQvEe2bTbLw&utm_medium=api&utm_source=2e4857a8&v=B157DE7BB8DE8A8D3C893F69EC6F11785FE6BF20"
-    },
-    {
-      "title": "Project Manager Intern - Columbus",
-      "company": "EMCOR Group",
-      "location": "Hilliard, Franklin County",
-      "score": 8.5,
-      "url": "https://www.adzuna.com/land/ad/5739330470?se=hikoRnNY8RGWQvEe2bTbLw&utm_medium=api&utm_source=2e4857a8&v=B8863572ED8573C2049AAF375E17D2E1DA9D639B"
-    },
-    {
-      "title": "Project Manager Intern - Harrisburg",
-      "company": "EMCOR Group",
-      "location": "Penbrook, Dauphin County",
-      "score": 8.5,
-      "url": "https://www.adzuna.com/details/5739279904?utm_medium=api&utm_source=2e4857a8"
-    },
     {
       "title": "Project Manager",
       "company": "IMPACT BRANDS",
       "location": "New York, NY",
       "score": 10,
       "url": "https://jooble.org/jdp/6247096838589469943"
-    },
-    {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge-Priest, Inc.",
-      "location": "Fort Worth, TX",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/5918605750114768743"
     }
   ]
 }
