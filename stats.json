@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-26T11:05:42.199Z",
-  "generatedAtET": "5/26/2026, 7:05:42 AM",
+  "generatedAt": "2026-05-29T01:05:07.398Z",
+  "generatedAtET": "5/28/2026, 9:05:07 PM",
   "pipeline": {
-    "jobsScanned": 976,
-    "eligible": 1,
-    "score7plus": 1,
+    "jobsScanned": 1067,
+    "eligible": 56,
+    "score7plus": 56,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,27 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-05-26T00:14:41.648Z",
-    "gmailParsed": "2026-05-26T00:12:07.388Z",
-    "newsGenerated": "2026-05-26T00:14:39.326Z"
+    "news": "2026-05-28T12:34:14.549Z",
+    "gmailParsed": "2026-05-28T12:27:45.177Z",
+    "newsGenerated": "2026-05-28T12:34:12.343Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 26680,
-    "lastUpdated": "2026-05-26T00:13:54.313Z"
+    "totalCalls": 29256,
+    "lastUpdated": "2026-05-29T00:41:37.157Z"
   },
   "recentNews": {
-    "visa": "• Running out of options in the U.S., more international students are eyeing alternative paths abroad - CNBC\n• دعوى قضائية ضد برامج OPT للطلاب الأجانب تنتهي في المحكمة العليا - SHRM\n• Immigration Law firm explains change in Green Card rules for H1-B, L-1, F-1 OPT: Here's full breakdown of - The Time",
-    "tech": "• Tech layoffs have already passed 100,000 in 2026 as the industry cuts jobs to fund AI - TechSpot\n• Meta to commence layoffs of 10 pc of workforce from May 20 - english.punjabkesari.com\n• Intuit to lay off over 3,000 employees to refocus on AI - TechCrunch\n• Exclusive: ASML CEO sees tight supply in",
-    "breaking": "• Injured Yamal and Williams in Spain's World Cup squad, no Real Madrid players named\n• Springsteen’s TD Garden show was a ferocious, rock-filled fight for America\n• AGM G3 Pro: Thermal imaging technology with a wide range of possibilities\n• Ex-Trump pal Megyn Kelly revives rape allegation against t"
+    "visa": "• Imminent Changes To International Student Visas Will Have Major Impact - Above the Law\n• Running out of options in the U.S., more international students are eyeing alternative paths abroad - CNBC\n• Immigration Law firm explains change in Green Card rules for H1-B, L-1, F-1 OPT: Here's full breakdo",
+    "tech": "• Tech layoffs have already passed 100,000 in 2026 as the industry cuts jobs to fund AI - TechSpot\n• Binance Invests in Workforce Capability as AI Reshapes the Job Market - FinancialContent\n• Jamie Dimon says JPMorgan will hire more AI braniacs, fewer bankers - New York Post\n• Legal hiring in 2026: ",
+    "breaking": "• Mass. town cancels Fourth of July events over public safety staffing\n• Cape cod weather: Which days will be dry this weekend?\n• Justice Dept. Is Said to Open Criminal Inquiry of E. Jean Carroll\n• U.S. Military Conducts New Strikes on Iran\n• DHS boss' threat to airports in sanctuary cities could ha"
   },
   "topJobs": [
     {
-      "title": "Project Manager",
-      "company": "IMPACT BRANDS",
-      "location": "New York, NY",
-      "score": 10,
-      "url": "https://jooble.org/jdp/6247096838589469943"
+      "title": "Junior IWMS Project Manager - Intern",
+      "company": "Incognito Software Systems Inc",
+      "location": "Wisconsin",
+      "score": 9.8,
+      "url": "https://jooble.org/jdp/5949449489595620707"
+    },
+    {
+      "title": "Product Manager Intern, Dealer Growth & Marketing",
+      "company": "RippleMatch Inc.",
+      "location": "Boston, MA",
+      "score": 9.3,
+      "url": "https://jooble.org/jdp/4450575388242477686"
+    },
+    {
+      "title": "Program Coordinator II",
+      "company": "South Carolina Treasurer's Office",
+      "location": "Columbia, SC",
+      "score": 7.2,
+      "url": "https://jooble.org/jdp/7371670314047780406"
+    },
+    {
+      "title": "2026 Fall Intern - QC Business Analyst",
+      "company": "Genentech",
+      "location": "Orenco, Washington County",
+      "score": 9.6,
+      "url": "https://www.adzuna.com/land/ad/5742859265?se=vDSqNpVa8RG3Y4O20ufYOQ&utm_medium=api&utm_source=2e4857a8&v=A0F2858DB7F4476BDC55837DA6C11D4B2CEC07BF"
+    },
+    {
+      "title": "Business Operations Analyst Intern",
+      "company": "Advantest America",
+      "location": "San Jose, CA",
+      "score": 9.4,
+      "url": "https://jooble.org/jdp/3397147102434223656"
     }
   ]
 }
