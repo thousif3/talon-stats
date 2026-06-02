@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-05-31T11:05:54.411Z",
-  "generatedAtET": "5/31/2026, 7:05:54 AM",
+  "generatedAt": "2026-06-02T01:05:12.017Z",
+  "generatedAtET": "6/1/2026, 9:05:12 PM",
   "pipeline": {
-    "jobsScanned": 1081,
-    "eligible": 34,
-    "score7plus": 34,
+    "jobsScanned": 1065,
+    "eligible": 38,
+    "score7plus": 38,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-05-30T12:59:33.927Z",
-    "gmailParsed": "2026-05-30T12:53:05.783Z",
-    "newsGenerated": "2026-05-30T12:59:31.223Z"
+    "news": "2026-06-01T12:23:17.792Z",
+    "gmailParsed": "2026-06-01T12:16:43.530Z",
+    "newsGenerated": "2026-06-01T12:23:15.107Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 30628,
-    "lastUpdated": "2026-05-31T01:14:23.427Z"
+    "totalCalls": 32176,
+    "lastUpdated": "2026-06-02T00:35:26.776Z"
   },
   "recentNews": {
-    "visa": "• Imminent Changes To International Student Visas Will Have Major Impact - Above the Law\n• Running out of options in the U.S., more international students are eyeing alternative paths abroad - CNBC\n• Think Together Awarded $125,000 Grant from Boeing to Expand STEM and Workforce Readiness Programs in",
-    "tech": "• Binance Invests in Workforce Capability as AI Reshapes the Job Market - FinancialContent\n• Apple Maintains Workforce Stability as Global Tech Layoffs Top 92,000 Amidst AI Spending Frenzy: Report - LatestLY\n• Legal hiring in 2026: AI skills and strategic expertise top employer demand - National Jur",
-    "breaking": "• When a Texas man was forced to give up his dog, a fire station gave him a home\n• Araujo fires no-hitter as St. Mary (Ruth.) wins in North, Group B quarters - Softball\n• Ghana parliament passes anti-LGBTQ+ bill\n• 2026 summer will be worst yet for teen employment in decades, WSJ predicts\n• Man named"
+    "visa": "• Imminent Changes To International Student Visas Will Have Major Impact - Above the Law\n• Think Together Awarded $125,000 Grant from Boeing to Expand STEM and Workforce Readiness Programs in Afterschool and Expanded Learning Programs - Weekly Voice\n• At NAFSA, Educators Expressed Concerns About Fed",
+    "tech": "• Apple Maintains Workforce Stability as Global Tech Layoffs Top 92,000 Amidst AI Spending Frenzy: Report - LatestLY\n• These companies are laying off employees in June - Newsweek\n• Another tech company says it will cut hundreds of jobs amid pivot to AI - Los Angeles Times\n• Snowflake stock soars on ",
+    "breaking": "• Berkshire Hathaway makes $6.8 billion housing bet with Taylor Morrison deal\n• ICE Barbie’s Successor Blasted for Bonkers Airport Plan - The Daily Beast\n• I turned my Raspberry Pi into a portable NAS that runs off a power bank, and now I carry terabytes everywhere\n• Johnny Depp’s Ruthless Crime Mas"
   },
   "topJobs": [
     {
-      "title": "Data Product Management Intern",
-      "company": "UMB Bank",
-      "location": "Kansas City, Jackson County",
-      "score": 8.5,
-      "url": "https://www.adzuna.com/details/5743221314?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "Assistant Project Manager LGA-ROW",
-      "company": "AECOM",
-      "location": "Phoenix, AZ",
+      "title": "Product Manager Intern",
+      "company": "Pendulum, LLC",
+      "location": "New York, NY",
       "score": 10,
-      "url": "https://jooble.org/jdp/6199003101509898783"
+      "url": "https://jooble.org/jdp/483073359491753653"
     },
     {
-      "title": "Junior Project Manager",
-      "company": "NES Fircroft",
-      "location": "Wisconsin",
+      "title": "Project Coordinator",
+      "company": "Royston Plant",
+      "location": "Bell Gardens, Los Angeles County",
       "score": 8.5,
-      "url": "https://jooble.org/jdp/-8738373888678830096"
+      "url": "https://www.adzuna.com/land/ad/5746426065?se=LBpO3rld8RGJsP62cd7lMw&utm_medium=api&utm_source=2e4857a8&v=2FB0AF9BAE99AF78D0483AC853B1708358671ABB"
     },
     {
-      "title": "PMO Coordinator - Portfolio Tools & Dashboards Champion",
-      "company": "On.Energy",
-      "location": "Miami, FL",
-      "score": 7.9,
-      "url": "https://jooble.org/jdp/1577372202479296812"
+      "title": "PMO Coordinator: Governance, Reporting & Workflow",
+      "company": "Toho Water Authority",
+      "location": "Kissimmee, FL",
+      "score": 7,
+      "url": "https://jooble.org/jdp/-6727132724184461807"
     },
     {
-      "title": "Summer Business Analyst 2027, 4 - 6 months (Advanced Degree)",
-      "company": "Arthur D. Little",
-      "location": "Boston, Suffolk County",
-      "score": 10,
-      "url": "https://www.adzuna.com/details/5743301140?utm_medium=api&utm_source=2e4857a8"
+      "title": "Program Coordinator (NetOps) Intern",
+      "company": "Veradigm®",
+      "location": "Raleigh, NC",
+      "score": 7.8,
+      "url": "https://jooble.org/jdp/-6168179295897728695"
+    },
+    {
+      "title": "M&D Operations Analyst Intern - OVIP",
+      "company": "Oracle",
+      "location": "US",
+      "score": 9.8,
+      "url": "https://www.adzuna.com/details/5737508689?utm_medium=api&utm_source=2e4857a8"
     }
   ]
 }
