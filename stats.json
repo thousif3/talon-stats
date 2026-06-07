@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-06T11:05:19.486Z",
-  "generatedAtET": "6/6/2026, 7:05:19 AM",
+  "generatedAt": "2026-06-07T23:05:44.152Z",
+  "generatedAtET": "6/7/2026, 7:05:44 PM",
   "pipeline": {
-    "jobsScanned": 1051,
-    "eligible": 12,
-    "score7plus": 12,
+    "jobsScanned": 922,
+    "eligible": 17,
+    "score7plus": 17,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-05T12:49:44.293Z",
-    "gmailParsed": "2026-06-05T12:43:17.033Z",
-    "newsGenerated": "2026-06-05T12:49:42.652Z"
+    "news": "2026-06-07T11:59:06.479Z",
+    "gmailParsed": "2026-06-07T22:38:52.286Z",
+    "newsGenerated": "2026-06-07T11:59:04.577Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 34284,
-    "lastUpdated": "2026-06-06T01:30:33.919Z"
+    "totalCalls": 35356,
+    "lastUpdated": "2026-06-07T22:38:43.915Z"
   },
   "recentNews": {
-    "visa": "• At NAFSA, Educators Expressed Concerns About Federal Policy - Inside Higher Ed\n• Republican Launches Long-shot Bid to End H-1B Visa Green Card Pathway - Newsweek\n• NASA Space Roboticist Challenge - NASA (.gov)\n• DOJ Asserts Trump Authority in H-1B Visa Fee Case Has Few Limits - Bloomberg Law News\n",
-    "tech": "• Sam Altman Says AI-Adopting Companies Are Hiring - Let's Data Science\n• Apple Maintains Workforce Stability as Global Tech Layoffs Top 92,000 Amidst AI Spending Frenzy: Report - LatestLY\n• These companies are laying off employees in June - Newsweek\n• HPE Sees Strong Growth Over Next 18 Months on S",
-    "breaking": "• AOC dodges questions on abuse allegations, Nazi tattoo claims rocking Platner's campaign\n• This 3-season highly rated sleeping bag is under $90 at Target\n• Salt Lake City Police Department prepares for Utah Pride Festival\n• Graham Platner admits to sexting women ‘soon’ after getting married, blast"
+    "visa": "• At NAFSA, Educators Expressed Concerns About Federal Policy - Inside Higher Ed\n• Republican Launches Long-shot Bid to End H-1B Visa Green Card Pathway - Newsweek\n• NASA Space Roboticist Challenge - NASA (.gov)\n• Republican Grills Markwayne Mullin on $100,000 H-1B Visa Fee - Newsweek\n• V&E Adds Orr",
+    "tech": "• AI Layoffs Already Have Surpassed Last Year’s Total. Tech Workers Are Being Cut First. - 24/7 Wall St.\n• Sam Altman Says AI-Adopting Companies Are Hiring - Let's Data Science\n• These companies are laying off employees in June - Newsweek\n• MMDSmart Accelerates Global Growth, Doubling Its Workforce ",
+    "breaking": "• The Best Mystery Series of All Time Is Surging on Streaming 30 Years After It Ended\n• Major coffee chain that closed almost 1,000 high street stores plans huge comeback\n• Jacob Gonzalez conecta su 1er jonrón en Grandes Ligas y Medias Blancas vencen 6-3 a Filis\n• Javier Sanoja homers and Tyler Zub"
   },
   "topJobs": [
     {
-      "title": "SkillBridge Project Manager Intern - AEC/GIS",
-      "company": "Larson Design Group",
-      "location": "King of Prussia, PA",
-      "score": 9.8,
-      "url": "https://jooble.org/jdp/5163248618712964686"
+      "title": "Product Manager Intern, Dealer Growth & Marketing",
+      "company": "RippleMatch Inc.",
+      "location": "Boston, MA",
+      "score": 9.6,
+      "url": "https://jooble.org/jdp/4450575388242477686"
     },
     {
-      "title": "Product Manager Intern - Summer 2026 (Mobile & Web)",
-      "company": "TikTok",
-      "location": "San Jose, CA",
+      "title": "Remote Product Manager Intern: Shape Next-Gen Analytics",
+      "company": "Pendulum Intelligence",
+      "location": "New York, NY",
       "score": 10,
-      "url": "https://jooble.org/jdp/-6955456322516421364"
+      "url": "https://jooble.org/jdp/649378127827853542"
     },
     {
       "title": "Assistant Project Manager",
-      "company": "Hermanson Company",
-      "location": "Washington DC",
-      "score": 9.5,
-      "url": "https://jooble.org/jdp/-1347304401631758200"
+      "company": "TRC Talent Solutions",
+      "location": "Arlington, TX",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/-4256215683387634974"
     },
     {
-      "title": "IT Project Coordinator",
-      "company": "Nerdio",
-      "location": "Richmond, VA",
-      "score": 9.2,
-      "url": "https://jooble.org/jdp/4890070949968420490"
+      "title": "PMO Coordinator: Governance, Reporting & Workflow",
+      "company": "Toho Water Authority",
+      "location": "Kissimmee, FL",
+      "score": 7,
+      "url": "https://jooble.org/jdp/-6727132724184461807"
     },
     {
-      "title": "Impactful Business Analyst Intern",
-      "company": "McKinsey & Company",
-      "location": "Atlanta, GA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/4855765641786874798"
+      "title": "Business Systems Analyst Co-op",
+      "company": "RippleMatch Inc.",
+      "location": "Boston, MA",
+      "score": 8.6,
+      "url": "https://jooble.org/jdp/8779839094583048010"
     }
   ]
 }
