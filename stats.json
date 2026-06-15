@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-13T11:05:45.856Z",
-  "generatedAtET": "6/13/2026, 7:05:45 AM",
+  "generatedAt": "2026-06-15T13:05:54.381Z",
+  "generatedAtET": "6/15/2026, 9:05:54 AM",
   "pipeline": {
-    "jobsScanned": 1056,
-    "eligible": 22,
-    "score7plus": 22,
+    "jobsScanned": 1052,
+    "eligible": 4,
+    "score7plus": 4,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,48 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-12T12:39:41.685Z",
-    "gmailParsed": "2026-06-12T12:33:14.571Z",
-    "newsGenerated": "2026-06-12T12:39:40.291Z"
+    "news": "2026-06-14T23:52:57.106Z",
+    "gmailParsed": "2026-06-14T23:47:09.499Z",
+    "newsGenerated": "2026-06-14T23:52:55.094Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38498,
-    "lastUpdated": "2026-06-13T00:55:30.073Z"
+    "totalCalls": 38726,
+    "lastUpdated": "2026-06-15T12:17:53.700Z"
   },
   "recentNews": {
-    "visa": "• How Peer Mentors Combat Summer Melt - Inside Higher Ed\n• Iranian students protest across country over exam changes; several arrests reported - The Times of Israel\n• Parents of Worcester Polytechnic’s “Lost Sons” Speak Out - Inside Higher Ed\n• Judge blocks Trump's $100,000 H-1B visa fee - CNBC\n• H-",
-    "tech": "• AI Layoffs Already Have Surpassed Last Year’s Total. Tech Workers Are Being Cut First. - 24/7 Wall St.\n• The $100,000 visa fee isn't stopping OpenAI, Anthropic, and Nvidia as they battle for AI talent - Business Insider\n• What sort of workforce are graduates entering, and what do they need to know",
-    "breaking": "• Casia Steinhaus first UND student to become astronaut scholar through Astronaut Scholarship Foundation\n• Midwest battered by dangerous storms, 1 killed in Des Moines\n• Kool-Aid Pineapples Look Toxic and Taste Amazing. Here’s How to Make Them.\n• Ariana Grande Blasts White House for Using ‘Bye’ in T"
+    "visa": "• How Peer Mentors Combat Summer Melt - Inside Higher Ed\n• 06.14.2026 | What You Need To Know Today - HF Chronicle\n• Parents of Worcester Polytechnic’s “Lost Sons” Speak Out - Inside Higher Ed\n• Judge blocks Trump's $100,000 H-1B visa fee - CNBC\n• H-1B Visa Rules Have Changed Again. What to Know - B",
+    "tech": "• Meta made AI workforce mistakes, no further layoffs planned this year: Zuckerberg - Telangana Today\n• The $100,000 visa fee isn't stopping OpenAI, Anthropic, and Nvidia as they battle for AI talent - Business Insider\n• What sort of workforce are graduates entering, and what do they need to know? -",
+    "breaking": "• Georgia lawmakers to fix voting method set to be banned.\n• Chrissy Teigen popularizes Barrel Jeans summer trend.\n• Houston police respond to 'Teen Takeover' at downtown park.\n• Ridley Scott's film to leave Paramount+ soon.\n• 17 tech gifts recommended for Father's Day.\n• BioShock games ranked in ne"
   },
   "topJobs": [
     {
-      "title": "Product Management Intern",
-      "company": "Relay",
-      "location": "Raleigh, Wake County",
-      "score": 9.8,
-      "url": "https://www.adzuna.com/details/5760946902?utm_medium=api&utm_source=2e4857a8"
+      "title": "Assistant Project Manager",
+      "company": "Hoffman & Hoffman Inc",
+      "location": "Richmond, VA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-5912256176856548326"
     },
     {
-      "title": "Product Manager Intern TikTok Shop Merchandise Growth",
-      "company": "Tik Tok",
-      "location": "Seattle, WA",
-      "score": 9.6,
-      "url": "https://jooble.org/jdp/5131608423429203398"
+      "title": "Business Analyst Intern",
+      "company": "Sandhills Global, Inc.",
+      "location": "Lincoln, NE",
+      "score": 9.1,
+      "url": "https://jooble.org/jdp/3395968553164132764"
     },
     {
-      "title": "Junior Reconstruction Project Manager - Salary + Commission",
-      "company": "ServiceMaster Clean of Fraser Valley",
-      "location": "Austin, TX",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/6391255593198942433"
+      "title": "SAP Sales Performance Management iXp Intern - Operations Analyst",
+      "company": "SAP SE",
+      "location": "Chicago, IL",
+      "score": 10,
+      "url": "https://jooble.org/jdp/8497515663591965429"
     },
     {
-      "title": "Assistant Project Coordinator Entry Level",
-      "company": "S & T Services of Florida",
-      "location": "Orlando, FL",
-      "score": 9.8,
-      "url": "https://jooble.org/jdp/3761134939501550884"
-    },
-    {
-      "title": "Hybrid PMO Coordinator — SAP Implementation",
-      "company": "Creative Solutions Services, LLC",
-      "location": "Indianapolis, IN",
+      "title": "Manufacturing Operations Data Analyst",
+      "company": "Kelvion",
+      "location": "Catoosa, OK",
       "score": 7.3,
-      "url": "https://jooble.org/jdp/-6458154240432200527"
+      "url": "https://jooble.org/jdp/-8068863458362724226"
     }
   ]
 }
