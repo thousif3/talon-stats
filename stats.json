@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-15T13:05:54.381Z",
-  "generatedAtET": "6/15/2026, 9:05:54 AM",
+  "generatedAt": "2026-06-15T14:05:35.231Z",
+  "generatedAtET": "6/15/2026, 10:05:35 AM",
   "pipeline": {
     "jobsScanned": 1052,
     "eligible": 4,
@@ -14,9 +14,9 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-14T23:52:57.106Z",
-    "gmailParsed": "2026-06-14T23:47:09.499Z",
-    "newsGenerated": "2026-06-14T23:52:55.094Z"
+    "news": "2026-06-15T13:12:35.067Z",
+    "gmailParsed": "2026-06-15T13:06:03.540Z",
+    "newsGenerated": "2026-06-15T13:12:33.107Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
@@ -24,9 +24,9 @@
     "lastUpdated": "2026-06-15T12:17:53.700Z"
   },
   "recentNews": {
-    "visa": "• How Peer Mentors Combat Summer Melt - Inside Higher Ed\n• 06.14.2026 | What You Need To Know Today - HF Chronicle\n• Parents of Worcester Polytechnic’s “Lost Sons” Speak Out - Inside Higher Ed\n• Judge blocks Trump's $100,000 H-1B visa fee - CNBC\n• H-1B Visa Rules Have Changed Again. What to Know - B",
-    "tech": "• Meta made AI workforce mistakes, no further layoffs planned this year: Zuckerberg - Telangana Today\n• The $100,000 visa fee isn't stopping OpenAI, Anthropic, and Nvidia as they battle for AI talent - Business Insider\n• What sort of workforce are graduates entering, and what do they need to know? -",
-    "breaking": "• Georgia lawmakers to fix voting method set to be banned.\n• Chrissy Teigen popularizes Barrel Jeans summer trend.\n• Houston police respond to 'Teen Takeover' at downtown park.\n• Ridley Scott's film to leave Paramount+ soon.\n• 17 tech gifts recommended for Father's Day.\n• BioShock games ranked in ne"
+    "visa": "• How Peer Mentors Combat Summer Melt - Inside Higher Ed\n• Parents of Worcester Polytechnic’s “Lost Sons” Speak Out - Inside Higher Ed\n• Lydian Cosmetic Surgery Clinic Announces Orthopedic Stem Cell Therapy in Guro - markets.businessinsider.com\n• Judge blocks Trump's $100,000 H-1B visa fee - CNBC\n• ",
+    "tech": "• Meta made AI workforce mistakes, no further layoffs planned this year: Zuckerberg - Telangana Today\n• What sort of workforce are graduates entering, and what do they need to know? - The Irish Times\n• AI Drives 40% of US Job Cuts in May as 97,000 Positions Eliminated - OpenTools\n• There are the AI-",
+    "breaking": "• CNBC Daily Open: For real this time? U.S., Iran peace deal at hand\n• 41 Years Later, This Classic Transformer Set Is Worth $30,000, And It's Only Getting Rarer\n• Valley Stream North's Paige Fessler, Sachem East's Bella Galeas win state titles in pentathlon\n• Anti-aging copper peptide surges among "
   },
   "topJobs": [
     {
