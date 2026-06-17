@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-15T23:05:20.313Z",
-  "generatedAtET": "6/15/2026, 7:05:20 PM",
+  "generatedAt": "2026-06-17T01:05:08.752Z",
+  "generatedAtET": "6/16/2026, 9:05:08 PM",
   "pipeline": {
-    "jobsScanned": 1052,
-    "eligible": 4,
-    "score7plus": 4,
+    "jobsScanned": 961,
+    "eligible": 1,
+    "score7plus": 1,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,48 +14,27 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-15T13:12:35.067Z",
-    "gmailParsed": "2026-06-15T13:06:03.540Z",
-    "newsGenerated": "2026-06-15T13:12:33.107Z"
+    "news": "2026-06-17T00:06:08.590Z",
+    "gmailParsed": "2026-06-16T23:59:40.512Z",
+    "newsGenerated": "2026-06-17T00:06:06.628Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38726,
-    "lastUpdated": "2026-06-15T12:17:53.700Z"
+    "totalCalls": 38748,
+    "lastUpdated": "2026-06-16T22:19:04.500Z"
   },
   "recentNews": {
-    "visa": "• How Peer Mentors Combat Summer Melt - Inside Higher Ed\n• Parents of Worcester Polytechnic’s “Lost Sons” Speak Out - Inside Higher Ed\n• Lydian Cosmetic Surgery Clinic Announces Orthopedic Stem Cell Therapy in Guro - markets.businessinsider.com\n• Judge blocks Trump's $100,000 H-1B visa fee - CNBC\n• ",
-    "tech": "• Meta made AI workforce mistakes, no further layoffs planned this year: Zuckerberg - Telangana Today\n• What sort of workforce are graduates entering, and what do they need to know? - The Irish Times\n• AI Drives 40% of US Job Cuts in May as 97,000 Positions Eliminated - OpenTools\n• There are the AI-",
-    "breaking": "• CNBC Daily Open: For real this time? U.S., Iran peace deal at hand\n• 41 Years Later, This Classic Transformer Set Is Worth $30,000, And It's Only Getting Rarer\n• Valley Stream North's Paige Fessler, Sachem East's Bella Galeas win state titles in pentathlon\n• Anti-aging copper peptide surges among "
+    "visa": "• Intl. Students Still in Limbo, Even With USCIS Pause Over - Inside Higher Ed\n• How Peer Mentors Combat Summer Melt - Inside Higher Ed\n• Aurora Australis - NASA (.gov)\n• Judge Agrees to Partly Pause Order Tossing $100,000 H-1B Fee - Bloomberg Law News\n• US District Court Rules $100,000 H-1B Fee is ",
+    "tech": "• Meta made AI workforce mistakes, no further layoffs planned this year: Zuckerberg - Telangana Today\n• Layoffs Under the Guise of AI: Why Tech Giants Are Cutting Staff - Zamin.uz\n• The economy keeps adding jobs. Many job seekers still feel stuck. - Business Insider\n• Designing an AI-ready workforce",
+    "breaking": "• MAGA dress rehearsal tests online army trained for midterm onslaught\n• Poinpy, the former Netflix-exclusive platformer, could be returning to mobile soon\n• Sheryl Crow: White House UFC Match 'Disgraceful and Void of Decency'\n• Pa. Supreme Court ruling puts future of skill games in question\n• Last "
   },
   "topJobs": [
     {
-      "title": "Assistant Project Manager",
-      "company": "Hoffman & Hoffman Inc",
-      "location": "Richmond, VA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-5912256176856548326"
-    },
-    {
-      "title": "Business Analyst Intern",
-      "company": "Sandhills Global, Inc.",
-      "location": "Lincoln, NE",
-      "score": 9.1,
-      "url": "https://jooble.org/jdp/3395968553164132764"
-    },
-    {
-      "title": "SAP Sales Performance Management iXp Intern - Operations Analyst",
-      "company": "SAP SE",
-      "location": "Chicago, IL",
-      "score": 10,
-      "url": "https://jooble.org/jdp/8497515663591965429"
-    },
-    {
-      "title": "Manufacturing Operations Data Analyst",
-      "company": "Kelvion",
-      "location": "Catoosa, OK",
-      "score": 7.3,
-      "url": "https://jooble.org/jdp/-8068863458362724226"
+      "title": "Research Partnerships Program Manager",
+      "company": "IntePros",
+      "location": "Seattle, WA",
+      "score": 9.8,
+      "url": "https://jooble.org/jdp/6407959118483616775"
     }
   ]
 }
