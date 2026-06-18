@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-17T11:05:08.895Z",
-  "generatedAtET": "6/17/2026, 7:05:08 AM",
+  "generatedAt": "2026-06-18T01:05:51.803Z",
+  "generatedAtET": "6/17/2026, 9:05:51 PM",
   "pipeline": {
-    "jobsScanned": 961,
-    "eligible": 1,
-    "score7plus": 1,
+    "jobsScanned": 989,
+    "eligible": 2,
+    "score7plus": 2,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,27 +14,34 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-17T00:06:08.590Z",
-    "gmailParsed": "2026-06-16T23:59:40.512Z",
-    "newsGenerated": "2026-06-17T00:06:06.628Z"
+    "news": "2026-06-18T00:26:51.642Z",
+    "gmailParsed": "2026-06-18T00:20:32.258Z",
+    "newsGenerated": "2026-06-18T00:26:49.845Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38748,
-    "lastUpdated": "2026-06-16T22:19:04.500Z"
+    "totalCalls": 38764,
+    "lastUpdated": "2026-06-18T00:25:18.335Z"
   },
   "recentNews": {
-    "visa": "• Intl. Students Still in Limbo, Even With USCIS Pause Over - Inside Higher Ed\n• How Peer Mentors Combat Summer Melt - Inside Higher Ed\n• Aurora Australis - NASA (.gov)\n• Judge Agrees to Partly Pause Order Tossing $100,000 H-1B Fee - Bloomberg Law News\n• US District Court Rules $100,000 H-1B Fee is ",
-    "tech": "• Meta made AI workforce mistakes, no further layoffs planned this year: Zuckerberg - Telangana Today\n• Layoffs Under the Guise of AI: Why Tech Giants Are Cutting Staff - Zamin.uz\n• The economy keeps adding jobs. Many job seekers still feel stuck. - Business Insider\n• Designing an AI-ready workforce",
-    "breaking": "• MAGA dress rehearsal tests online army trained for midterm onslaught\n• Poinpy, the former Netflix-exclusive platformer, could be returning to mobile soon\n• Sheryl Crow: White House UFC Match 'Disgraceful and Void of Decency'\n• Pa. Supreme Court ruling puts future of skill games in question\n• Last "
+    "visa": "• Intl. Students Still in Limbo, Even With USCIS Pause Over - Inside Higher Ed\n• How Peer Mentors Combat Summer Melt - Inside Higher Ed\n• Aurora Australis - NASA (.gov)\n• Judge Agrees to Partly Pause Order Tossing $100,000 H-1B Fee - Bloomberg Law News\n• Feds Dropped From Foreign Drivers' Fla. Licen",
+    "tech": "• Meta made AI workforce mistakes, no further layoffs planned this year: Zuckerberg - Telangana Today\n• Layoffs Under the Guise of AI: Why Tech Giants Are Cutting Staff - Zamin.uz\n• How India's AI Job Market Is Evolving Beyond Experimentation - Rediff\n• Designing an AI-ready workforce: A guide for S",
+    "breaking": "• N.J. boys track & field All-State teams and full postseason honors, 2026\n• Why Singapore’s AI Lead May Also Be Its Biggest Security Risk\n• Grasslands used to stretch across the continental US. Why they've dwindled.\n• Scientists discover spider that disguises itself as a parasitic fungus\n• Potentia"
   },
   "topJobs": [
     {
-      "title": "Research Partnerships Program Manager",
-      "company": "IntePros",
-      "location": "Seattle, WA",
-      "score": 9.8,
-      "url": "https://jooble.org/jdp/6407959118483616775"
+      "title": "Growth Strategy Analyst, Performance & Comp",
+      "company": "Charlie Health",
+      "location": "New York, NY",
+      "score": 7.3,
+      "url": "https://jooble.org/jdp/2132587049819462056"
+    },
+    {
+      "title": "Warehouse Project Manager Distribution Re-location",
+      "company": "AAE Company",
+      "location": "Goshen, IN",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/1475733640296333597"
     }
   ]
 }
