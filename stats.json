@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-19T11:05:47.447Z",
-  "generatedAtET": "6/19/2026, 7:05:47 AM",
+  "generatedAt": "2026-06-20T01:05:14.160Z",
+  "generatedAtET": "6/19/2026, 9:05:14 PM",
   "pipeline": {
-    "jobsScanned": 1018,
-    "eligible": 2,
-    "score7plus": 2,
+    "jobsScanned": 1035,
+    "eligible": 3,
+    "score7plus": 3,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,34 +14,41 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-19T00:50:47.151Z",
-    "gmailParsed": "2026-06-19T00:44:17.940Z",
-    "newsGenerated": "2026-06-19T00:50:45.490Z"
+    "news": "2026-06-20T01:03:14.005Z",
+    "gmailParsed": "2026-06-20T00:56:47.361Z",
+    "newsGenerated": "2026-06-20T01:03:12.219Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38776,
-    "lastUpdated": "2026-06-18T17:50:11.582Z"
+    "totalCalls": 38792,
+    "lastUpdated": "2026-06-19T17:19:47.729Z"
   },
   "recentNews": {
-    "visa": "• Intl. Students Still in Limbo, Even With USCIS Pause Over - Inside Higher Ed\n• How Peer Mentors Combat Summer Melt - Inside Higher Ed\n• Aurora Australis - NASA (.gov)\n• Judge Agrees to Partly Pause Order Tossing $100,000 H-1B Fee - Bloomberg Law News\n• Feds Dropped From Foreign Drivers' Fla. Licen",
-    "tech": "• The AI layoff wave is becoming a powder keg - TechCrunch\n• Meta made AI workforce mistakes, no further layoffs planned this year: Zuckerberg - Telangana Today\n• Layoffs Under the Guise of AI: Why Tech Giants Are Cutting Staff - Zamin.uz\n• AI workforce tops 9.2 lakh as hiring priorities evolve - Th",
-    "breaking": "• Sleep Number Corporation stock will be delisted from Nasdaq after Chapter 11 bankruptcy; shares plummet\n• Berger Montague PC Investigating Claims on Behalf of ADMA Biologics, Inc. (NASDAQ: ADMA) Investors After Class Action Filing\n• Kenyan McDuffie concedes to Janeese Lewis George in DC mayoral pr"
+    "visa": "• Intl. Students Still in Limbo, Even With USCIS Pause Over - Inside Higher Ed\n• Frontiers of Flight Museum - NBA.com\n• Aurora Australis - NASA (.gov)\n• Feds Dropped From Foreign Drivers' Fla. License Ban Suit - Law360\n• With uncertainty surrounding the H-1B visa fee, some U.S. businesses unsure how",
+    "tech": "• The AI layoff wave is becoming a powder keg - TechCrunch\n• Meta made AI workforce mistakes, no further layoffs planned this year: Zuckerberg - Telangana Today\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans India\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Ha",
+    "breaking": "• Number of Refugees in Germany Hits Record High of Four Million\n• Glastonbury Cops, State Officials Conduct Tobacco/Vape Sting\n• 'In Germany It is Open Season For Rape', 'This Country is Finished' Say Police Officers\n• Pulte takes over as acting DNI as bipartisan lawmakers question his qualificatio"
   },
   "topJobs": [
     {
-      "title": "Business Analyst Intern",
-      "company": "Loyalty Rules Inc",
-      "location": "Cedar Grove, WI",
+      "title": "Jr. IT Security Project Coordinator",
+      "company": "Ultimate LLC",
+      "location": "Plano, TX",
       "score": 8.5,
-      "url": "https://jooble.org/jdp/-3576834613679456102"
+      "url": "https://jooble.org/jdp/-1566757853763019786"
     },
     {
-      "title": "Scrum Master",
-      "company": "Curaleaf",
-      "location": "Las Vegas, NV",
-      "score": 7.6,
-      "url": "https://jooble.org/jdp/-6783617127093934243"
+      "title": "Executive Coordinator PMO",
+      "company": "EMD Millipore",
+      "location": "Burlington, MA",
+      "score": 8.3,
+      "url": "https://jooble.org/jdp/-6459460352474839636"
+    },
+    {
+      "title": "Agile Project Manager / Scrum Master",
+      "company": "inSync Staffing",
+      "location": "Atlanta, GA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/2165026809877008356"
     }
   ]
 }
