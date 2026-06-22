@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-20T11:05:14.276Z",
-  "generatedAtET": "6/20/2026, 7:05:14 AM",
+  "generatedAt": "2026-06-22T01:05:21.212Z",
+  "generatedAtET": "6/21/2026, 9:05:21 PM",
   "pipeline": {
-    "jobsScanned": 1035,
-    "eligible": 3,
-    "score7plus": 3,
+    "jobsScanned": 1006,
+    "eligible": 1,
+    "score7plus": 1,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,41 +14,27 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-20T01:03:14.005Z",
-    "gmailParsed": "2026-06-20T00:56:47.361Z",
-    "newsGenerated": "2026-06-20T01:03:12.219Z"
+    "news": "2026-06-22T00:40:21.062Z",
+    "gmailParsed": "2026-06-22T00:33:52.431Z",
+    "newsGenerated": "2026-06-22T00:40:19.375Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38792,
-    "lastUpdated": "2026-06-19T17:19:47.729Z"
+    "totalCalls": 38826,
+    "lastUpdated": "2026-06-21T23:19:34.546Z"
   },
   "recentNews": {
-    "visa": "• Intl. Students Still in Limbo, Even With USCIS Pause Over - Inside Higher Ed\n• Frontiers of Flight Museum - NBA.com\n• Aurora Australis - NASA (.gov)\n• Feds Dropped From Foreign Drivers' Fla. License Ban Suit - Law360\n• With uncertainty surrounding the H-1B visa fee, some U.S. businesses unsure how",
-    "tech": "• The AI layoff wave is becoming a powder keg - TechCrunch\n• Meta made AI workforce mistakes, no further layoffs planned this year: Zuckerberg - Telangana Today\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans India\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Ha",
-    "breaking": "• Number of Refugees in Germany Hits Record High of Four Million\n• Glastonbury Cops, State Officials Conduct Tobacco/Vape Sting\n• 'In Germany It is Open Season For Rape', 'This Country is Finished' Say Police Officers\n• Pulte takes over as acting DNI as bipartisan lawmakers question his qualificatio"
+    "visa": "• Intl. Students Still in Limbo, Even With USCIS Pause Over - Inside Higher Ed\n• Frontiers of Flight Museum - NBA.com\n• Aurora Australis - NASA (.gov)\n• H-1B Visa update: DHS hits back at Judge's order over $100,000 fee - Newsweek\n• Feds Dropped From Foreign Drivers' Fla. License Ban Suit - Law360\n•",
+    "tech": "• The AI layoff wave is becoming a powder keg - TechCrunch\n• Want to join NGA? Bring AI skills, agency leader says - Defense One\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans India\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans India\n• Visteon brings real-t",
+    "breaking": "• Mass. weather: Sun’s out for Father’s Day, with afternoon thunderstorms looming\n• Vance arrives in Switzerland as US-Iran nuclear talks get underway\n• 2 dead, 2 injured after Montgomery shootings\n• Heat advisory issued for Salem and the Mid-Valley\n• Heat advisory issued for Eugene and Lane County\n"
   },
   "topJobs": [
     {
-      "title": "Jr. IT Security Project Coordinator",
-      "company": "Ultimate LLC",
-      "location": "Plano, TX",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-1566757853763019786"
-    },
-    {
-      "title": "Executive Coordinator PMO",
-      "company": "EMD Millipore",
-      "location": "Burlington, MA",
-      "score": 8.3,
-      "url": "https://jooble.org/jdp/-6459460352474839636"
-    },
-    {
-      "title": "Agile Project Manager / Scrum Master",
-      "company": "inSync Staffing",
-      "location": "Atlanta, GA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/2165026809877008356"
+      "title": "Data Operations Analyst",
+      "company": "Hive",
+      "location": "San Francisco, CA",
+      "score": 7.3,
+      "url": "https://jooble.org/jdp/5792978549912760343"
     }
   ]
 }
