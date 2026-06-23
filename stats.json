@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-06-22T11:05:21.349Z",
-  "generatedAtET": "6/22/2026, 7:05:21 AM",
+  "generatedAt": "2026-06-23T01:05:53.491Z",
+  "generatedAtET": "6/22/2026, 9:05:53 PM",
   "pipeline": {
-    "jobsScanned": 1006,
+    "jobsScanned": 1004,
     "eligible": 1,
     "score7plus": 1,
     "approved": 9,
@@ -14,27 +14,27 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-22T00:40:21.062Z",
-    "gmailParsed": "2026-06-22T00:33:52.431Z",
-    "newsGenerated": "2026-06-22T00:40:19.375Z"
+    "news": "2026-06-23T00:37:53.340Z",
+    "gmailParsed": "2026-06-23T00:31:25.142Z",
+    "newsGenerated": "2026-06-23T00:37:51.314Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38826,
-    "lastUpdated": "2026-06-21T23:19:34.546Z"
+    "totalCalls": 38840,
+    "lastUpdated": "2026-06-22T17:14:49.700Z"
   },
   "recentNews": {
-    "visa": "• Intl. Students Still in Limbo, Even With USCIS Pause Over - Inside Higher Ed\n• Frontiers of Flight Museum - NBA.com\n• Aurora Australis - NASA (.gov)\n• H-1B Visa update: DHS hits back at Judge's order over $100,000 fee - Newsweek\n• Feds Dropped From Foreign Drivers' Fla. License Ban Suit - Law360\n•",
-    "tech": "• The AI layoff wave is becoming a powder keg - TechCrunch\n• Want to join NGA? Bring AI skills, agency leader says - Defense One\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans India\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans India\n• Visteon brings real-t",
-    "breaking": "• Mass. weather: Sun’s out for Father’s Day, with afternoon thunderstorms looming\n• Vance arrives in Switzerland as US-Iran nuclear talks get underway\n• 2 dead, 2 injured after Montgomery shootings\n• Heat advisory issued for Salem and the Mid-Valley\n• Heat advisory issued for Eugene and Lane County\n"
+    "visa": "• Intl. Students Still in Limbo, Even With USCIS Pause Over - Inside Higher Ed\n• Frontiers of Flight Museum - NBA.com\n• Aurora Australis - NASA (.gov)\n• H-1B Visa update: DHS hits back at Judge's order over $100,000 fee - Newsweek\n• JAPAN TO INCREASE VISA FEES FOR FOREIGN TRAVELERS STARTING JULY 1, ",
+    "tech": "• AI Layoffs Are Here, But They Don’t Mean What You Think - Forbes\n• Want to join NGA? Bring AI skills, agency leader says - Defense One\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans India\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans India\n• Visteon bring",
+    "breaking": "• Senior Center’s annual picnic in the park to return on Tuesday\n• Letter: Repeal ranked choice voting? That’s an emphatic ‘yes’\n• Charles Schwab is teaming up with Cboe to launch S&P 500 prediction market contracts\n• Why Trump has been attacking the Supreme Court, with 3 key rulings ahead - The Was"
   },
   "topJobs": [
     {
-      "title": "Data Operations Analyst",
-      "company": "Hive",
-      "location": "San Francisco, CA",
-      "score": 7.3,
-      "url": "https://jooble.org/jdp/5792978549912760343"
+      "title": "SAP Sales Performance Management iXp Intern - Operations Analyst",
+      "company": "SAP SE",
+      "location": "Chicago, IL",
+      "score": 10,
+      "url": "https://jooble.org/jdp/8497515663591965429"
     }
   ]
 }
