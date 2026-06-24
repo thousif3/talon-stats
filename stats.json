@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-24T09:05:43.547Z",
-  "generatedAtET": "6/24/2026, 5:05:43 AM",
+  "generatedAt": "2026-06-24T10:05:10.011Z",
+  "generatedAtET": "6/24/2026, 6:05:10 AM",
   "pipeline": {
     "jobsScanned": 1023,
     "eligible": 4,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38860,
-    "lastUpdated": "2026-06-24T00:47:10.309Z"
+    "totalCalls": 38862,
+    "lastUpdated": "2026-06-24T10:05:09.232Z"
   },
   "recentNews": {
     "visa": "• Frontiers of Flight Museum - NBA.com\n• Duration-of-Status Rule Change Clears White House Review - Inside Higher Ed\n• Green Card Update: Family Visas Move Ahead—Full List of Changes - Newsweek\n• H-1B Visa update: DHS hits back at Judge's order over $100,000 fee - Newsweek\n• JAPAN TO INCREASE VISA F",
