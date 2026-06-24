@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-23T11:05:18.039Z",
-  "generatedAtET": "6/23/2026, 7:05:18 AM",
+  "generatedAt": "2026-06-24T01:05:43.443Z",
+  "generatedAtET": "6/23/2026, 9:05:43 PM",
   "pipeline": {
-    "jobsScanned": 1004,
-    "eligible": 1,
-    "score7plus": 1,
+    "jobsScanned": 1023,
+    "eligible": 4,
+    "score7plus": 4,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,27 +14,48 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-23T00:37:53.340Z",
-    "gmailParsed": "2026-06-23T00:31:25.142Z",
-    "newsGenerated": "2026-06-23T00:37:51.314Z"
+    "news": "2026-06-24T00:48:43.278Z",
+    "gmailParsed": "2026-06-24T00:44:22.228Z",
+    "newsGenerated": "2026-06-24T00:48:41.818Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38840,
-    "lastUpdated": "2026-06-22T17:14:49.700Z"
+    "totalCalls": 38860,
+    "lastUpdated": "2026-06-24T00:47:10.309Z"
   },
   "recentNews": {
-    "visa": "• Intl. Students Still in Limbo, Even With USCIS Pause Over - Inside Higher Ed\n• Frontiers of Flight Museum - NBA.com\n• Aurora Australis - NASA (.gov)\n• H-1B Visa update: DHS hits back at Judge's order over $100,000 fee - Newsweek\n• JAPAN TO INCREASE VISA FEES FOR FOREIGN TRAVELERS STARTING JULY 1, ",
-    "tech": "• AI Layoffs Are Here, But They Don’t Mean What You Think - Forbes\n• Want to join NGA? Bring AI skills, agency leader says - Defense One\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans India\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans India\n• Visteon bring",
-    "breaking": "• Senior Center’s annual picnic in the park to return on Tuesday\n• Letter: Repeal ranked choice voting? That’s an emphatic ‘yes’\n• Charles Schwab is teaming up with Cboe to launch S&P 500 prediction market contracts\n• Why Trump has been attacking the Supreme Court, with 3 key rulings ahead - The Was"
+    "visa": "• Frontiers of Flight Museum - NBA.com\n• Duration-of-Status Rule Change Clears White House Review - Inside Higher Ed\n• Green Card Update: Family Visas Move Ahead—Full List of Changes - Newsweek\n• H-1B Visa update: DHS hits back at Judge's order over $100,000 fee - Newsweek\n• JAPAN TO INCREASE VISA F",
+    "tech": "• Oracle shed 21,000 roles over the past year amid wave of AI layoffs from tech giants - CNBC\n• AI Layoffs Are Here, But They Don’t Mean What You Think - Forbes\n• Oracle Admits Artificial Intelligence Has Cost 21,000 Jobs - Forbes\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans I",
+    "breaking": "• 'Donald' name popularity plummets among parents.\n• Trump vows to provide vandalism proof in court.\n• Ex-Michigan corrections officer sentenced for assault.\n• Scudder Falls Bridge path closes for 3 days.\n• Vaibhav Sooryavanshi receives his first India jersey.\n• GOP base trust in Trump on Iran to be"
   },
   "topJobs": [
     {
-      "title": "SAP Sales Performance Management iXp Intern - Operations Analyst",
-      "company": "SAP SE",
+      "title": "Product Manager Intern (Class of 2027)",
+      "company": "Publicis Sapient",
       "location": "Chicago, IL",
       "score": 10,
-      "url": "https://jooble.org/jdp/8497515663591965429"
+      "url": "https://jooble.org/jdp/8066663179476583011"
+    },
+    {
+      "title": "Hardware Program Manager Intern - Cross-Functional PM",
+      "company": "Zipline",
+      "location": "South San Francisco, CA",
+      "score": 9.4,
+      "url": "https://jooble.org/jdp/-3312585611978957580"
+    },
+    {
+      "title": "Operations Analyst - Corporate Real Estate",
+      "company": "TransPerfect",
+      "location": "New York, NY",
+      "score": 7.6,
+      "url": "https://jooble.org/jdp/-4514982752924010797"
+    },
+    {
+      "title": "Remote Development Operations & Data Analyst",
+      "company": "Obama Foundation",
+      "location": "Springfield, IL",
+      "score": 8.6,
+      "url": "https://jooble.org/jdp/-30772656077458698"
     }
   ]
 }
