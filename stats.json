@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-25T09:05:32.014Z",
-  "generatedAtET": "6/25/2026, 5:05:32 AM",
+  "generatedAt": "2026-06-25T11:05:27.951Z",
+  "generatedAtET": "6/25/2026, 7:05:27 AM",
   "pipeline": {
     "jobsScanned": 986,
     "eligible": 3,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38878,
-    "lastUpdated": "2026-06-25T00:09:27.246Z"
+    "totalCalls": 38882,
+    "lastUpdated": "2026-06-25T10:09:27.154Z"
   },
   "recentNews": {
     "visa": "• Frontiers of Flight Museum - NBA.com\n• Duration-of-Status Rule Change Clears White House Review - Inside Higher Ed\n• The top photos of the day by AP photojournalists - AP News\n• H-1B Visa update: DHS hits back at Judge's order over $100,000 fee - Newsweek\n• Grand Park Kodhipparu Maldives Strengthe",
