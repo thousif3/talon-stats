@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-24T11:05:10.059Z",
-  "generatedAtET": "6/24/2026, 7:05:10 AM",
+  "generatedAt": "2026-06-25T01:05:31.906Z",
+  "generatedAtET": "6/24/2026, 9:05:31 PM",
   "pipeline": {
-    "jobsScanned": 1023,
-    "eligible": 4,
-    "score7plus": 4,
+    "jobsScanned": 986,
+    "eligible": 3,
+    "score7plus": 3,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,48 +14,41 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-24T00:48:43.278Z",
-    "gmailParsed": "2026-06-24T00:44:22.228Z",
-    "newsGenerated": "2026-06-24T00:48:41.818Z"
+    "news": "2026-06-25T00:23:31.741Z",
+    "gmailParsed": "2026-06-25T00:17:03.064Z",
+    "newsGenerated": "2026-06-25T00:23:30.006Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38862,
-    "lastUpdated": "2026-06-24T10:05:09.232Z"
+    "totalCalls": 38878,
+    "lastUpdated": "2026-06-25T00:09:27.246Z"
   },
   "recentNews": {
-    "visa": "• Frontiers of Flight Museum - NBA.com\n• Duration-of-Status Rule Change Clears White House Review - Inside Higher Ed\n• Green Card Update: Family Visas Move Ahead—Full List of Changes - Newsweek\n• H-1B Visa update: DHS hits back at Judge's order over $100,000 fee - Newsweek\n• JAPAN TO INCREASE VISA F",
-    "tech": "• Oracle shed 21,000 roles over the past year amid wave of AI layoffs from tech giants - CNBC\n• AI Layoffs Are Here, But They Don’t Mean What You Think - Forbes\n• Oracle Admits Artificial Intelligence Has Cost 21,000 Jobs - Forbes\n• AI workforce tops 9.2 lakh as hiring priorities evolve - The Hans I",
-    "breaking": "• 'Donald' name popularity plummets among parents.\n• Trump vows to provide vandalism proof in court.\n• Ex-Michigan corrections officer sentenced for assault.\n• Scudder Falls Bridge path closes for 3 days.\n• Vaibhav Sooryavanshi receives his first India jersey.\n• GOP base trust in Trump on Iran to be"
+    "visa": "• Frontiers of Flight Museum - NBA.com\n• Duration-of-Status Rule Change Clears White House Review - Inside Higher Ed\n• The top photos of the day by AP photojournalists - AP News\n• H-1B Visa update: DHS hits back at Judge's order over $100,000 fee - Newsweek\n• Grand Park Kodhipparu Maldives Strengthe",
+    "tech": "• The running list: major tech layoffs in 2026 where employers cited AI - TechCrunch\n• Oracle shed 21,000 roles over the past year amid wave of AI layoffs from tech giants - CNBC\n• AI Layoffs Are Here, But They Don’t Mean What You Think - Forbes\n• AI workforce tops 9.2 lakh as hiring priorities evol",
+    "breaking": "• Burlington County Scholastic League Girls Lacrosse Season in Review, 2026\n• Camp Mystic, Where 28 Died in Texas Floods, Files for Bankruptcy\n• Frank Carone, Longtime Eric Adams Associate, Is Arrested in Bribery Scheme\n• This confusing food label is being banned in California\n• Erling Haaland makes"
   },
   "topJobs": [
     {
-      "title": "Product Manager Intern (Class of 2027)",
-      "company": "Publicis Sapient",
-      "location": "Chicago, IL",
+      "title": "Product Manager Intern",
+      "company": "Centerfield Corporation",
+      "location": "Los Angeles, CA",
       "score": 10,
-      "url": "https://jooble.org/jdp/8066663179476583011"
+      "url": "https://jooble.org/jdp/7255229023531274406"
     },
     {
-      "title": "Hardware Program Manager Intern - Cross-Functional PM",
-      "company": "Zipline",
-      "location": "South San Francisco, CA",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/-3312585611978957580"
-    },
-    {
-      "title": "Operations Analyst - Corporate Real Estate",
-      "company": "TransPerfect",
+      "title": "Remote PMO Coordinator for Engineering Projects",
+      "company": "Uptalent.io",
       "location": "New York, NY",
-      "score": 7.6,
-      "url": "https://jooble.org/jdp/-4514982752924010797"
+      "score": 10,
+      "url": "https://jooble.org/jdp/-4645154785628742554"
     },
     {
-      "title": "Remote Development Operations & Data Analyst",
-      "company": "Obama Foundation",
-      "location": "Springfield, IL",
-      "score": 8.6,
-      "url": "https://jooble.org/jdp/-30772656077458698"
+      "title": "Health Information & EHR Analyst Training Program (Remote)",
+      "company": "OCHIN",
+      "location": "New York, NY",
+      "score": 7.3,
+      "url": "https://jooble.org/jdp/1594522124649666876"
     }
   ]
 }
