@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-27T11:05:00.734Z",
-  "generatedAtET": "6/27/2026, 7:05:00 AM",
+  "generatedAt": "2026-06-29T02:05:43.298Z",
+  "generatedAtET": "6/28/2026, 10:05:43 PM",
   "pipeline": {
-    "jobsScanned": 1039,
-    "eligible": 3,
-    "score7plus": 3,
+    "jobsScanned": 1028,
+    "eligible": 7,
+    "score7plus": 7,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,41 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-26T12:49:09.971Z",
-    "gmailParsed": "2026-06-26T12:47:59.037Z",
-    "newsGenerated": "2026-06-26T12:49:08.022Z"
+    "news": "2026-06-28T12:08:45.193Z",
+    "gmailParsed": "2026-06-28T12:06:49.696Z",
+    "newsGenerated": "2026-06-28T12:08:43.205Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 38976,
-    "lastUpdated": "2026-06-27T01:51:50.878Z"
+    "totalCalls": 39590,
+    "lastUpdated": "2026-06-29T01:30:27.929Z"
   },
   "recentNews": {
     "visa": "No news found.",
     "tech": "No news found.",
-    "breaking": "• Fun Spot America in Fayetteville closes after 36 years.\n• Sombr recruits Inde Navarrette and Josh Heuston for music video.\n• San Francisco's high-tech trash cans delayed due to vandalism.\n• Drunk driver navigates South Shore beach dunes with child.\n• Lacey man allegedly dislocates shoulder to esca"
+    "breaking": "• 117 dead dogs found at California 'no-kill' animal rescue - many with gunshot wounds\n• Klobuchar lays out plans for workforce development, K-12 achievement\n• 'That's his problem': Ex-Trump official explains why JD Vance can't be president\n• Plane crash lands in Ventura County riverbed\n• How The Co"
   },
   "topJobs": [
     {
-      "title": "PMO Coordinator",
-      "company": "Cushman & Wakefield",
-      "location": "Redmond, WA",
-      "score": 7.9,
-      "url": "https://jooble.org/jdp/6400079393557527724"
+      "title": "Project Manager 3",
+      "company": "Andersen Construction",
+      "location": "Portland, OR",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/-8007873489867504259"
     },
     {
-      "title": "Operations Data Analyst",
-      "company": "Ehob",
+      "title": "Product Manager Assistant (Summer Internship)",
+      "company": "ASUSTeK Computer Inc.",
+      "location": "California, MO",
+      "score": 9.4,
+      "url": "https://jooble.org/jdp/5223507449095741224"
+    },
+    {
+      "title": "Junior Project Manager",
+      "company": "Ryan Fireprotection",
       "location": "Indianapolis, IN",
-      "score": 9,
-      "url": "https://jooble.org/jdp/1971993851581438241"
+      "score": 10,
+      "url": "https://jooble.org/jdp/-1092187044603578235"
     },
     {
-      "title": "Program Manager",
-      "company": "Artech Information System LLC",
-      "location": "New York, NY",
-      "score": 8.9,
-      "url": "https://jooble.org/jdp/3758818457328667809"
+      "title": "Data Operations Analyst",
+      "company": "Nabla",
+      "location": "California, MO",
+      "score": 7.3,
+      "url": "https://jooble.org/jdp/-1716500560705929736"
+    },
+    {
+      "title": "Internship, Process Analyst, Marketing Fleet Operations (Fall 2026)",
+      "company": "Tesla Motors, Inc.",
+      "location": "Anaheim, CA",
+      "score": 9.1,
+      "url": "https://jooble.org/jdp/1817083959740504794"
     }
   ]
 }
