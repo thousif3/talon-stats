@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-29T23:05:26.842Z",
-  "generatedAtET": "6/29/2026, 7:05:26 PM",
+  "generatedAt": "2026-06-30T10:05:21.223Z",
+  "generatedAtET": "6/30/2026, 6:05:21 AM",
   "pipeline": {
-    "jobsScanned": 1004,
-    "eligible": 116,
-    "score7plus": 116,
+    "jobsScanned": 941,
+    "eligible": 78,
+    "score7plus": 78,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -15,13 +15,13 @@
   "lastRuns": {
     "jobScan": null,
     "news": "2026-06-29T21:49:47.178Z",
-    "gmailParsed": "2026-06-29T21:47:55.272Z",
+    "gmailParsed": "2026-06-30T09:21:39.982Z",
     "newsGenerated": "2026-06-29T21:49:45.985Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 40952,
-    "lastUpdated": "2026-06-29T21:49:45.979Z"
+    "totalCalls": 42176,
+    "lastUpdated": "2026-06-30T09:21:20.982Z"
   },
   "recentNews": {
     "visa": "No news found.",
@@ -30,39 +30,39 @@
   },
   "topJobs": [
     {
-      "title": "Assistant Project Manager Intern",
-      "company": "W.W. Gay Mechanical Contractor, Inc.",
-      "location": "Gainesville, Alachua County",
-      "score": 8.5,
-      "url": "https://www.adzuna.com/land/ad/5780805151?se=nKWfKLJz8RG1Ec3-_UvSsA&utm_medium=api&utm_source=2e4857a8&v=AEFE9D261E509525659D17A65745E889D52418FE"
-    },
-    {
-      "title": "Project Manager 2",
-      "company": "Andersen Construction",
-      "location": "Portland, OR",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-7686423172292795038"
-    },
-    {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge Priest Inc",
-      "location": "Fort Worth, TX",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-7375923879709907684"
-    },
-    {
       "title": "Junior Project Manager - Start Your PM Career in Tech",
       "company": "JanBask CRM Software",
       "location": "Arlington, VA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-2031977199672215055"
+      "score": 9.4,
+      "url": "https://jooble.org/jdp/4110353824091807495"
     },
     {
-      "title": "Remote PMO Intern: Agile Software Project Coordinator",
-      "company": "BD (Becton, Dickinson and Company)",
-      "location": "San Diego, CA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/150935881303612082"
+      "title": "Space Systems Project Manager Intern",
+      "company": "Astranis Space Technologies Corp.",
+      "location": "San Francisco, CA",
+      "score": 9.3,
+      "url": "https://jooble.org/jdp/-4107004456037004327"
+    },
+    {
+      "title": "Product Manager Internships",
+      "company": "Danaher",
+      "location": "Elizabeth, NJ",
+      "score": 9.4,
+      "url": "https://jooble.org/jdp/-43604543503009047"
+    },
+    {
+      "title": "Product Manager Intern",
+      "company": "Centerfield",
+      "location": "Los Angeles, CA",
+      "score": 8.6,
+      "url": "https://jooble.org/jdp/6136012625281288228"
+    },
+    {
+      "title": "MBA Product Manager Intern — Onsite in Chicago",
+      "company": "Neonforlife",
+      "location": "Chicago, IL",
+      "score": 8.6,
+      "url": "https://jooble.org/jdp/-4758376898414357016"
     }
   ]
 }
