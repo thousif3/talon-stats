@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-30T11:05:21.264Z",
-  "generatedAtET": "6/30/2026, 7:05:21 AM",
+  "generatedAt": "2026-06-30T22:05:05.546Z",
+  "generatedAtET": "6/30/2026, 6:05:05 PM",
   "pipeline": {
-    "jobsScanned": 941,
-    "eligible": 78,
-    "score7plus": 78,
+    "jobsScanned": 951,
+    "eligible": 106,
+    "score7plus": 106,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-29T21:49:47.178Z",
-    "gmailParsed": "2026-06-30T09:21:39.982Z",
-    "newsGenerated": "2026-06-29T21:49:45.985Z"
+    "news": "2026-06-30T21:47:36.547Z",
+    "gmailParsed": "2026-06-30T21:46:02.599Z",
+    "newsGenerated": "2026-06-30T21:47:35.519Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 42176,
-    "lastUpdated": "2026-06-30T09:21:20.982Z"
+    "totalCalls": 43300,
+    "lastUpdated": "2026-06-30T21:47:35.515Z"
   },
   "recentNews": {
     "visa": "No news found.",
     "tech": "No news found.",
-    "breaking": "• ‘Erased from history’: A century on from Canada’s anti-Greek riots\n• Early look at Virginia Tech's 2026 Week 12 opponent Miami\n• Iran's president says $6B in frozen assets to be released as US talks challenged by weekend attacks in Strait of Hormuz\n• SMILE Mass is among just 27 nonprofits worldwid"
+    "breaking": "• Franklin’s July 4th celebration features a parade, fireworks at dusk, and live music at the town common.\n• Amazon slashed the Pokémon TCG Chaos Rising Booster Bundle price to just over $50.\n• Miss Manners advises handling a public lobster disaster with grace, not laughter from a spouse.\n• Slate re"
   },
   "topJobs": [
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge Priest Inc",
+      "location": "Fort Worth, TX",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/-7375923879709907684"
+    },
     {
       "title": "Junior Project Manager - Start Your PM Career in Tech",
       "company": "JanBask CRM Software",
       "location": "Arlington, VA",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/4110353824091807495"
+      "score": 10,
+      "url": "https://jooble.org/jdp/-2031977199672215055"
     },
     {
-      "title": "Space Systems Project Manager Intern",
-      "company": "Astranis Space Technologies Corp.",
+      "title": "Project Manager",
+      "company": "Irusri",
       "location": "San Francisco, CA",
-      "score": 9.3,
-      "url": "https://jooble.org/jdp/-4107004456037004327"
+      "score": 9.8,
+      "url": "https://jooble.org/jdp/9205590108824651520"
     },
     {
-      "title": "Product Manager Internships",
-      "company": "Danaher",
-      "location": "Elizabeth, NJ",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/-43604543503009047"
+      "title": "Project Manager",
+      "company": "Brasfield & Gorrie",
+      "location": "Birmingham, AL",
+      "score": 8.8,
+      "url": "https://jooble.org/jdp/8435654799999883086"
     },
     {
-      "title": "Product Manager Intern",
-      "company": "Centerfield",
-      "location": "Los Angeles, CA",
-      "score": 8.6,
-      "url": "https://jooble.org/jdp/6136012625281288228"
-    },
-    {
-      "title": "MBA Product Manager Intern — Onsite in Chicago",
-      "company": "Neonforlife",
-      "location": "Chicago, IL",
-      "score": 8.6,
-      "url": "https://jooble.org/jdp/-4758376898414357016"
+      "title": "Project Manager",
+      "company": "Hunter Quinn Homes",
+      "location": "Charleston, SC",
+      "score": 8.3,
+      "url": "https://jooble.org/jdp/2970075238821269980"
     }
   ]
 }
