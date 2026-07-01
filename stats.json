@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-06-30T23:05:05.607Z",
-  "generatedAtET": "6/30/2026, 7:05:05 PM",
+  "generatedAt": "2026-07-01T09:05:58.352Z",
+  "generatedAtET": "7/1/2026, 5:05:58 AM",
   "pipeline": {
-    "jobsScanned": 951,
-    "eligible": 106,
-    "score7plus": 106,
+    "jobsScanned": 884,
+    "eligible": 100,
+    "score7plus": 100,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -15,13 +15,13 @@
   "lastRuns": {
     "jobScan": null,
     "news": "2026-06-30T21:47:36.547Z",
-    "gmailParsed": "2026-06-30T21:46:02.599Z",
+    "gmailParsed": "2026-07-01T08:37:16.876Z",
     "newsGenerated": "2026-06-30T21:47:35.519Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 43300,
-    "lastUpdated": "2026-06-30T21:47:35.515Z"
+    "totalCalls": 44474,
+    "lastUpdated": "2026-07-01T08:36:58.122Z"
   },
   "recentNews": {
     "visa": "No news found.",
@@ -30,39 +30,39 @@
   },
   "topJobs": [
     {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge Priest Inc",
-      "location": "Fort Worth, TX",
+      "title": "Project Manager 2",
+      "company": "Andersen Construction",
+      "location": "Portland, OR",
       "score": 8.5,
-      "url": "https://jooble.org/jdp/-7375923879709907684"
+      "url": "https://jooble.org/jdp/-7686423172292795038"
     },
     {
       "title": "Junior Project Manager - Start Your PM Career in Tech",
       "company": "JanBask CRM Software",
       "location": "Arlington, VA",
-      "score": 10,
+      "score": 9.8,
       "url": "https://jooble.org/jdp/-2031977199672215055"
     },
     {
-      "title": "Project Manager",
-      "company": "Irusri",
-      "location": "San Francisco, CA",
-      "score": 9.8,
-      "url": "https://jooble.org/jdp/9205590108824651520"
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge-Priest, Inc.",
+      "location": "Fort Worth, TX",
+      "score": 8.7,
+      "url": "https://jooble.org/jdp/5918605750114768743"
     },
     {
-      "title": "Project Manager",
-      "company": "Brasfield & Gorrie",
-      "location": "Birmingham, AL",
-      "score": 8.8,
-      "url": "https://jooble.org/jdp/8435654799999883086"
+      "title": "Product Manager Intern",
+      "company": "Pendulum, LLC",
+      "location": "New York, NY",
+      "score": 9.3,
+      "url": "https://jooble.org/jdp/483073359491753653"
     },
     {
-      "title": "Project Manager",
-      "company": "Hunter Quinn Homes",
-      "location": "Charleston, SC",
-      "score": 8.3,
-      "url": "https://jooble.org/jdp/2970075238821269980"
+      "title": "Product Manager Intern",
+      "company": "Centerfield Corporation",
+      "location": "Los Angeles, CA",
+      "score": 9,
+      "url": "https://jooble.org/jdp/7255229023531274406"
     }
   ]
 }
