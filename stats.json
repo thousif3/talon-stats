@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-01T11:05:58.435Z",
-  "generatedAtET": "7/1/2026, 7:05:58 AM",
+  "generatedAt": "2026-07-01T23:05:26.211Z",
+  "generatedAtET": "7/1/2026, 7:05:26 PM",
   "pipeline": {
-    "jobsScanned": 884,
-    "eligible": 100,
-    "score7plus": 100,
+    "jobsScanned": 1014,
+    "eligible": 92,
+    "score7plus": 92,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-06-30T21:47:36.547Z",
-    "gmailParsed": "2026-07-01T08:37:16.876Z",
-    "newsGenerated": "2026-06-30T21:47:35.519Z"
+    "news": "2026-07-01T22:44:25.747Z",
+    "gmailParsed": "2026-07-01T22:38:40.978Z",
+    "newsGenerated": "2026-07-01T22:44:24.031Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 44474,
-    "lastUpdated": "2026-07-01T08:36:58.122Z"
+    "totalCalls": 45576,
+    "lastUpdated": "2026-07-01T22:43:39.020Z"
   },
   "recentNews": {
-    "visa": "No news found.",
-    "tech": "No news found.",
-    "breaking": "• Franklin’s July 4th celebration features a parade, fireworks at dusk, and live music at the town common.\n• Amazon slashed the Pokémon TCG Chaos Rising Booster Bundle price to just over $50.\n• Miss Manners advises handling a public lobster disaster with grace, not laughter from a spouse.\n• Slate re"
+    "visa": "• New student loan changes take effect July 1, but this is unrelated to visas or immigration status.\n• Student loan rule changes start July 1, but this is not about visas or immigration status.\n• Major federal student loan changes are coming, but this is not relevant to visas or immigration.\n• Green",
+    "tech": "• Microsoft to slash thousands of jobs as AI spending concerns fuel third major layoff round in a year: report - New York Post\n• Microsoft plans to cut under 2.5% of workforce next week - Crypto Briefing\n• Oracle Layoffs: Tech Giant Cuts 500 Jobs in Fresh Round of Workforce Reduction - LatestLY\n• In",
+    "breaking": "• Ford recalls over 741,000 vehicles due to a park system issue that may allow unintended rollaways.\n• Vitamin products sold at Walmart and Amazon are recalled over potential salmonella contamination.\n• FDA expands a cheese recall due to possible listeria contamination, widening the affected product"
   },
   "topJobs": [
     {
-      "title": "Project Manager 2",
-      "company": "Andersen Construction",
-      "location": "Portland, OR",
+      "title": "Fall 2026 Project Management Internship",
+      "company": "Spencer's",
+      "location": "Egg Harbor, Atlantic County",
       "score": 8.5,
-      "url": "https://jooble.org/jdp/-7686423172292795038"
+      "url": "https://www.adzuna.com/land/ad/5783521828?se=nnc-hkR18RGqGf97s54VYw&utm_medium=api&utm_source=2e4857a8&v=A0EA913646E56D1FA8252F68B91C6BC5FDAF7ED8"
+    },
+    {
+      "title": "Project Management Intern",
+      "company": "Jazz Basketball Investors",
+      "location": "Sandy, Salt Lake County",
+      "score": 8.5,
+      "url": "https://www.adzuna.com/details/5783305848?utm_medium=api&utm_source=2e4857a8"
     },
     {
       "title": "Junior Project Manager - Start Your PM Career in Tech",
       "company": "JanBask CRM Software",
       "location": "Arlington, VA",
-      "score": 9.8,
+      "score": 8.7,
       "url": "https://jooble.org/jdp/-2031977199672215055"
     },
     {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge-Priest, Inc.",
-      "location": "Fort Worth, TX",
-      "score": 8.7,
-      "url": "https://jooble.org/jdp/5918605750114768743"
+      "title": "Internship, Compensation Project Manager (Fall 2026)",
+      "company": "Tesla",
+      "location": "Austin, TX",
+      "score": 9.2,
+      "url": "https://jooble.org/jdp/-624927892825814618"
     },
     {
-      "title": "Product Manager Intern",
-      "company": "Pendulum, LLC",
-      "location": "New York, NY",
-      "score": 9.3,
-      "url": "https://jooble.org/jdp/483073359491753653"
-    },
-    {
-      "title": "Product Manager Intern",
-      "company": "Centerfield Corporation",
+      "title": "Project Manager",
+      "company": "Clune Construction",
       "location": "Los Angeles, CA",
-      "score": 9,
-      "url": "https://jooble.org/jdp/7255229023531274406"
+      "score": 9.7,
+      "url": "https://jooble.org/jdp/-518251760261190011"
     }
   ]
 }
