@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-02T11:05:34.373Z",
-  "generatedAtET": "7/2/2026, 7:05:34 AM",
+  "generatedAt": "2026-07-03T10:05:49.232Z",
+  "generatedAtET": "7/3/2026, 6:05:49 AM",
   "pipeline": {
-    "jobsScanned": 1030,
-    "eligible": 85,
-    "score7plus": 85,
+    "jobsScanned": 930,
+    "eligible": 80,
+    "score7plus": 80,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,19 +14,19 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-01T22:44:25.747Z",
-    "gmailParsed": "2026-07-02T10:40:47.301Z",
-    "newsGenerated": "2026-07-01T22:44:24.031Z"
+    "news": "2026-07-02T23:13:11.633Z",
+    "gmailParsed": "2026-07-03T09:17:36.811Z",
+    "newsGenerated": "2026-07-02T23:13:10.362Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 46714,
-    "lastUpdated": "2026-07-02T10:40:33.793Z"
+    "totalCalls": 48742,
+    "lastUpdated": "2026-07-03T09:17:24.651Z"
   },
   "recentNews": {
-    "visa": "• New student loan changes take effect July 1, but this is unrelated to visas or immigration status.\n• Student loan rule changes start July 1, but this is not about visas or immigration status.\n• Major federal student loan changes are coming, but this is not relevant to visas or immigration.\n• Green",
-    "tech": "• Microsoft to slash thousands of jobs as AI spending concerns fuel third major layoff round in a year: report - New York Post\n• Microsoft plans to cut under 2.5% of workforce next week - Crypto Briefing\n• Oracle Layoffs: Tech Giant Cuts 500 Jobs in Fresh Round of Workforce Reduction - LatestLY\n• In",
-    "breaking": "• Ford recalls over 741,000 vehicles due to a park system issue that may allow unintended rollaways.\n• Vitamin products sold at Walmart and Amazon are recalled over potential salmonella contamination.\n• FDA expands a cheese recall due to possible listeria contamination, widening the affected product"
+    "visa": "• Green card application changes take effect in July, as reported by Newsweek.\n• A proposed agriculture labor bill seeks to overhaul the visa program, per Bloomberg Government News.\n• Japan raises visa fees by up to 400% for the first time in nearly 50 years, CNBC reports.\n• ICE arrests 10,000 peopl",
+    "tech": "• Microsoft to slash thousands of jobs as AI spending concerns fuel third major layoff round in a year: report - New York Post\n• Microsoft plans to cut under 2.5% of workforce next week - Crypto Briefing\n• Tech accounts for nearly a third of US layoffs in the first half of 2026, Challenger finds - H",
+    "breaking": "• Fortune Coins and other casinos are launching surprise promotions for America’s 250th celebration.\n• Four online casinos now offer instant payouts this week, with processing times under 24 hours.\n• Germany’s Defense Minister Pistorius downplays tensions with Trump, calling it “no marriage crisis.”"
   },
   "topJobs": [
     {
@@ -40,29 +40,29 @@
       "title": "Project Manager Intern - Madvisions",
       "company": "Taraki",
       "location": "United States",
-      "score": 7.7,
+      "score": 8.5,
       "url": "https://jooble.org/jdp/-4367145107921940860"
+    },
+    {
+      "title": "Junior IWMS Project Manager - Intern",
+      "company": "Volaris Group",
+      "location": "Wausau, WI",
+      "score": 9,
+      "url": "https://jooble.org/jdp/-5837750302693204951"
+    },
+    {
+      "title": "Project Manager",
+      "company": "BAILEY HARRIS CONSTRUCTION CO. INC.",
+      "location": "Auburn, AL",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/2882759854101308762"
     },
     {
       "title": "Project Manager",
       "company": "Irusri",
       "location": "San Francisco, CA",
-      "score": 9.2,
+      "score": 8.5,
       "url": "https://jooble.org/jdp/9205590108824651520"
-    },
-    {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge-Priest, Inc.",
-      "location": "Fort Worth, TX",
-      "score": 8.3,
-      "url": "https://jooble.org/jdp/5918605750114768743"
-    },
-    {
-      "title": "Project Manager",
-      "company": "American Association for the Advancement of Science",
-      "location": "Washington DC",
-      "score": 8.1,
-      "url": "https://jooble.org/jdp/2587761976627607726"
     }
   ]
 }
