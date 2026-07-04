@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-04T11:05:01.237Z",
-  "generatedAtET": "7/4/2026, 7:05:01 AM",
+  "generatedAt": "2026-07-04T19:15:54.377Z",
+  "generatedAtET": "7/4/2026, 3:15:54 PM",
   "pipeline": {
-    "jobsScanned": 1040,
-    "eligible": 26,
-    "score7plus": 26,
+    "jobsScanned": 610,
+    "eligible": 8,
+    "score7plus": 8,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 49080,
-    "lastUpdated": "2026-07-04T00:38:13.754Z"
+    "totalCalls": 49248,
+    "lastUpdated": "2026-07-04T18:49:33.425Z"
   },
   "recentNews": {
     "visa": "• We need to summarize only F-1, OPT, CPT, H-1B, ICE, USCIS news. Skip anything not about visas or immigration status. The headlines given include some unrelated: #1 (Hamilton, sports), #2 (student loans), #3 (student loans). Those are not about visas/immigration. Also #4 and #10 are same headline a",
@@ -30,11 +30,11 @@
   },
   "topJobs": [
     {
-      "title": "Project Manager 2",
-      "company": "Andersen Construction",
-      "location": "Portland, OR",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-7686423172292795038"
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge Priest Inc",
+      "location": "Fort Worth, TX",
+      "score": 9.1,
+      "url": "https://jooble.org/jdp/-7375923879709907684"
     },
     {
       "title": "Junior IWMS Project Manager - Intern",
@@ -44,25 +44,25 @@
       "url": "https://jooble.org/jdp/-5837750302693204951"
     },
     {
-      "title": "Assistant Project Manager Intern",
-      "company": "W.W. Gay Mechanical Contractor, Inc.",
-      "location": "Gainesville, FL",
-      "score": 9.1,
-      "url": "https://jooble.org/jdp/3285242695186008482"
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
+      "score": 9.8,
+      "url": "https://jooble.org/jdp/-2031977199672215055"
     },
     {
       "title": "Project Manager",
-      "company": "American Association for the Advancement of Science",
-      "location": "Washington DC",
-      "score": 9,
-      "url": "https://jooble.org/jdp/2587761976627607726"
+      "company": "Irusri",
+      "location": "San Francisco, CA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/9205590108824651520"
     },
     {
-      "title": "Product Management Intern (Fall 2026)",
-      "company": "Gemini",
-      "location": "New York City, New York",
-      "score": 8.8,
-      "url": "https://www.adzuna.com/details/5786356543?utm_medium=api&utm_source=2e4857a8"
+      "title": "Project Manager - Mission Critical",
+      "company": "Clune Construction",
+      "location": "San Francisco, CA",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/6465599327595438541"
     }
   ]
 }
