@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-04T19:15:54.377Z",
-  "generatedAtET": "7/4/2026, 3:15:54 PM",
+  "generatedAt": "2026-07-06T01:05:50.476Z",
+  "generatedAtET": "7/5/2026, 9:05:50 PM",
   "pipeline": {
-    "jobsScanned": 610,
-    "eligible": 8,
-    "score7plus": 8,
+    "jobsScanned": 1011,
+    "eligible": 4,
+    "score7plus": 4,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,48 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-04T00:39:00.716Z",
-    "gmailParsed": "2026-07-04T00:33:29.552Z",
-    "newsGenerated": "2026-07-04T00:38:58.763Z"
+    "news": "2026-07-06T00:38:50.317Z",
+    "gmailParsed": "2026-07-06T00:33:01.411Z",
+    "newsGenerated": "2026-07-06T00:38:48.639Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 49248,
-    "lastUpdated": "2026-07-04T18:49:33.425Z"
+    "totalCalls": 49420,
+    "lastUpdated": "2026-07-06T00:33:20.666Z"
   },
   "recentNews": {
-    "visa": "• We need to summarize only F-1, OPT, CPT, H-1B, ICE, USCIS news. Skip anything not about visas or immigration status. The headlines given include some unrelated: #1 (Hamilton, sports), #2 (student loans), #3 (student loans). Those are not about visas/immigration. Also #4 and #10 are same headline a",
-    "tech": "• Microsoft plans thousands of job cuts in third major layoff round due to AI spending concerns.\n• AI adoption drives 28,000 monthly job losses in tech and finance sectors.\n• Meta CEO Zuckerberg says AI agent progress slower than hoped.\n• Meshy expands AI-assisted 3D workflow for faster early-stage ",
-    "breaking": "• Debate continues on whether medical students should use generative AI for studying, with no consensus yet.\n• Trump allies abruptly changed their July 4th plans due to last-minute logistical complications.\n• An animal rescuer in southern Lebanon cares for pets and livestock stranded by ongoing war."
+    "visa": "• New student loan rules take effect July 1. Here's what borrowers should know. - CBS News\n• Trump hails US exceptionalism before veering into darkly political speech to usher in America 250 - The Sun Chronicle\n• Major federal student loan changes to take effect - Modern Ghana\n• Labor Department Eye",
+    "tech": "• Microsoft to slash thousands of jobs as AI spending concerns fuel third major layoff round in a year: report - New York Post\n• AI Adoption Fuels 28,000 Monthly Tech and Finance Job Losses - Let's Data Science\n• Want an AI-proof job? New research says you may be safer at companies embracing the tec",
+    "breaking": "• Millions gather in Tehran to mourn the late Supreme Leader.\n• Themia optimizes Windows desktop space after 30 years of waste.\n• Thai horror movies are listed in a top 30 ranking compilation.\n• Tomb Raider's new era is a sequel, not a remake, exciting fans.\n• FX cancels a comedy series with a 94% R"
   },
   "topJobs": [
     {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge Priest Inc",
-      "location": "Fort Worth, TX",
-      "score": 9.1,
-      "url": "https://jooble.org/jdp/-7375923879709907684"
+      "title": "Network Engineering Intern Program Manager",
+      "company": "MetaProp",
+      "location": "Austin, TX",
+      "score": 9.5,
+      "url": "https://jooble.org/jdp/3508033110991957788"
     },
     {
-      "title": "Junior IWMS Project Manager - Intern",
-      "company": "Volaris Group",
-      "location": "Wausau, WI",
+      "title": "Finance Operations Analyst",
+      "company": "Phaxis",
+      "location": "Jersey City, NJ",
+      "score": 7.3,
+      "url": "https://jooble.org/jdp/7471735743877257354"
+    },
+    {
+      "title": "Data Analyst Intern",
+      "company": "OATS INC.",
+      "location": "Washington DC",
       "score": 8.5,
-      "url": "https://jooble.org/jdp/-5837750302693204951"
+      "url": "https://jooble.org/jdp/8099817217899141729"
     },
     {
-      "title": "Junior Project Manager - Start Your PM Career in Tech",
-      "company": "JanBask CRM Software",
-      "location": "Arlington, VA",
-      "score": 9.8,
-      "url": "https://jooble.org/jdp/-2031977199672215055"
-    },
-    {
-      "title": "Project Manager",
-      "company": "Irusri",
-      "location": "San Francisco, CA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/9205590108824651520"
-    },
-    {
-      "title": "Project Manager - Mission Critical",
-      "company": "Clune Construction",
-      "location": "San Francisco, CA",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/6465599327595438541"
+      "title": "Consulting Analyst",
+      "company": "Codal",
+      "location": "Chicago, IL",
+      "score": 7.9,
+      "url": "https://jooble.org/jdp/-1506808856042854208"
     }
   ]
 }
