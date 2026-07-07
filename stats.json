@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-06T11:05:50.631Z",
-  "generatedAtET": "7/6/2026, 7:05:50 AM",
+  "generatedAt": "2026-07-07T01:05:31.422Z",
+  "generatedAtET": "7/6/2026, 9:05:31 PM",
   "pipeline": {
-    "jobsScanned": 1011,
-    "eligible": 4,
-    "score7plus": 4,
+    "jobsScanned": 1045,
+    "eligible": 6,
+    "score7plus": 6,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,48 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-06T00:38:50.317Z",
-    "gmailParsed": "2026-07-06T00:33:01.411Z",
-    "newsGenerated": "2026-07-06T00:38:48.639Z"
+    "news": "2026-07-07T01:01:31.273Z",
+    "gmailParsed": "2026-07-07T00:55:16.841Z",
+    "newsGenerated": "2026-07-07T01:01:29.585Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 49420,
-    "lastUpdated": "2026-07-06T00:33:20.666Z"
+    "totalCalls": 49486,
+    "lastUpdated": "2026-07-07T00:56:05.563Z"
   },
   "recentNews": {
     "visa": "• New student loan rules take effect July 1. Here's what borrowers should know. - CBS News\n• Trump hails US exceptionalism before veering into darkly political speech to usher in America 250 - The Sun Chronicle\n• Major federal student loan changes to take effect - Modern Ghana\n• Labor Department Eye",
     "tech": "• Microsoft to slash thousands of jobs as AI spending concerns fuel third major layoff round in a year: report - New York Post\n• AI Adoption Fuels 28,000 Monthly Tech and Finance Job Losses - Let's Data Science\n• Want an AI-proof job? New research says you may be safer at companies embracing the tec",
-    "breaking": "• Millions gather in Tehran to mourn the late Supreme Leader.\n• Themia optimizes Windows desktop space after 30 years of waste.\n• Thai horror movies are listed in a top 30 ranking compilation.\n• Tomb Raider's new era is a sequel, not a remake, exciting fans.\n• FX cancels a comedy series with a 94% R"
+    "breaking": "• Trump bets on former NATO troublemaker as Turkey's strategic value surges.\n• X-Men '97 debuts new costumes for the iconic team.\n• Trump will meet with Zelenskyy and Syria’s al-Sharaa at this week’s NATO summit.\n• Five shot and injured during a Fourth of July block party in Macomb County.\n• School "
   },
   "topJobs": [
     {
-      "title": "Network Engineering Intern Program Manager",
-      "company": "MetaProp",
-      "location": "Austin, TX",
-      "score": 9.5,
-      "url": "https://jooble.org/jdp/3508033110991957788"
+      "title": "Product Manager Intern",
+      "company": "Centerfield Corporation",
+      "location": "Los Angeles, CA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/7255229023531274406"
     },
     {
-      "title": "Finance Operations Analyst",
-      "company": "Phaxis",
-      "location": "Jersey City, NJ",
-      "score": 7.3,
-      "url": "https://jooble.org/jdp/7471735743877257354"
+      "title": "Junior Project Manager",
+      "company": "Virtual Vocations Inc",
+      "location": "United States",
+      "score": 10,
+      "url": "https://jooble.org/jdp/1244957716885997409"
     },
     {
-      "title": "Data Analyst Intern",
-      "company": "OATS INC.",
-      "location": "Washington DC",
+      "title": "Entry Level Project Coordinator Assistant",
+      "company": "The Steel Erection Company",
+      "location": "Huntington Beach, CA",
       "score": 8.5,
-      "url": "https://jooble.org/jdp/8099817217899141729"
+      "url": "https://jooble.org/jdp/-9173442226762888120"
     },
     {
-      "title": "Consulting Analyst",
-      "company": "Codal",
-      "location": "Chicago, IL",
-      "score": 7.9,
-      "url": "https://jooble.org/jdp/-1506808856042854208"
+      "title": "Program Operations Coordinator",
+      "company": "Alexander Mann Solutions",
+      "location": "Hartford, CT",
+      "score": 7.3,
+      "url": "https://jooble.org/jdp/6007513246216169097"
+    },
+    {
+      "title": "Intern, Business Systems Analyst (Summer Internship)",
+      "company": "The Wonderful Company",
+      "location": "Del Rey, CA",
+      "score": 9.8,
+      "url": "https://jooble.org/jdp/-2794741603880365605"
     }
   ]
 }
