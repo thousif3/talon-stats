@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-09T21:05:41.175Z",
-  "generatedAtET": "7/9/2026, 5:05:41 PM",
+  "generatedAt": "2026-07-09T23:05:50.057Z",
+  "generatedAtET": "7/9/2026, 7:05:50 PM",
   "pipeline": {
     "jobsScanned": 1059,
     "eligible": 5,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 49814,
-    "lastUpdated": "2026-07-09T13:07:09.781Z"
+    "totalCalls": 49816,
+    "lastUpdated": "2026-07-09T22:13:49.236Z"
   },
   "recentNews": {
     "visa": "• Trump hails US exceptionalism before veering into darkly political speech to usher in America 250 - The Sun Chronicle\n• Opinion | What happens when government writes grad students a blank check - The Washington Post\n• 'Sprint' aims to secure jobs for new workforce entrants - China Daily\n• Labor De",
