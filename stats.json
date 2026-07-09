@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-08T11:05:24.225Z",
-  "generatedAtET": "7/8/2026, 7:05:24 AM",
+  "generatedAt": "2026-07-09T14:05:41.075Z",
+  "generatedAtET": "7/9/2026, 10:05:41 AM",
   "pipeline": {
-    "jobsScanned": 1027,
-    "eligible": 7,
-    "score7plus": 7,
+    "jobsScanned": 1059,
+    "eligible": 5,
+    "score7plus": 5,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-08T00:24:23.699Z",
-    "gmailParsed": "2026-07-08T00:17:55.743Z",
-    "newsGenerated": "2026-07-08T00:24:22.469Z"
+    "news": "2026-07-09T13:22:40.898Z",
+    "gmailParsed": "2026-07-09T13:16:12.078Z",
+    "newsGenerated": "2026-07-09T13:22:39.084Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 49668,
-    "lastUpdated": "2026-07-08T00:17:41.865Z"
+    "totalCalls": 49814,
+    "lastUpdated": "2026-07-09T13:07:09.781Z"
   },
   "recentNews": {
-    "visa": "• Changes to student loans are taking effect July 1. Here’s what to know. - Chicago Tribune\n• New student loan rules take effect July 1. Here's what borrowers should know. - CBS News\n• Trump hails US exceptionalism before veering into darkly political speech to usher in America 250 - The Sun Chronic",
-    "tech": "• Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts - Insurance Journal\n• Microsoft to slash thousands of jobs as AI spending concerns fuel third major layoff round in a year: report - New York Post\n• AI Adoption Fuels 28,000 Monthly Tech and Finance Job Losses - Let's Data Science\n• Wh",
-    "breaking": "• Elmhurst Cops Handle Disputes, Underage Party, Fireworks On Holiday Weekend\n• Italy Arrests Two Over Alleged Spying for Russia\n• Afghan national who fought with U.S. forces died of allergic reaction in ICE custody - NBC News\n• U.S. Fans Turn on Trump After World Cup Intervention\n• Wrong-way driver"
+    "visa": "• Trump hails US exceptionalism before veering into darkly political speech to usher in America 250 - The Sun Chronicle\n• Opinion | What happens when government writes grad students a blank check - The Washington Post\n• 'Sprint' aims to secure jobs for new workforce entrants - China Daily\n• Labor De",
+    "tech": "• The running list: major tech layoffs in 2026 where employers cited AI - TechCrunch\n• Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts - Insurance Journal\n• Want an AI-proof job? New research says you may be safer at companies embracing the technology - Los Angeles Times\n• Apple Silic",
+    "breaking": "• Gretchen Carlson goes scorched earth after Graham Platner drops out: 'Disgusting display'\n• Mattapan store owner sentenced to prison for food stamp fraud\n• Trump stops to transfer from old to new AF1 in the UK on the last leg of NATO trip\n• Chicago police break up large gathering in Back of the Ya"
   },
   "topJobs": [
     {
-      "title": "Project Management Co-op (Spring 2027)",
-      "company": "Consigli Construction",
-      "location": "New York City, New York",
-      "score": 9.2,
-      "url": "https://www.adzuna.com/details/5790057368?utm_medium=api&utm_source=2e4857a8"
-    },
-    {
-      "title": "Project Manager 3",
-      "company": "Andersen Construction",
-      "location": "Portland, OR",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-8007873489867504259"
-    },
-    {
-      "title": "AI Product Manager Intern",
-      "company": "GP",
+      "title": "Remote Product Manager Intern, Analytics Platform",
+      "company": "Pendulum, LLC",
       "location": "New York, NY",
-      "score": 9.8,
-      "url": "https://jooble.org/jdp/-8991955454894957099"
-    },
-    {
-      "title": "Internship, Program Manager, Service (Fall 2026)",
-      "company": "Tesla Motors, Inc.",
-      "location": "Palo Alto, CA",
       "score": 10,
-      "url": "https://jooble.org/jdp/-8024282504477650648"
+      "url": "https://jooble.org/jdp/1395087638233451035"
     },
     {
-      "title": "Assistant Project Manager",
-      "company": "North Shore Preserve",
-      "location": "Amenia, NY",
-      "score": 8,
-      "url": "https://jooble.org/jdp/-8992973712464438708"
+      "title": "Tech Program Manager Intern: Data & SDLC",
+      "company": "Coupang",
+      "location": "Seattle, WA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-4921797122936875009"
+    },
+    {
+      "title": "Winter Business Analyst Intern - Strategy & Transformation",
+      "company": "UNAVAILABLE",
+      "location": "Boston, MA",
+      "score": 9.8,
+      "url": "https://jooble.org/jdp/9126050433927569874"
+    },
+    {
+      "title": "Fraud Operations Analyst Intern",
+      "company": "Rainfallcap",
+      "location": "Seattle, WA",
+      "score": 9.4,
+      "url": "https://jooble.org/jdp/-7363001406801834425"
+    },
+    {
+      "title": "Scrum Master - 292",
+      "company": "Rsm Us Llp.",
+      "location": "Chicago, IL",
+      "score": 9.7,
+      "url": "https://jooble.org/jdp/5820672328132363335"
     }
   ]
 }
