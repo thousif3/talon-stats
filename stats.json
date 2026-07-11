@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-09T23:05:50.057Z",
-  "generatedAtET": "7/9/2026, 7:05:50 PM",
+  "generatedAt": "2026-07-11T02:05:43.371Z",
+  "generatedAtET": "7/10/2026, 10:05:43 PM",
   "pipeline": {
-    "jobsScanned": 1059,
-    "eligible": 5,
-    "score7plus": 5,
+    "jobsScanned": 1046,
+    "eligible": 2,
+    "score7plus": 2,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,34 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-09T13:22:40.898Z",
-    "gmailParsed": "2026-07-09T13:16:12.078Z",
-    "newsGenerated": "2026-07-09T13:22:39.084Z"
+    "news": "2026-07-10T12:48:05.117Z",
+    "gmailParsed": "2026-07-10T12:43:05.930Z",
+    "newsGenerated": "2026-07-10T12:48:03.463Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 49816,
-    "lastUpdated": "2026-07-09T22:13:49.236Z"
+    "totalCalls": 49880,
+    "lastUpdated": "2026-07-11T01:14:57.663Z"
   },
   "recentNews": {
     "visa": "• Trump hails US exceptionalism before veering into darkly political speech to usher in America 250 - The Sun Chronicle\n• Opinion | What happens when government writes grad students a blank check - The Washington Post\n• 'Sprint' aims to secure jobs for new workforce entrants - China Daily\n• Labor De",
     "tech": "• The running list: major tech layoffs in 2026 where employers cited AI - TechCrunch\n• Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts - Insurance Journal\n• Want an AI-proof job? New research says you may be safer at companies embracing the technology - Los Angeles Times\n• Apple Silic",
-    "breaking": "• Gretchen Carlson goes scorched earth after Graham Platner drops out: 'Disgusting display'\n• Mattapan store owner sentenced to prison for food stamp fraud\n• Trump stops to transfer from old to new AF1 in the UK on the last leg of NATO trip\n• Chicago police break up large gathering in Back of the Ya"
+    "breaking": "• HP launches 16-inch laptop with 64GB RAM and Arc B390 graphics.\n• Buffalo police arrest suspect in Somali flag theft outside City Hall.\n• Frenchtown Road Bridge traffic pattern resumes in East Greenwich.\n• World Cup to bring $892 million to LA County, reports say.\n• Valve adds \"Great on Steam Fram"
   },
   "topJobs": [
     {
-      "title": "Remote Product Manager Intern, Analytics Platform",
-      "company": "Pendulum, LLC",
+      "title": "Healthcare IT Project Coordinator Intern",
+      "company": "Direct Jobs",
+      "location": "Raleigh, NC",
+      "score": 10,
+      "url": "https://jooble.org/jdp/8864407482466424812"
+    },
+    {
+      "title": "Junior/ Graduate Transit & Rail Operations Analyst",
+      "company": "8B Education Investments",
       "location": "New York, NY",
-      "score": 10,
-      "url": "https://jooble.org/jdp/1395087638233451035"
-    },
-    {
-      "title": "Tech Program Manager Intern: Data & SDLC",
-      "company": "Coupang",
-      "location": "Seattle, WA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-4921797122936875009"
-    },
-    {
-      "title": "Winter Business Analyst Intern - Strategy & Transformation",
-      "company": "UNAVAILABLE",
-      "location": "Boston, MA",
-      "score": 9.8,
-      "url": "https://jooble.org/jdp/9126050433927569874"
-    },
-    {
-      "title": "Fraud Operations Analyst Intern",
-      "company": "Rainfallcap",
-      "location": "Seattle, WA",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/-7363001406801834425"
-    },
-    {
-      "title": "Scrum Master - 292",
-      "company": "Rsm Us Llp.",
-      "location": "Chicago, IL",
-      "score": 9.7,
-      "url": "https://jooble.org/jdp/5820672328132363335"
+      "score": 7.9,
+      "url": "https://jooble.org/jdp/4488704877123336307"
     }
   ]
 }
