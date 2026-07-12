@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-11T11:05:43.506Z",
-  "generatedAtET": "7/11/2026, 7:05:43 AM",
+  "generatedAt": "2026-07-12T01:05:48.478Z",
+  "generatedAtET": "7/11/2026, 9:05:48 PM",
   "pipeline": {
-    "jobsScanned": 1046,
-    "eligible": 2,
-    "score7plus": 2,
+    "jobsScanned": 1051,
+    "eligible": 8,
+    "score7plus": 8,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,34 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-10T12:48:05.117Z",
-    "gmailParsed": "2026-07-10T12:43:05.930Z",
-    "newsGenerated": "2026-07-10T12:48:03.463Z"
+    "news": "2026-07-12T01:01:48.313Z",
+    "gmailParsed": "2026-07-12T00:55:20.227Z",
+    "newsGenerated": "2026-07-12T01:01:46.182Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 49880,
-    "lastUpdated": "2026-07-11T01:14:57.663Z"
+    "totalCalls": 50006,
+    "lastUpdated": "2026-07-12T00:51:27.543Z"
   },
   "recentNews": {
-    "visa": "• Trump hails US exceptionalism before veering into darkly political speech to usher in America 250 - The Sun Chronicle\n• Opinion | What happens when government writes grad students a blank check - The Washington Post\n• 'Sprint' aims to secure jobs for new workforce entrants - China Daily\n• Labor De",
-    "tech": "• The running list: major tech layoffs in 2026 where employers cited AI - TechCrunch\n• Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts - Insurance Journal\n• Want an AI-proof job? New research says you may be safer at companies embracing the technology - Los Angeles Times\n• Apple Silic",
-    "breaking": "• HP launches 16-inch laptop with 64GB RAM and Arc B390 graphics.\n• Buffalo police arrest suspect in Somali flag theft outside City Hall.\n• Frenchtown Road Bridge traffic pattern resumes in East Greenwich.\n• World Cup to bring $892 million to LA County, reports say.\n• Valve adds \"Great on Steam Fram"
+    "visa": "• NASA Internship for High School Students 2027 - Deadline, Steps to Apply - Careers360\n• Projects from the Next Generation Take Flight in 2026 - NASA (.gov)\n• Opinion | What happens when government writes grad students a blank check - The Washington Post\n• Immigration Cases To Watch In The Second H",
+    "tech": "• The running list: major tech layoffs in 2026 where employers cited AI - TechCrunch\n• Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts - Insurance Journal\n• Microsoft to cut 4,800 jobs, joining the wave of AI-driven tech layoffs - NBC News\n• Apple Silicon Exec Explains Mac Mini AI Dem",
+    "breaking": "• Ukrainian teen who fled from war to Grand Haven heading to art school\n• I wore Brooks and HOKA sneakers for 190,000 steps at Disney World — here's the one I'd buy again\n• Bipartisan housing bill becomes law without president's signature. Here's what it's about.\n• Firearms purchase denials rise in "
   },
   "topJobs": [
     {
-      "title": "Healthcare IT Project Coordinator Intern",
-      "company": "Direct Jobs",
-      "location": "Raleigh, NC",
-      "score": 10,
-      "url": "https://jooble.org/jdp/8864407482466424812"
+      "title": "Fall 2026/Spring 2027 - Project Management Intern - 90412957 - New York",
+      "company": "Amtrak",
+      "location": "New York City, New York",
+      "score": 8.5,
+      "url": "https://www.adzuna.com/details/5796576010?utm_medium=api&utm_source=2e4857a8"
     },
     {
-      "title": "Junior/ Graduate Transit & Rail Operations Analyst",
-      "company": "8B Education Investments",
+      "title": "Events Program Manager — Marketing & Recruiting Ops",
+      "company": "PTR Global",
+      "location": "San Francisco, CA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-8671972621893620615"
+    },
+    {
+      "title": "Junior Project Manager",
+      "company": "Bravo Quality Supply LLC",
+      "location": "United States",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-7075205946992124600"
+    },
+    {
+      "title": "Business Analyst Intern",
+      "company": "Tradox",
+      "location": "Piscataway, NJ",
+      "score": 9.8,
+      "url": "https://jooble.org/jdp/3710871966510375348"
+    },
+    {
+      "title": "Strategy & Operations Analyst",
+      "company": "Charlie Health",
       "location": "New York, NY",
-      "score": 7.9,
-      "url": "https://jooble.org/jdp/4488704877123336307"
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/-3553399610306809351"
     }
   ]
 }
