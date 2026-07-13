@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-12T11:05:24.915Z",
-  "generatedAtET": "7/12/2026, 7:05:24 AM",
+  "generatedAt": "2026-07-13T01:05:14.951Z",
+  "generatedAtET": "7/12/2026, 9:05:14 PM",
   "pipeline": {
-    "jobsScanned": 1051,
-    "eligible": 8,
-    "score7plus": 8,
+    "jobsScanned": 1043,
+    "eligible": 14,
+    "score7plus": 14,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-12T01:01:48.313Z",
-    "gmailParsed": "2026-07-12T00:55:20.227Z",
-    "newsGenerated": "2026-07-12T01:01:46.182Z"
+    "news": "2026-07-13T00:30:14.747Z",
+    "gmailParsed": "2026-07-13T00:23:46.569Z",
+    "newsGenerated": "2026-07-13T00:30:13.052Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 50006,
-    "lastUpdated": "2026-07-12T00:51:27.543Z"
+    "totalCalls": 50278,
+    "lastUpdated": "2026-07-13T00:14:38.416Z"
   },
   "recentNews": {
-    "visa": "• NASA Internship for High School Students 2027 - Deadline, Steps to Apply - Careers360\n• Projects from the Next Generation Take Flight in 2026 - NASA (.gov)\n• Opinion | What happens when government writes grad students a blank check - The Washington Post\n• Immigration Cases To Watch In The Second H",
-    "tech": "• The running list: major tech layoffs in 2026 where employers cited AI - TechCrunch\n• Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts - Insurance Journal\n• Microsoft to cut 4,800 jobs, joining the wave of AI-driven tech layoffs - NBC News\n• Apple Silicon Exec Explains Mac Mini AI Dem",
-    "breaking": "• Ukrainian teen who fled from war to Grand Haven heading to art school\n• I wore Brooks and HOKA sneakers for 190,000 steps at Disney World — here's the one I'd buy again\n• Bipartisan housing bill becomes law without president's signature. Here's what it's about.\n• Firearms purchase denials rise in "
+    "visa": "• NASA Internship for High School Students 2027 - Deadline, Steps to Apply - Careers360\n• Projects from the Next Generation Take Flight in 2026 - NASA (.gov)\n• New stem cell approach targets functional cure for diabetes - News-Medical\n• Immigration Cases To Watch In The Second Half Of 2026 - Law360\n",
+    "tech": "• Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts - Insurance Journal\n• Welcome to the era of the forever layoff - Business Insider\n• Microsoft to cut 4,800 jobs, joining the wave of AI-driven tech layoffs - NBC News\n• Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Futur",
+    "breaking": "• ‘Calling for their arrest’: Dem lawmaker goes scorched earth after detention\n• Lindsey Graham's death opens up an increasingly powerful job in the Senate\n• Sen. Thune: Lindsey Graham's Influence Will Be Felt for 'Generations'\n• Innovation, Data Fixes Fuel Native American Graduation gains at Federa"
   },
   "topJobs": [
     {
       "title": "Fall 2026/Spring 2027 - Project Management Intern - 90412957 - New York",
       "company": "Amtrak",
       "location": "New York City, New York",
-      "score": 8.5,
+      "score": 9.1,
       "url": "https://www.adzuna.com/details/5796576010?utm_medium=api&utm_source=2e4857a8"
     },
     {
-      "title": "Events Program Manager — Marketing & Recruiting Ops",
-      "company": "PTR Global",
-      "location": "San Francisco, CA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-8671972621893620615"
-    },
-    {
-      "title": "Junior Project Manager",
-      "company": "Bravo Quality Supply LLC",
-      "location": "United States",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-7075205946992124600"
-    },
-    {
-      "title": "Business Analyst Intern",
-      "company": "Tradox",
-      "location": "Piscataway, NJ",
-      "score": 9.8,
-      "url": "https://jooble.org/jdp/3710871966510375348"
-    },
-    {
-      "title": "Strategy & Operations Analyst",
-      "company": "Charlie Health",
-      "location": "New York, NY",
+      "title": "Project Manager 3",
+      "company": "Andersen Construction",
+      "location": "Portland, OR",
       "score": 8.5,
-      "url": "https://jooble.org/jdp/-3553399610306809351"
+      "url": "https://jooble.org/jdp/-8007873489867504259"
+    },
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge Priest Inc",
+      "location": "Fort Worth, TX",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/-7375923879709907684"
+    },
+    {
+      "title": "People Success Project Lead Intern",
+      "company": "Wayne State University",
+      "location": "San Francisco, CA",
+      "score": 9.5,
+      "url": "https://jooble.org/jdp/4729192167955727092"
+    },
+    {
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
+      "score": 9.8,
+      "url": "https://jooble.org/jdp/-2031977199672215055"
     }
   ]
 }
