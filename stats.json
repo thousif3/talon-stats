@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-13T11:05:20.682Z",
-  "generatedAtET": "7/13/2026, 7:05:20 AM",
+  "generatedAt": "2026-07-14T01:05:03.803Z",
+  "generatedAtET": "7/13/2026, 9:05:03 PM",
   "pipeline": {
-    "jobsScanned": 1043,
-    "eligible": 14,
-    "score7plus": 14,
+    "jobsScanned": 1000,
+    "eligible": 12,
+    "score7plus": 12,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,28 +14,21 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-13T00:30:14.747Z",
-    "gmailParsed": "2026-07-13T00:23:46.569Z",
-    "newsGenerated": "2026-07-13T00:30:13.052Z"
+    "news": "2026-07-14T00:11:03.637Z",
+    "gmailParsed": "2026-07-14T00:04:35.272Z",
+    "newsGenerated": "2026-07-14T00:11:01.967Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 50278,
-    "lastUpdated": "2026-07-13T00:14:38.416Z"
+    "totalCalls": 50410,
+    "lastUpdated": "2026-07-13T23:48:42.453Z"
   },
   "recentNews": {
-    "visa": "• NASA Internship for High School Students 2027 - Deadline, Steps to Apply - Careers360\n• Projects from the Next Generation Take Flight in 2026 - NASA (.gov)\n• New stem cell approach targets functional cure for diabetes - News-Medical\n• Immigration Cases To Watch In The Second Half Of 2026 - Law360\n",
-    "tech": "• Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts - Insurance Journal\n• Welcome to the era of the forever layoff - Business Insider\n• Microsoft to cut 4,800 jobs, joining the wave of AI-driven tech layoffs - NBC News\n• Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Futur",
-    "breaking": "• ‘Calling for their arrest’: Dem lawmaker goes scorched earth after detention\n• Lindsey Graham's death opens up an increasingly powerful job in the Senate\n• Sen. Thune: Lindsey Graham's Influence Will Be Felt for 'Generations'\n• Innovation, Data Fixes Fuel Native American Graduation gains at Federa"
+    "visa": "• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Projects from the Next Generation Take Flight in 2026 - NASA (.gov)\n• New stem cell approach targets functional cure for diabetes - News-Medical\n• Immigration Cases To Watch In The Second Half Of 2026 - Law360\n• Fury erupts as Mi",
+    "tech": "• Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts - Insurance Journal\n• Welcome to the era of the forever layoff - Business Insider\n• How many employees does Meta have in 2026? Its workforce, locations, & layoffs explained - thestreet.com\n• Here are the Club stocks that can benefit fr",
+    "breaking": "• Two drown in separate incidents in Massachusetts ponds\n• Volkswagen’s Model Purge: What America Could Lose\n• The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week\n• Sudan's paramilitary RSF chief sentenced to death over war crimes\n• Who Could Replace Lindsey Graham? "
   },
   "topJobs": [
-    {
-      "title": "Fall 2026/Spring 2027 - Project Management Intern - 90412957 - New York",
-      "company": "Amtrak",
-      "location": "New York City, New York",
-      "score": 9.1,
-      "url": "https://www.adzuna.com/details/5796576010?utm_medium=api&utm_source=2e4857a8"
-    },
     {
       "title": "Project Manager 3",
       "company": "Andersen Construction",
@@ -47,22 +40,29 @@
       "title": "Summer Internship - Assistant Project Manager",
       "company": "Lochridge Priest Inc",
       "location": "Fort Worth, TX",
-      "score": 8.5,
+      "score": 9.1,
       "url": "https://jooble.org/jdp/-7375923879709907684"
-    },
-    {
-      "title": "People Success Project Lead Intern",
-      "company": "Wayne State University",
-      "location": "San Francisco, CA",
-      "score": 9.5,
-      "url": "https://jooble.org/jdp/4729192167955727092"
     },
     {
       "title": "Junior Project Manager - Start Your PM Career in Tech",
       "company": "JanBask CRM Software",
       "location": "Arlington, VA",
-      "score": 9.8,
+      "score": 10,
       "url": "https://jooble.org/jdp/-2031977199672215055"
+    },
+    {
+      "title": "Project Manager",
+      "company": "Irusri",
+      "location": "San Francisco, CA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/9205590108824651520"
+    },
+    {
+      "title": "Architectural Project Manager",
+      "company": "Parkhill",
+      "location": "Frisco, TX",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/-6946345601643949931"
     }
   ]
 }
