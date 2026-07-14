@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T01:05:03.803Z",
-  "generatedAtET": "7/13/2026, 9:05:03 PM",
+  "generatedAt": "2026-07-14T02:05:03.850Z",
+  "generatedAtET": "7/13/2026, 10:05:03 PM",
   "pipeline": {
     "jobsScanned": 1000,
     "eligible": 12,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 50410,
-    "lastUpdated": "2026-07-13T23:48:42.453Z"
+    "totalCalls": 50412,
+    "lastUpdated": "2026-07-14T02:04:27.244Z"
   },
   "recentNews": {
     "visa": "• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Projects from the Next Generation Take Flight in 2026 - NASA (.gov)\n• New stem cell approach targets functional cure for diabetes - News-Medical\n• Immigration Cases To Watch In The Second Half Of 2026 - Law360\n• Fury erupts as Mi",
