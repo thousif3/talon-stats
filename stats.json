@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-14T11:05:18.110Z",
-  "generatedAtET": "7/14/2026, 7:05:18 AM",
+  "generatedAt": "2026-07-16T02:05:30.771Z",
+  "generatedAtET": "7/15/2026, 10:05:30 PM",
   "pipeline": {
-    "jobsScanned": 1000,
-    "eligible": 12,
-    "score7plus": 12,
+    "jobsScanned": 1035,
+    "eligible": 4,
+    "score7plus": 4,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,48 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-14T00:11:03.637Z",
-    "gmailParsed": "2026-07-14T00:04:35.272Z",
-    "newsGenerated": "2026-07-14T00:11:01.967Z"
+    "news": "2026-07-15T12:13:42.182Z",
+    "gmailParsed": "2026-07-15T12:07:52.365Z",
+    "newsGenerated": "2026-07-15T12:13:40.483Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 50412,
-    "lastUpdated": "2026-07-14T02:04:27.244Z"
+    "totalCalls": 50600,
+    "lastUpdated": "2026-07-16T01:24:00.180Z"
   },
   "recentNews": {
-    "visa": "• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Projects from the Next Generation Take Flight in 2026 - NASA (.gov)\n• New stem cell approach targets functional cure for diabetes - News-Medical\n• Immigration Cases To Watch In The Second Half Of 2026 - Law360\n• Fury erupts as Mi",
-    "tech": "• Microsoft Joins AI-Driven Tech Layoff Wave With 4,800 Job Cuts - Insurance Journal\n• Welcome to the era of the forever layoff - Business Insider\n• How many employees does Meta have in 2026? Its workforce, locations, & layoffs explained - thestreet.com\n• Here are the Club stocks that can benefit fr",
-    "breaking": "• Two drown in separate incidents in Massachusetts ponds\n• Volkswagen’s Model Purge: What America Could Lose\n• The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week\n• Sudan's paramilitary RSF chief sentenced to death over war crimes\n• Who Could Replace Lindsey Graham? "
+    "visa": "• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Ford Philanthropy, Uber, and Rocket Community Fund Join Last Mile Education Fund to Keep Thousands of STEM Students on the Road to Graduation - PR Newswire\n• Projects from the Next Generation Take Flight in 2026 - NASA (.gov)\n• I",
+    "tech": "• Welcome to the era of the forever layoff - Business Insider\n• One chart shows why even non-tech job seekers should get comfortable with AI - Business Insider\n• Meta employees sue on allegations company used AI to target workers on medical, parental leave for layoffs - Fox Business\n• New York’s Dat",
+    "breaking": "• Cuba experiences third nationwide blackout in two weeks due to low fuel.\n• A 3-week-old harbor seal is shot and recovering in Des Moines.\n• Two Boston women are arrested for a multi-state sex trafficking operation.\n• The Stafford family faces serious medical concerns, sparking community support.\n•"
   },
   "topJobs": [
     {
-      "title": "Project Manager 3",
-      "company": "Andersen Construction",
-      "location": "Portland, OR",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-8007873489867504259"
-    },
-    {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge Priest Inc",
-      "location": "Fort Worth, TX",
+      "title": "Technical Product Manager (Intern)",
+      "company": "PCOnline",
+      "location": "Newark, DE",
       "score": 9.1,
-      "url": "https://jooble.org/jdp/-7375923879709907684"
+      "url": "https://jooble.org/jdp/-4053267873544237925"
     },
     {
-      "title": "Junior Project Manager - Start Your PM Career in Tech",
-      "company": "JanBask CRM Software",
-      "location": "Arlington, VA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-2031977199672215055"
-    },
-    {
-      "title": "Project Manager",
-      "company": "Irusri",
-      "location": "San Francisco, CA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/9205590108824651520"
-    },
-    {
-      "title": "Architectural Project Manager",
-      "company": "Parkhill",
-      "location": "Frisco, TX",
+      "title": "Onsite Assistant Project Manager",
+      "company": "Hilscher Clarke Electric",
+      "location": "Columbus, OH",
       "score": 8.5,
-      "url": "https://jooble.org/jdp/-6946345601643949931"
+      "url": "https://jooble.org/jdp/-1243901475824766777"
+    },
+    {
+      "title": "Life Sciences Strategy Analyst (Summer 2027 Start Dates)",
+      "company": "ClearView Healthcare Partners",
+      "location": "Boston, MA",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/-2957982693221508943"
+    },
+    {
+      "title": "Scrum Master/BA",
+      "company": "InstantServe LLC",
+      "location": "Remote",
+      "score": 7.6,
+      "url": "https://jooble.org/jdp/-6228588166763581"
     }
   ]
 }
