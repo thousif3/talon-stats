@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-17T01:05:22.413Z",
-  "generatedAtET": "7/16/2026, 9:05:22 PM",
+  "generatedAt": "2026-07-17T02:05:22.449Z",
+  "generatedAtET": "7/16/2026, 10:05:22 PM",
   "pipeline": {
     "jobsScanned": 1012,
     "eligible": 5,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 50720,
-    "lastUpdated": "2026-07-17T00:33:36.046Z"
+    "totalCalls": 50722,
+    "lastUpdated": "2026-07-17T02:05:03.842Z"
   },
   "recentNews": {
     "visa": "• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Foreign Students’ Time in US Restricted Under Finalized DHS Rule - Bloomberg Law News\n• Ford Philanthropy, Uber, and Rocket Community Fund Join Last Mile Education Fund to Keep Thousands of STEM Students on the Road to Graduation",
