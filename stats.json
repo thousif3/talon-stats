@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-17T11:05:22.783Z",
-  "generatedAtET": "7/17/2026, 7:05:22 AM",
+  "generatedAt": "2026-07-18T01:05:21.699Z",
+  "generatedAtET": "7/17/2026, 9:05:21 PM",
   "pipeline": {
-    "jobsScanned": 1012,
-    "eligible": 5,
-    "score7plus": 5,
+    "jobsScanned": 1045,
+    "eligible": 15,
+    "score7plus": 15,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,21 +14,28 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-17T00:34:22.247Z",
-    "gmailParsed": "2026-07-17T00:28:22.864Z",
-    "newsGenerated": "2026-07-17T00:34:21.058Z"
+    "news": "2026-07-18T00:42:21.571Z",
+    "gmailParsed": "2026-07-18T00:36:27.504Z",
+    "newsGenerated": "2026-07-18T00:42:19.727Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 50722,
-    "lastUpdated": "2026-07-17T02:05:03.842Z"
+    "totalCalls": 50912,
+    "lastUpdated": "2026-07-18T00:41:34.716Z"
   },
   "recentNews": {
-    "visa": "• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Foreign Students’ Time in US Restricted Under Finalized DHS Rule - Bloomberg Law News\n• Ford Philanthropy, Uber, and Rocket Community Fund Join Last Mile Education Fund to Keep Thousands of STEM Students on the Road to Graduation",
-    "tech": "• Cognizant Is Hiring 1,500 Graduates for an AI-Driven Workforce - Newsweek\n• Meta employees sue on allegations company used AI to target workers on medical, parental leave for layoffs - Fox Business\n• TCS Says AI Won’t Shrink Its Workforce - Finimize\n• New York’s Data-Center Moratorium Is the AI Bu",
-    "breaking": "• Russia’s First Robotic Gas Station Attendant\n• The Latest: Long-debunked election claims could be a part of Trump's address to the nation\n• FIFA World Cup 2026: Biggest takeaways from the semifinals\n• The Latest: Trump is expected to make election conspiracies a focus of his national address\n• Gro"
+    "visa": "• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Foreign Students’ Time in US Restricted Under Finalized DHS Rule - Bloomberg Law News\n• Trump Administration Limits the Duration",
+    "tech": "• Cognizant Is Hiring 1,500 Graduates for an AI-Driven Workforce - Newsweek\n• Meta employees sue on allegations company used AI to target workers on medical, parental leave for layoffs - Fox Business\n• Google wants to build an evidence base for healthcare AI - Modern Healthcare\n• New York’s Data-Cen",
+    "breaking": "• Washington County cracks down on retail theft: 'Don't come here,' DA warns out-of-town thieves\n• Fighting The Ghosts of Britain's Past: New Prime Minister Defines Himself as Anti-Thatcher Leader\n• ICE officer in Maine shooting has history of violent behavior, family and records say - NBC News\n• A "
   },
   "topJobs": [
+    {
+      "title": "Remote PMO Intern: Agile Software Project Coordinator",
+      "company": "BD (Becton, Dickinson and Company)",
+      "location": "San Diego, CA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/5771163826940185604"
+    },
     {
       "title": "Project Manager 3",
       "company": "Andersen Construction",
@@ -37,32 +44,25 @@
       "url": "https://jooble.org/jdp/-8007873489867504259"
     },
     {
-      "title": "Program Coordinator",
-      "company": "JobsInMass.com",
-      "location": "Boston, MA",
-      "score": 7.3,
-      "url": "https://jooble.org/jdp/4448974546511610198"
+      "title": "Project Manager Intern",
+      "company": "TelePharm LLC",
+      "location": "Iowa City, IA",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/2534437654925028575"
     },
     {
-      "title": "Associate Strategy Analyst",
-      "company": "Ross Stores, Inc.",
-      "location": "Dublin, CA",
-      "score": 7.3,
-      "url": "https://jooble.org/jdp/-2939463903281662969"
+      "title": "Junior Project Manager - Start Your PM Career in Tech",
+      "company": "JanBask CRM Software",
+      "location": "Arlington, VA",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-2031977199672215055"
     },
     {
-      "title": "Real Estate Associate Project Manager",
-      "company": "Datadog",
-      "location": "Amsterdam, The Netherlands; London, United Kingdom; Paris, France",
-      "score": 8,
-      "url": "https://careers.datadoghq.com/detail/7732564/?gh_jid=7732564"
-    },
-    {
-      "title": "Project Manager Equipment",
-      "company": "Trane Technologies",
-      "location": "Unionville, York region",
-      "score": 7.2,
-      "url": "https://www.adzuna.ca/land/ad/5800510097?se=UvsFNA6B8RGX9-Zn8VgRCg&utm_medium=api&utm_source=2e4857a8&v=43ECD0B479649E29BAA2E68DF789DB9A519D4074"
+      "title": "Project Manager Intern",
+      "company": "Fresh Digital Group",
+      "location": "New York, NY",
+      "score": 10,
+      "url": "https://jooble.org/jdp/5830632475616347791"
     }
   ]
 }
