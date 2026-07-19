@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-07-18T11:05:56.184Z",
-  "generatedAtET": "7/18/2026, 7:05:56 AM",
+  "generatedAt": "2026-07-19T01:05:11.850Z",
+  "generatedAtET": "7/18/2026, 9:05:11 PM",
   "pipeline": {
-    "jobsScanned": 1045,
+    "jobsScanned": 1066,
     "eligible": 15,
     "score7plus": 15,
     "approved": 9,
@@ -14,19 +14,19 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-18T00:42:21.571Z",
-    "gmailParsed": "2026-07-18T00:36:27.504Z",
-    "newsGenerated": "2026-07-18T00:42:19.727Z"
+    "news": "2026-07-19T01:00:11.638Z",
+    "gmailParsed": "2026-07-19T00:53:43.328Z",
+    "newsGenerated": "2026-07-19T01:00:09.963Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 50912,
-    "lastUpdated": "2026-07-18T00:41:34.716Z"
+    "totalCalls": 51072,
+    "lastUpdated": "2026-07-19T00:58:38.450Z"
   },
   "recentNews": {
-    "visa": "• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Foreign Students’ Time in US Restricted Under Finalized DHS Rule - Bloomberg Law News\n• Trump Administration Limits the Duration",
-    "tech": "• Cognizant Is Hiring 1,500 Graduates for an AI-Driven Workforce - Newsweek\n• Meta employees sue on allegations company used AI to target workers on medical, parental leave for layoffs - Fox Business\n• Google wants to build an evidence base for healthcare AI - Modern Healthcare\n• New York’s Data-Cen",
-    "breaking": "• Washington County cracks down on retail theft: 'Don't come here,' DA warns out-of-town thieves\n• Fighting The Ghosts of Britain's Past: New Prime Minister Defines Himself as Anti-Thatcher Leader\n• ICE officer in Maine shooting has history of violent behavior, family and records say - NBC News\n• A "
+    "visa": "• DHS Finalizes Immigration Rule That Imperils Status Of Many Students - Forbes\n• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• Foreign Students’ Time in US Restricted Under Finalized DHS Rule - Bloomberg Law News\n• Trump Administration Limits t",
+    "tech": "• Layoffs 2026: List of Companies That Laid Off Massive Workforce Due to AI - LatestLY\n• Cognizant Is Hiring 1,500 Graduates for an AI-Driven Workforce - Newsweek\n• Meta employees sue on allegations company used AI to target workers on medical, parental leave for layoffs - Fox Business\n• Caltius Equ",
+    "breaking": "• Healey’s housing secretary tells business leaders to keep pushing for more housing\n• Community Calendar: July 18-31\n• 'A dangerous proposition': How AI is warping the social fabric and the ways we collectively imagine the future\n• Why stadium food is so expensive\n• GLP-1 insurance change impacts m"
   },
   "topJobs": [
     {
@@ -44,25 +44,25 @@
       "url": "https://jooble.org/jdp/-8007873489867504259"
     },
     {
-      "title": "Project Manager Intern",
-      "company": "TelePharm LLC",
-      "location": "Iowa City, IA",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/2534437654925028575"
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge Priest Inc",
+      "location": "Fort Worth, TX",
+      "score": 8.9,
+      "url": "https://jooble.org/jdp/-7375923879709907684"
+    },
+    {
+      "title": "Junior IWMS Project Manager - Intern",
+      "company": "Volaris Group",
+      "location": "San Antonio, TX",
+      "score": 10,
+      "url": "https://jooble.org/jdp/-6021777075094846697"
     },
     {
       "title": "Junior Project Manager - Start Your PM Career in Tech",
       "company": "JanBask CRM Software",
       "location": "Arlington, VA",
-      "score": 10,
+      "score": 9.8,
       "url": "https://jooble.org/jdp/-2031977199672215055"
-    },
-    {
-      "title": "Project Manager Intern",
-      "company": "Fresh Digital Group",
-      "location": "New York, NY",
-      "score": 10,
-      "url": "https://jooble.org/jdp/5830632475616347791"
     }
   ]
 }
