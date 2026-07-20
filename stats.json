@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-20T02:05:16.494Z",
-  "generatedAtET": "7/19/2026, 10:05:16 PM",
+  "generatedAt": "2026-07-20T03:05:16.522Z",
+  "generatedAtET": "7/19/2026, 11:05:16 PM",
   "pipeline": {
     "jobsScanned": 1055,
     "eligible": 13,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 51258,
-    "lastUpdated": "2026-07-20T00:42:50.593Z"
+    "totalCalls": 51260,
+    "lastUpdated": "2026-07-20T02:06:00.273Z"
   },
   "recentNews": {
     "visa": "• DHS Finalizes Immigration Rule That Imperils Status Of Many Students - Forbes\n• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Trump Administration Limits the Duration of Stud",
