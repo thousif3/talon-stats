@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-19T11:05:35.676Z",
-  "generatedAtET": "7/19/2026, 7:05:35 AM",
+  "generatedAt": "2026-07-20T02:05:16.494Z",
+  "generatedAtET": "7/19/2026, 10:05:16 PM",
   "pipeline": {
-    "jobsScanned": 1066,
-    "eligible": 15,
-    "score7plus": 15,
+    "jobsScanned": 1055,
+    "eligible": 13,
+    "score7plus": 13,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,19 +14,19 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-19T01:00:11.638Z",
-    "gmailParsed": "2026-07-19T00:53:43.328Z",
-    "newsGenerated": "2026-07-19T01:00:09.963Z"
+    "news": "2026-07-20T00:48:16.296Z",
+    "gmailParsed": "2026-07-20T00:41:57.420Z",
+    "newsGenerated": "2026-07-20T00:48:14.615Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 51072,
-    "lastUpdated": "2026-07-19T00:58:38.450Z"
+    "totalCalls": 51258,
+    "lastUpdated": "2026-07-20T00:42:50.593Z"
   },
   "recentNews": {
-    "visa": "• DHS Finalizes Immigration Rule That Imperils Status Of Many Students - Forbes\n• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• Foreign Students’ Time in US Restricted Under Finalized DHS Rule - Bloomberg Law News\n• Trump Administration Limits t",
-    "tech": "• Layoffs 2026: List of Companies That Laid Off Massive Workforce Due to AI - LatestLY\n• Cognizant Is Hiring 1,500 Graduates for an AI-Driven Workforce - Newsweek\n• Meta employees sue on allegations company used AI to target workers on medical, parental leave for layoffs - Fox Business\n• Caltius Equ",
-    "breaking": "• Healey’s housing secretary tells business leaders to keep pushing for more housing\n• Community Calendar: July 18-31\n• 'A dangerous proposition': How AI is warping the social fabric and the ways we collectively imagine the future\n• Why stadium food is so expensive\n• GLP-1 insurance change impacts m"
+    "visa": "• DHS Finalizes Immigration Rule That Imperils Status Of Many Students - Forbes\n• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Trump Administration Limits the Duration of Stud",
+    "tech": "• Layoffs 2026: List of Companies That Laid Off Massive Workforce Due to AI - LatestLY\n• Cognizant Is Hiring 1,500 Graduates for an AI-Driven Workforce - Newsweek\n• Meta employees sue on allegations company used AI to target workers on medical, parental leave for layoffs - Fox Business\n• New York’s ",
+    "breaking": "• Europe's far right backs certain World Cup teams.\n• Ukraine seeks Patriot missile interceptors after Kyiv attack.\n• FOX4 forecasts better rain chances this afternoon.\n• Indian court denies release of hunger-striking activist.\n• WaPo poll shows tight Congressional race despite Trump.\n• New poll ind"
   },
   "topJobs": [
     {
@@ -47,15 +47,15 @@
       "title": "Summer Internship - Assistant Project Manager",
       "company": "Lochridge Priest Inc",
       "location": "Fort Worth, TX",
-      "score": 8.9,
+      "score": 8.5,
       "url": "https://jooble.org/jdp/-7375923879709907684"
     },
     {
       "title": "Junior IWMS Project Manager - Intern",
       "company": "Volaris Group",
-      "location": "San Antonio, TX",
-      "score": 10,
-      "url": "https://jooble.org/jdp/-6021777075094846697"
+      "location": "Wausau, WI",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/-5837750302693204951"
     },
     {
       "title": "Junior Project Manager - Start Your PM Career in Tech",
