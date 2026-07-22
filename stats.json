@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-20T11:05:02.414Z",
-  "generatedAtET": "7/20/2026, 7:05:02 AM",
+  "generatedAt": "2026-07-22T03:05:23.945Z",
+  "generatedAtET": "7/21/2026, 11:05:23 PM",
   "pipeline": {
-    "jobsScanned": 1055,
-    "eligible": 13,
-    "score7plus": 13,
+    "jobsScanned": 1091,
+    "eligible": 6,
+    "score7plus": 6,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-20T00:48:16.296Z",
-    "gmailParsed": "2026-07-20T00:41:57.420Z",
-    "newsGenerated": "2026-07-20T00:48:14.615Z"
+    "news": "2026-07-21T12:34:09.298Z",
+    "gmailParsed": "2026-07-21T12:28:15.636Z",
+    "newsGenerated": "2026-07-21T12:34:07.643Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 51260,
-    "lastUpdated": "2026-07-20T02:06:00.273Z"
+    "totalCalls": 51512,
+    "lastUpdated": "2026-07-22T02:20:53.627Z"
   },
   "recentNews": {
-    "visa": "• DHS Finalizes Immigration Rule That Imperils Status Of Many Students - Forbes\n• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• 5 Takeaways From International Education Survey - Inside Higher Ed\n• Trump Administration Limits the Duration of Stud",
-    "tech": "• Layoffs 2026: List of Companies That Laid Off Massive Workforce Due to AI - LatestLY\n• Cognizant Is Hiring 1,500 Graduates for an AI-Driven Workforce - Newsweek\n• Meta employees sue on allegations company used AI to target workers on medical, parental leave for layoffs - Fox Business\n• New York’s ",
-    "breaking": "• Europe's far right backs certain World Cup teams.\n• Ukraine seeks Patriot missile interceptors after Kyiv attack.\n• FOX4 forecasts better rain chances this afternoon.\n• Indian court denies release of hunger-striking activist.\n• WaPo poll shows tight Congressional race despite Trump.\n• New poll ind"
+    "visa": "• DHS Finalizes Immigration Rule That Imperils Status Of Many Students - Forbes\n• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• Foreign Students’ Time in US Restricted Under Finalized DHS Rule - Bloomberg Law News\n• New rule caps foreign student",
+    "tech": "• Layoffs 2026: List of Companies That Laid Off Massive Workforce Due to AI - LatestLY\n• Judge Won’t Block Meta From Laying Off Workers Who Filed AI Discrimination Suit - Insurance Journal\n• Cognizant Is Hiring 1,500 Graduates for an AI-Driven Workforce - Newsweek\n• TSMC Expands Arizona Investment W",
+    "breaking": "• Tracy witnesses massive smoke plume.\n• Dead animals litter L.A. streets increasingly.\n• Assemblyman seeks advisor for BPS oversight.\n• Nicaragua's Ortega rejects future elections.\n• Boyle Heights warehouse odor sparks 900 complaints.\n• Asian currencies steady amid US-Iran tensions.\n• Tennessee's J"
   },
   "topJobs": [
     {
-      "title": "Remote PMO Intern: Agile Software Project Coordinator",
-      "company": "BD (Becton, Dickinson and Company)",
-      "location": "San Diego, CA",
+      "title": "Product Manager Intern",
+      "company": "Pendulum Intelligence",
+      "location": "Remote",
       "score": 10,
-      "url": "https://jooble.org/jdp/5771163826940185604"
+      "url": "https://jooble.org/jdp/-7972533970218855045"
     },
     {
-      "title": "Project Manager 3",
-      "company": "Andersen Construction",
-      "location": "Portland, OR",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-8007873489867504259"
+      "title": "Product Manager Intern — Innovations & Partnerships (Hybrid)",
+      "company": "BMW Group",
+      "location": "Mountain View, CA",
+      "score": 9.6,
+      "url": "https://jooble.org/jdp/5313708795628639057"
     },
     {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge Priest Inc",
-      "location": "Fort Worth, TX",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-7375923879709907684"
+      "title": "Strategy & Process Analyst Intern",
+      "company": "Tradox",
+      "location": "Piscataway, NJ",
+      "score": 9.4,
+      "url": "https://jooble.org/jdp/-3839977774883974759"
     },
     {
-      "title": "Junior IWMS Project Manager - Intern",
-      "company": "Volaris Group",
-      "location": "Wausau, WI",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-5837750302693204951"
+      "title": "Scrum Master",
+      "company": "Vytwo",
+      "location": "Remote",
+      "score": 9.6,
+      "url": "https://jooble.org/jdp/7166480154456547225"
     },
     {
-      "title": "Junior Project Manager - Start Your PM Career in Tech",
-      "company": "JanBask CRM Software",
-      "location": "Arlington, VA",
-      "score": 9.8,
-      "url": "https://jooble.org/jdp/-2031977199672215055"
+      "title": "Consulting Analyst",
+      "company": "Black & Veatch",
+      "location": "Charlotte, NC",
+      "score": 7,
+      "url": "https://jooble.org/jdp/2910439977899005296"
     }
   ]
 }
