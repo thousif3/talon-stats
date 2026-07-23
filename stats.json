@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-23T02:05:20.244Z",
-  "generatedAtET": "7/22/2026, 10:05:20 PM",
+  "generatedAt": "2026-07-23T03:05:30.973Z",
+  "generatedAtET": "7/22/2026, 11:05:30 PM",
   "pipeline": {
     "jobsScanned": 1047,
     "eligible": 17,
@@ -20,8 +20,8 @@
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 51660,
-    "lastUpdated": "2026-07-23T00:43:00.728Z"
+    "totalCalls": 51662,
+    "lastUpdated": "2026-07-23T02:06:03.809Z"
   },
   "recentNews": {
     "visa": "• 4-year fixed stay for F1 students: Immigration attorney says the biggest risk is 'booking a flight home', warns visa holders against traveling outside US - The Times of India\n• DHS finalizes rule replacing “Duration of Status” for F-1, J-1, and I visa holders\n• Proposed DHS Rule Could Change How I",
