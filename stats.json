@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-22T11:05:24.245Z",
-  "generatedAtET": "7/22/2026, 7:05:24 AM",
+  "generatedAt": "2026-07-23T01:05:20.199Z",
+  "generatedAtET": "7/22/2026, 9:05:20 PM",
   "pipeline": {
-    "jobsScanned": 1091,
-    "eligible": 6,
-    "score7plus": 6,
+    "jobsScanned": 1047,
+    "eligible": 17,
+    "score7plus": 17,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,55 +14,55 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-21T12:34:09.298Z",
-    "gmailParsed": "2026-07-21T12:28:15.636Z",
-    "newsGenerated": "2026-07-21T12:34:07.643Z"
+    "news": "2026-07-23T00:45:20.043Z",
+    "gmailParsed": "2026-07-23T00:39:10.181Z",
+    "newsGenerated": "2026-07-23T00:45:18.742Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 51512,
-    "lastUpdated": "2026-07-22T02:20:53.627Z"
+    "totalCalls": 51660,
+    "lastUpdated": "2026-07-23T00:43:00.728Z"
   },
   "recentNews": {
-    "visa": "• DHS Finalizes Immigration Rule That Imperils Status Of Many Students - Forbes\n• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• Foreign Students’ Time in US Restricted Under Finalized DHS Rule - Bloomberg Law News\n• New rule caps foreign student",
-    "tech": "• Layoffs 2026: List of Companies That Laid Off Massive Workforce Due to AI - LatestLY\n• Judge Won’t Block Meta From Laying Off Workers Who Filed AI Discrimination Suit - Insurance Journal\n• Cognizant Is Hiring 1,500 Graduates for an AI-Driven Workforce - Newsweek\n• TSMC Expands Arizona Investment W",
-    "breaking": "• Tracy witnesses massive smoke plume.\n• Dead animals litter L.A. streets increasingly.\n• Assemblyman seeks advisor for BPS oversight.\n• Nicaragua's Ortega rejects future elections.\n• Boyle Heights warehouse odor sparks 900 complaints.\n• Asian currencies steady amid US-Iran tensions.\n• Tennessee's J"
+    "visa": "• 4-year fixed stay for F1 students: Immigration attorney says the biggest risk is 'booking a flight home', warns visa holders against traveling outside US - The Times of India\n• DHS finalizes rule replacing “Duration of Status” for F-1, J-1, and I visa holders\n• Proposed DHS Rule Could Change How I",
+    "tech": "• Layoffs 2026 list highlights companies cutting massive workforces due to AI adoption.  \n• Judge refuses to block Meta from laying off workers who filed an AI discrimination lawsuit.  \n• New UK IT policies aim to shape tech industry and contractor landscape.  \n• TSMC expands Arizona investment with",
+    "breaking": "• Ukraine destroyed several Russian shadow fleet vessels, shifting tactics in the Black Sea.\n• A storm flattened dozens of trees, closing a U.P. road for days.\n• National Guard deployed after flash floods inundated West Virginia homes and businesses.\n• A letter to the editor argues that death is the"
   },
   "topJobs": [
     {
-      "title": "Product Manager Intern",
-      "company": "Pendulum Intelligence",
-      "location": "Remote",
+      "title": "Remote PMO Intern: Agile Software Project Coordinator",
+      "company": "BD (Becton, Dickinson and Company)",
+      "location": "San Diego, CA",
       "score": 10,
-      "url": "https://jooble.org/jdp/-7972533970218855045"
+      "url": "https://jooble.org/jdp/5771163826940185604"
     },
     {
-      "title": "Product Manager Intern — Innovations & Partnerships (Hybrid)",
-      "company": "BMW Group",
-      "location": "Mountain View, CA",
-      "score": 9.6,
-      "url": "https://jooble.org/jdp/5313708795628639057"
+      "title": "Junior IWMS Project Manager - Intern",
+      "company": "Volaris Group",
+      "location": "Wausau, WI",
+      "score": 9.1,
+      "url": "https://jooble.org/jdp/-5837750302693204951"
     },
     {
-      "title": "Strategy & Process Analyst Intern",
-      "company": "Tradox",
-      "location": "Piscataway, NJ",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/-3839977774883974759"
+      "title": "Architectural Project Manager",
+      "company": "Apollo Technical",
+      "location": "Flower Mound, TX",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/3843480094584144735"
     },
     {
-      "title": "Scrum Master",
-      "company": "Vytwo",
-      "location": "Remote",
-      "score": 9.6,
-      "url": "https://jooble.org/jdp/7166480154456547225"
+      "title": "Project Manager (Multi-Family)",
+      "company": "KPRS Construction",
+      "location": "San Diego, CA",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/4157037824610411360"
     },
     {
-      "title": "Consulting Analyst",
-      "company": "Black & Veatch",
-      "location": "Charlotte, NC",
-      "score": 7,
-      "url": "https://jooble.org/jdp/2910439977899005296"
+      "title": "Project Manager Intern",
+      "company": "TelePharm LLC",
+      "location": "Iowa City, IA",
+      "score": 9.1,
+      "url": "https://jooble.org/jdp/2534437654925028575"
     }
   ]
 }
