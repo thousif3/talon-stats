@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-23T11:05:40.629Z",
-  "generatedAtET": "7/23/2026, 7:05:40 AM",
+  "generatedAt": "2026-07-24T01:05:31.443Z",
+  "generatedAtET": "7/23/2026, 9:05:31 PM",
   "pipeline": {
-    "jobsScanned": 1047,
-    "eligible": 17,
-    "score7plus": 17,
+    "jobsScanned": 1007,
+    "eligible": 19,
+    "score7plus": 19,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,21 +14,28 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-23T00:45:20.043Z",
-    "gmailParsed": "2026-07-23T00:39:10.181Z",
-    "newsGenerated": "2026-07-23T00:45:18.742Z"
+    "news": "2026-07-24T00:13:31.268Z",
+    "gmailParsed": "2026-07-24T00:07:12.476Z",
+    "newsGenerated": "2026-07-24T00:13:29.707Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
-    "totalCalls": 51662,
-    "lastUpdated": "2026-07-23T02:06:03.809Z"
+    "totalCalls": 51828,
+    "lastUpdated": "2026-07-24T00:09:38.684Z"
   },
   "recentNews": {
-    "visa": "• 4-year fixed stay for F1 students: Immigration attorney says the biggest risk is 'booking a flight home', warns visa holders against traveling outside US - The Times of India\n• DHS finalizes rule replacing “Duration of Status” for F-1, J-1, and I visa holders\n• Proposed DHS Rule Could Change How I",
-    "tech": "• Layoffs 2026 list highlights companies cutting massive workforces due to AI adoption.  \n• Judge refuses to block Meta from laying off workers who filed an AI discrimination lawsuit.  \n• New UK IT policies aim to shape tech industry and contractor landscape.  \n• TSMC expands Arizona investment with",
-    "breaking": "• Ukraine destroyed several Russian shadow fleet vessels, shifting tactics in the Black Sea.\n• A storm flattened dozens of trees, closing a U.P. road for days.\n• National Guard deployed after flash floods inundated West Virginia homes and businesses.\n• A letter to the editor argues that death is the"
+    "visa": "• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• ICE Rule Limits F-1 Student Visa Stays to Four Years - SHRM\n• 3 lawyers react to Trump's new limits on student visas - Business Insider\n• H-1B visa program hits 2027 cap - HR Dive\n• H-1B visa progr",
+    "tech": "• Judge Won’t Block Meta From Laying Off Workers Who Filed AI Discrimination Suit - Insurance Journal\n• Andy Burnham is PM: 5 new IT policies set to shape UK tech and its contractors - Contractor UK\n• People in the News—July 23, 2026—Saxton & Stump, McNees - Law.com\n• TSMC Expands Arizona Investment",
+    "breaking": "• $1 million buys less in Monmouth County real estate during the week of July 13.\n• Therapist told Mango heir's son to confront father on cliff edge days before fatal fall, report says.\n• Indian supporters use delivery apps to send food sustaining the 'Cockroach' protest.\n• Beauty influencer Adriana"
   },
   "topJobs": [
+    {
+      "title": "Project & Change Management Intern (Fall 2026)",
+      "company": "Valvoline",
+      "location": "Lexington, Fayette County",
+      "score": 9.1,
+      "url": "https://www.adzuna.com/land/ad/5810311609?se=Hv0uIY6G8RGOTokAaHxoXQ&utm_medium=api&utm_source=2e4857a8&v=045730FB6A26779E2A6ED0CB471F5FCAE2854933"
+    },
     {
       "title": "Remote PMO Intern: Agile Software Project Coordinator",
       "company": "BD (Becton, Dickinson and Company)",
@@ -37,32 +44,25 @@
       "url": "https://jooble.org/jdp/5771163826940185604"
     },
     {
+      "title": "Project Manager 2",
+      "company": "Andersen Construction",
+      "location": "Portland, OR",
+      "score": 8.5,
+      "url": "https://jooble.org/jdp/-7686423172292795038"
+    },
+    {
+      "title": "Summer Internship - Assistant Project Manager",
+      "company": "Lochridge Priest Inc",
+      "location": "Fort Worth, TX",
+      "score": 9.4,
+      "url": "https://jooble.org/jdp/-7375923879709907684"
+    },
+    {
       "title": "Junior IWMS Project Manager - Intern",
       "company": "Volaris Group",
       "location": "Wausau, WI",
-      "score": 9.1,
+      "score": 8.5,
       "url": "https://jooble.org/jdp/-5837750302693204951"
-    },
-    {
-      "title": "Architectural Project Manager",
-      "company": "Apollo Technical",
-      "location": "Flower Mound, TX",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/3843480094584144735"
-    },
-    {
-      "title": "Project Manager (Multi-Family)",
-      "company": "KPRS Construction",
-      "location": "San Diego, CA",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/4157037824610411360"
-    },
-    {
-      "title": "Project Manager Intern",
-      "company": "TelePharm LLC",
-      "location": "Iowa City, IA",
-      "score": 9.1,
-      "url": "https://jooble.org/jdp/2534437654925028575"
     }
   ]
 }
