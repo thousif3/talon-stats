@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-17T23:05:55.404Z",
-  "generatedAtET": "9/17/2026, 7:05:55 PM",
+  "generatedAt": "2026-09-19T16:05:50.199Z",
+  "generatedAtET": "9/19/2026, 12:05:50 PM",
   "pipeline": {
-    "jobsScanned": 1007,
-    "eligible": 19,
-    "score7plus": 19,
+    "jobsScanned": 80,
+    "eligible": 0,
+    "score7plus": 0,
     "approved": 9,
     "applications": 0,
     "interviews": 0,
@@ -14,9 +14,9 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-07-24T00:13:31.268Z",
-    "gmailParsed": "2026-07-24T00:07:12.476Z",
-    "newsGenerated": "2026-07-24T00:13:29.707Z"
+    "news": "2026-09-18T12:13:36.460Z",
+    "gmailParsed": "2026-09-18T12:06:34.546Z",
+    "newsGenerated": "2026-09-18T12:13:26.387Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
@@ -24,45 +24,9 @@
     "lastUpdated": "2026-07-24T00:09:38.684Z"
   },
   "recentNews": {
-    "visa": "• New rule caps foreign student visas at four years, jolting California campuses - Los Angeles Times\n• ICE Rule Limits F-1 Student Visa Stays to Four Years - SHRM\n• 3 lawyers react to Trump's new limits on student visas - Business Insider\n• H-1B visa program hits 2027 cap - HR Dive\n• H-1B visa progr",
-    "tech": "• Judge Won’t Block Meta From Laying Off Workers Who Filed AI Discrimination Suit - Insurance Journal\n• Andy Burnham is PM: 5 new IT policies set to shape UK tech and its contractors - Contractor UK\n• People in the News—July 23, 2026—Saxton & Stump, McNees - Law.com\n• TSMC Expands Arizona Investment",
-    "breaking": "• $1 million buys less in Monmouth County real estate during the week of July 13.\n• Therapist told Mango heir's son to confront father on cliff edge days before fatal fall, report says.\n• Indian supporters use delivery apps to send food sustaining the 'Cockroach' protest.\n• Beauty influencer Adriana"
+    "visa": "• New Fixed Admission Periods for F and J Visa Holders: FAQs and Practical Guidance for Employers | Potomac Law Group, PLLC - JDSupra\n• WashU restricts international student internships after new federal guidelines - Student Life\n• DHS Issues Final Rule Creating Fixed Period of Admission for F, J, a",
+    "tech": "• Tech Layoffs 2026: Uber, PayPal, Oracle Cut Jobs As AI ...\n• Tech layoffs 2026: As AI takes center stage, here's a list of major ...\n• The global technology sector has crossed a major workforce ...\n• DeepSeek forms team to challenge Anthropic’s Claude Code with new AI agents - Crypto Briefing\n• 20",
+    "breaking": "• Trump administration wants ‘Made in the USA’ labels on beef\n• Boys soccer photos: Kingsway at Cherry Hill East, Thursday, Sept. 17\n• Abandoned Pleasanton puppy finds forever home\n• Wild video shows car crash through backyard fence, narrowly missing children in pool\n• Early Voting Begins For 2026 E"
   },
-  "topJobs": [
-    {
-      "title": "Project & Change Management Intern (Fall 2026)",
-      "company": "Valvoline",
-      "location": "Lexington, Fayette County",
-      "score": 9.1,
-      "url": "https://www.adzuna.com/land/ad/5810311609?se=Hv0uIY6G8RGOTokAaHxoXQ&utm_medium=api&utm_source=2e4857a8&v=045730FB6A26779E2A6ED0CB471F5FCAE2854933"
-    },
-    {
-      "title": "Remote PMO Intern: Agile Software Project Coordinator",
-      "company": "BD (Becton, Dickinson and Company)",
-      "location": "San Diego, CA",
-      "score": 10,
-      "url": "https://jooble.org/jdp/5771163826940185604"
-    },
-    {
-      "title": "Project Manager 2",
-      "company": "Andersen Construction",
-      "location": "Portland, OR",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-7686423172292795038"
-    },
-    {
-      "title": "Summer Internship - Assistant Project Manager",
-      "company": "Lochridge Priest Inc",
-      "location": "Fort Worth, TX",
-      "score": 9.4,
-      "url": "https://jooble.org/jdp/-7375923879709907684"
-    },
-    {
-      "title": "Junior IWMS Project Manager - Intern",
-      "company": "Volaris Group",
-      "location": "Wausau, WI",
-      "score": 8.5,
-      "url": "https://jooble.org/jdp/-5837750302693204951"
-    }
-  ]
+  "topJobs": []
 }
