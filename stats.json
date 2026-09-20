@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-19T23:05:51.820Z",
-  "generatedAtET": "9/19/2026, 7:05:51 PM",
+  "generatedAt": "2026-09-20T01:05:14.836Z",
+  "generatedAtET": "9/19/2026, 9:05:14 PM",
   "pipeline": {
-    "jobsScanned": 80,
+    "jobsScanned": 1141,
     "eligible": 0,
     "score7plus": 0,
     "approved": 9,
@@ -14,9 +14,9 @@
   },
   "lastRuns": {
     "jobScan": null,
-    "news": "2026-09-18T12:13:36.460Z",
-    "gmailParsed": "2026-09-18T12:06:34.546Z",
-    "newsGenerated": "2026-09-18T12:13:26.387Z"
+    "news": "2026-09-20T01:01:51.214Z",
+    "gmailParsed": "2026-09-20T01:00:45.145Z",
+    "newsGenerated": "2026-09-20T01:01:46.347Z"
   },
   "aiCosts": {
     "totalSpent": 0.0651,
@@ -24,9 +24,9 @@
     "lastUpdated": "2026-07-24T00:09:38.684Z"
   },
   "recentNews": {
-    "visa": "• New Fixed Admission Periods for F and J Visa Holders: FAQs and Practical Guidance for Employers | Potomac Law Group, PLLC - JDSupra\n• WashU restricts international student internships after new federal guidelines - Student Life\n• DHS Issues Final Rule Creating Fixed Period of Admission for F, J, a",
-    "tech": "• Tech Layoffs 2026: Uber, PayPal, Oracle Cut Jobs As AI ...\n• Tech layoffs 2026: As AI takes center stage, here's a list of major ...\n• The global technology sector has crossed a major workforce ...\n• DeepSeek forms team to challenge Anthropic’s Claude Code with new AI agents - Crypto Briefing\n• 20",
-    "breaking": "• Trump administration wants ‘Made in the USA’ labels on beef\n• Boys soccer photos: Kingsway at Cherry Hill East, Thursday, Sept. 17\n• Abandoned Pleasanton puppy finds forever home\n• Wild video shows car crash through backyard fence, narrowly missing children in pool\n• Early Voting Begins For 2026 E"
+    "visa": "• New Fixed Admission Periods for F and J Visa Holders: FAQs and Practical Guidance for Employers | Potomac Law Group, PLLC - JDSupra\n• DHS Issues Final Rule Creating Fixed Period of Admission for F, J, and I Visa Holders\n• University restricts internship approvals for international students followi",
+    "tech": "• Tech layoffs cross 175,000 in 2026 as AI reshapes jobs, hiring and workforce plans\n• Oracle Layoffs: New Job Cuts Hit as AI Spending Drives a Wider Big Tech Restructuring\n• From Oracle to Amazon: Tech giants drive global wave of ...\n• AI Product Manager: Skills, Roles, Salary & Career Opportunitie",
+    "breaking": "• Russia-Backed South Ossetia Elects Leader Close to Moscow\n• Philly serial killer probe could expose larger network behind apparent 'snuff' films, expert says\n• ‘This Is Far More Than Mildly Infuriating’: Traveler’s 17-Hour Flight Next to a Sick Passenger Draws Sympathy\n• 20 Best Horror Movies Like"
   },
   "topJobs": []
 }
