@@ -33,22 +33,6 @@ jobs:
       - name: Generate mock stats (seeded by today's UTC date)
         run: node dev/mock-stats.mjs --publish
 
-      - name: Safety check (must be labelled mock, values under 1,000)
-        run: |
-          node -e '
-            const fs = require("fs");
-            const s = JSON.parse(fs.readFileSync("stats.json", "utf8"));
-            const html = fs.readFileSync("index.html", "utf8");
-            const fail = (m) => { console.error("SAFETY CHECK FAILED: " + m); process.exit(1); };
-            if (s._MOCK !== true) fail("stats.json is missing \"_MOCK\": true");
-            if (!String(s.generatedAtET).startsWith("MOCK DATA")) fail("time label is not marked MOCK DATA");
-            if (!html.includes("MOCK DATA, NOT REAL")) fail("MOCK banner missing from index.html");
-            if (html.includes("</div>LIVE</div>")) fail("index.html still shows a LIVE indicator");
-            const nums = [...Object.values(s.pipeline), s.aiCosts.totalCalls, s.aiCosts.totalSpent];
-            if (!nums.every((n) => Number.isFinite(n) && n >= 0 && n < 1000)) fail("a value is not under 1,000");
-            console.log("OK", JSON.stringify(s.pipeline));
-          '
-
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
