@@ -1,32 +1,70 @@
 {
-  "generatedAt": "2026-09-21T11:05:25.374Z",
-  "generatedAtET": "9/21/2026, 7:05:25 AM",
+  "_MOCK": true,
+  "_MOCK_NOTE": "INVENTED DEMO DATA (scenario=typical, date seed=2026-11-09, seed=2032021012). Not from the TALON pipeline.",
+  "generatedAt": "2026-11-09T16:17:03.054Z",
+  "generatedAtET": "MOCK DATA · 2026-11-09",
   "pipeline": {
-    "jobsScanned": 410,
-    "eligible": 0,
-    "score7plus": 0,
-    "approved": 9,
-    "applications": 0,
-    "interviews": 0,
-    "rejections": 0,
-    "recruiters": 0,
-    "crmTracked": 33
+    "jobsScanned": 575,
+    "eligible": 228,
+    "score7plus": 85,
+    "approved": 13,
+    "applications": 26,
+    "interviews": 3,
+    "rejections": 6,
+    "recruiters": 2,
+    "crmTracked": 76
   },
   "lastRuns": {
-    "jobScan": null,
-    "news": "2026-09-20T01:01:51.214Z",
-    "gmailParsed": "2026-09-20T01:00:45.145Z",
-    "newsGenerated": "2026-09-20T01:01:46.347Z"
+    "jobScan": "2026-11-09T11:17:03.054Z",
+    "news": "2026-11-09T07:17:03.054Z",
+    "gmailParsed": "2026-11-09T14:17:03.054Z",
+    "newsGenerated": "2026-11-09T07:17:03.054Z"
   },
   "aiCosts": {
-    "totalSpent": 0.0651,
-    "totalCalls": 51828,
-    "lastUpdated": "2026-07-24T00:09:38.684Z"
+    "totalSpent": 0.467,
+    "totalCalls": 338,
+    "lastUpdated": "2026-11-09T15:17:03.054Z"
   },
   "recentNews": {
-    "visa": "• New Fixed Admission Periods for F and J Visa Holders: FAQs and Practical Guidance for Employers | Potomac Law Group, PLLC - JDSupra\n• DHS Issues Final Rule Creating Fixed Period of Admission for F, J, and I Visa Holders\n• University restricts internship approvals for international students followi",
-    "tech": "• Tech layoffs cross 175,000 in 2026 as AI reshapes jobs, hiring and workforce plans\n• Oracle Layoffs: New Job Cuts Hit as AI Spending Drives a Wider Big Tech Restructuring\n• From Oracle to Amazon: Tech giants drive global wave of ...\n• AI Product Manager: Skills, Roles, Salary & Career Opportunitie",
-    "breaking": "• Russia-Backed South Ossetia Elects Leader Close to Moscow\n• Philly serial killer probe could expose larger network behind apparent 'snuff' films, expert says\n• ‘This Is Far More Than Mildly Infuriating’: Traveler’s 17-Hour Flight Next to a Sick Passenger Draws Sympathy\n• 20 Best Horror Movies Like"
+    "visa": "• [MOCK] Sample visa headline one for layout testing\n• [MOCK] Sample visa headline two with a somewhat longer title to test wrapping",
+    "tech": "• [MOCK] Sample tech headline one\n• [MOCK] Sample tech headline two\n• [MOCK] Sample tech headline three",
+    "breaking": "• [MOCK] Sample breaking headline one for layout testing"
   },
-  "topJobs": []
+  "topJobs": [
+    {
+      "title": "Technical Program Manager",
+      "company": "Globex Systems",
+      "location": "Columbus, OH",
+      "score": 9,
+      "url": "https://example.com/mock-job/1002"
+    },
+    {
+      "title": "Data Operations Analyst",
+      "company": "Acme Analytics",
+      "location": "Chicago, IL",
+      "score": 8,
+      "url": "https://example.com/mock-job/1000"
+    },
+    {
+      "title": "Product Operations Associate",
+      "company": "Acme Analytics",
+      "location": "Remote (US)",
+      "score": 8,
+      "url": "https://example.com/mock-job/1003"
+    },
+    {
+      "title": "AI Product Manager",
+      "company": "Acme Analytics",
+      "location": "Remote (US)",
+      "score": 7,
+      "url": "https://example.com/mock-job/1001"
+    },
+    {
+      "title": "Technical Program Manager",
+      "company": "Umbrella Data",
+      "location": "Chicago, IL",
+      "score": 7,
+      "url": "https://example.com/mock-job/1004"
+    }
+  ]
 }
