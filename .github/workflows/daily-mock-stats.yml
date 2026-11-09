@@ -1,0 +1,62 @@
+# DEMO DATA ONLY. Every number this workflow commits is invented by dev/mock-stats.mjs and is
+# labelled as mock in stats.json ("_MOCK": true, "MOCK DATA ..." time label) and on the page
+# (red "MOCK DATA, NOT REAL" banner). It does not read the TALON pipeline.
+#
+# Heads-up: this replaces ./stats.json and ./index.html, the same two files TALON's hourly
+# exporter (github-export.mjs) pushes. If the exporter is running it will overwrite the mock
+# with real data at :05 each hour; disable one of the two if you want a stable result.
+name: Daily mock stats (demo data)
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # 00:00 UTC every day (7 PM EST / 8 PM EDT in Indianapolis)
+  workflow_dispatch:       # run it by hand from the Actions tab
+
+permissions:
+  contents: write          # needed to push the updated files
+
+concurrency:
+  group: daily-mock-stats
+  cancel-in-progress: false
+
+jobs:
+  mock-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate mock stats (seeded by today's UTC date)
+        run: node dev/mock-stats.mjs --publish
+
+      - name: Safety check (must be labelled mock, values under 1,000)
+        run: |
+          node -e '
+            const fs = require("fs");
+            const s = JSON.parse(fs.readFileSync("stats.json", "utf8"));
+            const html = fs.readFileSync("index.html", "utf8");
+            const fail = (m) => { console.error("SAFETY CHECK FAILED: " + m); process.exit(1); };
+            if (s._MOCK !== true) fail("stats.json is missing \"_MOCK\": true");
+            if (!String(s.generatedAtET).startsWith("MOCK DATA")) fail("time label is not marked MOCK DATA");
+            if (!html.includes("MOCK DATA, NOT REAL")) fail("MOCK banner missing from index.html");
+            const nums = [...Object.values(s.pipeline), s.aiCosts.totalCalls, s.aiCosts.totalSpent];
+            if (!nums.every((n) => Number.isFinite(n) && n >= 0 && n < 1000)) fail("a value is not under 1,000");
+            console.log("OK", JSON.stringify(s.pipeline));
+          '
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats.json index.html
+          if git diff --cached --quiet; then
+            echo "No change, nothing to commit."
+            exit 0
+          fi
+          git commit -m "MOCK stats for $(date -u +%F) (demo data, not real)"
+          git pull --rebase origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
