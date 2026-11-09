@@ -155,7 +155,7 @@ ${stats._MOCK ? '<div class="mock-banner">MOCK DATA, NOT REAL. Demo numbers, not
     <div class="logo-badge">T A L O N</div>
     <div><h1>INTELLIGENCE</h1><p>TACTICAL AUTOMATED LOGISTIC OPERATING NETWORK</p></div>
   </div>
-  <div class="status${stats._MOCK ? ' status--demo' : ''}"><div class="dot"></div>${stats._MOCK ? 'DEMO' : 'LIVE'}</div>
+  <div class="status"><div class="dot"></div>LIVE</div>
 </header>
 
 <div class="main">
