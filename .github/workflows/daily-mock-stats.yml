@@ -43,6 +43,8 @@ jobs:
             if (s._MOCK !== true) fail("stats.json is missing \"_MOCK\": true");
             if (!String(s.generatedAtET).startsWith("MOCK DATA")) fail("time label is not marked MOCK DATA");
             if (!html.includes("MOCK DATA, NOT REAL")) fail("MOCK banner missing from index.html");
+            if (/>\s*LIVE\s*</.test(html)) fail("index.html still shows a LIVE indicator");
+            if (!html.includes(">DEMO<")) fail("DEMO indicator missing from index.html");
             const nums = [...Object.values(s.pipeline), s.aiCosts.totalCalls, s.aiCosts.totalSpent];
             if (!nums.every((n) => Number.isFinite(n) && n >= 0 && n < 1000)) fail("a value is not under 1,000");
             console.log("OK", JSON.stringify(s.pipeline));

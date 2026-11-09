@@ -12,7 +12,8 @@
 //    ./dev/out/. Only the explicit --publish flag (used by the daily Action) writes to the repo root.
 //  * Every generated JSON has "_MOCK": true, and its time label starts with "MOCK DATA".
 //  * The seed is the UTC date (YYYY-MM-DD), so numbers change once a day and are reproducible.
-//  * The rendered HTML shows a red "MOCK DATA, NOT REAL" bar across the top.
+//  * The rendered HTML shows a red "MOCK DATA, NOT REAL" bar across the top, and its green LIVE
+//    indicator is replaced by a DEMO badge.
 //
 // Usage (from the repo root):
 //   node dev/mock-stats.mjs                      # scenario "typical" (every count under 1,000), random seed
@@ -167,8 +168,14 @@ try {
   fs.writeFileSync(tmp, src + "\nexport { buildStaticHTML };\n");
   const mod = await import(pathToFileURL(tmp).href);
   let html = mod.buildStaticHTML(stats);
-  const bar = '<div style="position:sticky;top:0;z-index:9999;background:#b00020;color:#fff;font:600 13px/1 system-ui;padding:8px 12px;text-align:center">MOCK DATA, NOT REAL. Local layout test only.</div>';
+  const bar = '<div style="position:sticky;top:0;z-index:9999;background:#b00020;color:#fff;font:600 13px/1 system-ui;padding:8px 12px;text-align:center">MOCK DATA, NOT REAL</div>';
   html = html.replace(/<body[^>]*>/i, (m) => m + bar);
+  // The template hardcodes a green pulsing LIVE indicator in the nav bar. Demo data must not claim to be live.
+  const LIVE = '<div class="status"><div class="dot"></div>LIVE</div>';
+  const DEMO = '<div class="status" style="color:#e879f9;border:1px dashed currentColor;border-radius:99px;padding:2px 10px;letter-spacing:.14em">DEMO</div>';
+  if (!html.includes(LIVE)) throw new Error("LIVE indicator not found in the template (it may have changed)");
+  html = html.replace(LIVE, DEMO).replace("<title>TALON — Live Stats</title>", "<title>TALON — Demo Stats (mock data)</title>");
+  if (/>\s*LIVE\s*</.test(html)) throw new Error("A LIVE indicator is still present in the demo page");
   if (!html.includes("MOCK DATA, NOT REAL")) throw new Error("MOCK banner missing from generated HTML");
   fs.writeFileSync(path.join(outDir, "index.html"), html);
   fs.unlinkSync(tmp);
