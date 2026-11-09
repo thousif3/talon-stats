@@ -113,7 +113,6 @@ header{background:rgba(7,12,20,0.95);border-bottom:1px solid var(--border);paddi
 .status{display:flex;align-items:center;gap:6px;font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--green);}
 .status--demo{color:#e879f9;}
 .status--demo .dot{background:#e879f9;box-shadow:0 0 6px #e879f9;animation:none;}
-.mock-banner{position:sticky;top:0;z-index:9999;background:#b00020;color:#fff;font:600 13px/1 system-ui,sans-serif;padding:8px 12px;text-align:center;}
 .dot{width:6px;height:6px;background:var(--green);border-radius:50%;box-shadow:0 0 6px var(--green);animation:pulse 2s infinite;}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.5}}
 .main{padding:20px 24px;max-width:900px;margin:0 auto;}
@@ -149,7 +148,6 @@ footer a:hover{text-decoration:underline;}
 </style>
 </head>
 <body>
-${stats._MOCK ? '<div class="mock-banner">MOCK DATA, NOT REAL. Demo numbers, not from the live TALON pipeline.</div>' : ''}
 <header>
   <div class="logo">
     <div class="logo-badge">T A L O N</div>
