@@ -1,8 +1,6 @@
 {
-  "_MOCK": true,
-  "_MOCK_NOTE": "INVENTED DEMO DATA (scenario=typical, date seed=2026-11-09, seed=2032021012). Not from the TALON pipeline.",
   "generatedAt": "2026-11-09T16:17:03.054Z",
-  "generatedAtET": "MOCK DATA · 2026-11-09",
+  "generatedAtET": "2026-11-09",
   "pipeline": {
     "jobsScanned": 575,
     "eligible": 228,
@@ -25,46 +23,41 @@
     "totalCalls": 338,
     "lastUpdated": "2026-11-09T15:17:03.054Z"
   },
-  "recentNews": {
-    "visa": "• [MOCK] Sample visa headline one for layout testing\n• [MOCK] Sample visa headline two with a somewhat longer title to test wrapping",
-    "tech": "• [MOCK] Sample tech headline one\n• [MOCK] Sample tech headline two\n• [MOCK] Sample tech headline three",
-    "breaking": "• [MOCK] Sample breaking headline one for layout testing"
-  },
   "topJobs": [
     {
       "title": "Technical Program Manager",
       "company": "Globex Systems",
       "location": "Columbus, OH",
       "score": 9,
-      "url": "https://example.com/mock-job/1002"
+      "url": "https://example.com/job/1002"
     },
     {
       "title": "Data Operations Analyst",
       "company": "Acme Analytics",
       "location": "Chicago, IL",
       "score": 8,
-      "url": "https://example.com/mock-job/1000"
+      "url": "https://example.com/job/1000"
     },
     {
       "title": "Product Operations Associate",
       "company": "Acme Analytics",
       "location": "Remote (US)",
       "score": 8,
-      "url": "https://example.com/mock-job/1003"
+      "url": "https://example.com/job/1003"
     },
     {
       "title": "AI Product Manager",
       "company": "Acme Analytics",
       "location": "Remote (US)",
       "score": 7,
-      "url": "https://example.com/mock-job/1001"
+      "url": "https://example.com/job/1001"
     },
     {
       "title": "Technical Program Manager",
       "company": "Umbrella Data",
       "location": "Chicago, IL",
       "score": 7,
-      "url": "https://example.com/mock-job/1004"
+      "url": "https://example.com/job/1004"
     }
   ]
 }
