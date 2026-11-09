@@ -17,6 +17,9 @@ header{background:rgba(7,12,20,0.95);border-bottom:1px solid var(--border);paddi
 .logo h1{font-size:18px;font-weight:800;letter-spacing:.1em;background:linear-gradient(135deg,#fff 40%,var(--cyan));-webkit-background-clip:text;-webkit-text-fill-color:transparent;}
 .logo p{font-size:9px;color:var(--muted2);font-family:'JetBrains Mono',monospace;letter-spacing:.08em;}
 .status{display:flex;align-items:center;gap:6px;font-family:'JetBrains Mono',monospace;font-size:10px;color:var(--green);}
+.status--demo{color:#e879f9;}
+.status--demo .dot{background:#e879f9;box-shadow:0 0 6px #e879f9;animation:none;}
+.mock-banner{position:sticky;top:0;z-index:9999;background:#b00020;color:#fff;font:600 13px/1 system-ui,sans-serif;padding:8px 12px;text-align:center;}
 .dot{width:6px;height:6px;background:var(--green);border-radius:50%;box-shadow:0 0 6px var(--green);animation:pulse 2s infinite;}
 @keyframes pulse{0%,100%{opacity:1}50%{opacity:.5}}
 .main{padding:20px 24px;max-width:900px;margin:0 auto;}
@@ -51,13 +54,14 @@ footer a:hover{text-decoration:underline;}
 @media(max-width:600px){.main{padding:16px;}.stats-grid{grid-template-columns:repeat(2,1fr);}}
 </style>
 </head>
-<body><div style="position:sticky;top:0;z-index:9999;background:#b00020;color:#fff;font:600 13px/1 system-ui;padding:8px 12px;text-align:center">MOCK DATA, NOT REAL. Local layout test only.</div>
+<body>
+<div class="mock-banner">MOCK DATA, NOT REAL. Demo numbers, not from the live TALON pipeline.</div>
 <header>
   <div class="logo">
     <div class="logo-badge">T A L O N</div>
     <div><h1>INTELLIGENCE</h1><p>TACTICAL AUTOMATED LOGISTIC OPERATING NETWORK</p></div>
   </div>
-  <div class="status"><div class="dot"></div>LIVE</div>
+  <div class="status status--demo"><div class="dot"></div>DEMO</div>
 </header>
 
 <div class="main">
