@@ -12,7 +12,8 @@
 //    ./dev/out/. Only the explicit --publish flag (used by the daily Action) writes to the repo root.
 //  * Every generated JSON has "_MOCK": true, and its time label starts with "MOCK DATA".
 //  * The seed is the UTC date (YYYY-MM-DD), so numbers change once a day and are reproducible.
-//  * The rendered HTML shows a red "MOCK DATA, NOT REAL" bar across the top.
+//  * The dashboard template (github-export.mjs) shows a red "MOCK DATA, NOT REAL" bar and a magenta
+//    DEMO indicator instead of LIVE whenever the stats carry "_MOCK": true; real exports are unchanged.
 //
 // Usage (from the repo root):
 //   node dev/mock-stats.mjs                      # scenario "typical" (every count under 1,000), random seed
@@ -167,9 +168,7 @@ try {
   fs.writeFileSync(tmp, src + "\nexport { buildStaticHTML };\n");
   const mod = await import(pathToFileURL(tmp).href);
   let html = mod.buildStaticHTML(stats);
-  const bar = '<div style="position:sticky;top:0;z-index:9999;background:#b00020;color:#fff;font:600 13px/1 system-ui;padding:8px 12px;text-align:center">MOCK DATA, NOT REAL. Local layout test only.</div>';
-  html = html.replace(/<body[^>]*>/i, (m) => m + bar);
-  if (!html.includes("MOCK DATA, NOT REAL")) throw new Error("MOCK banner missing from generated HTML");
+  if (!html.includes("MOCK DATA, NOT REAL") || !html.includes("status--demo\"")) throw new Error("MOCK banner or DEMO indicator missing from generated HTML");
   fs.writeFileSync(path.join(outDir, "index.html"), html);
   fs.unlinkSync(tmp);
 } catch (e) {
