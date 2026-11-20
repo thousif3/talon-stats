@@ -1,60 +1,65 @@
 {
-  "generatedAt": "2026-11-09T16:17:03.054Z",
-  "generatedAtET": "2026-11-09",
+  "generatedAt": "2026-11-20T05:06:39.631Z",
+  "generatedAtET": "11/20/2026 12:06:39 AM ET",
   "pipeline": {
-    "jobsScanned": 575,
-    "eligible": 228,
-    "score7plus": 85,
-    "approved": 13,
-    "applications": 26,
-    "interviews": 3,
-    "rejections": 6,
-    "recruiters": 2,
-    "crmTracked": 76
+    "jobsScanned": 329,
+    "eligible": 88,
+    "score7plus": 29,
+    "approved": 7,
+    "applications": 29,
+    "interviews": 4,
+    "rejections": 13,
+    "recruiters": 4,
+    "crmTracked": 25
   },
   "lastRuns": {
-    "jobScan": "2026-11-09T11:17:03.054Z",
-    "news": "2026-11-09T07:17:03.054Z",
-    "gmailParsed": "2026-11-09T14:17:03.054Z",
-    "newsGenerated": "2026-11-09T07:17:03.054Z"
+    "jobScan": "2026-11-20T00:06:39.631Z",
+    "news": "2026-11-19T20:06:39.631Z",
+    "gmailParsed": "2026-11-20T03:06:39.631Z",
+    "newsGenerated": "2026-11-19T20:06:39.631Z"
   },
   "aiCosts": {
-    "totalSpent": 0.467,
-    "totalCalls": 338,
-    "lastUpdated": "2026-11-09T15:17:03.054Z"
+    "totalSpent": 0.8813,
+    "totalCalls": 315,
+    "lastUpdated": "2026-11-20T04:06:39.631Z"
+  },
+  "recentNews": {
+    "visa": "Mock item: placeholder visa and immigration update (demo data, not real).",
+    "tech": "Mock item: placeholder tech and hiring update (demo data, not real).",
+    "breaking": "Mock item: placeholder breaking headline (demo data, not real)."
   },
   "topJobs": [
     {
-      "title": "Technical Program Manager",
+      "title": "Project Coordinator",
       "company": "Globex Systems",
-      "location": "Columbus, OH",
-      "score": 9,
-      "url": "https://example.com/job/1002"
-    },
-    {
-      "title": "Data Operations Analyst",
-      "company": "Acme Analytics",
       "location": "Chicago, IL",
-      "score": 8,
+      "score": 9,
       "url": "https://example.com/job/1000"
     },
     {
-      "title": "Product Operations Associate",
-      "company": "Acme Analytics",
-      "location": "Remote (US)",
+      "title": "Data Operations Analyst",
+      "company": "Hooli Works",
+      "location": "Columbus, OH",
       "score": 8,
-      "url": "https://example.com/job/1003"
+      "url": "https://example.com/job/1002"
     },
     {
-      "title": "AI Product Manager",
-      "company": "Acme Analytics",
-      "location": "Remote (US)",
+      "title": "Product Operations Associate",
+      "company": "Northwind Labs",
+      "location": "Chicago, IL",
       "score": 7,
       "url": "https://example.com/job/1001"
     },
     {
-      "title": "Technical Program Manager",
-      "company": "Umbrella Data",
+      "title": "Product Operations Associate",
+      "company": "Initech Cloud",
+      "location": "Chicago, IL",
+      "score": 7,
+      "url": "https://example.com/job/1003"
+    },
+    {
+      "title": "AI Product Manager",
+      "company": "Northwind Labs",
       "location": "Chicago, IL",
       "score": 7,
       "url": "https://example.com/job/1004"
