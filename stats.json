@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-11-22T04:24:10.253Z",
-  "generatedAtET": "11/21/2026 11:24:10 PM ET",
+  "generatedAt": "2026-11-23T04:59:32.941Z",
+  "generatedAtET": "11/22/2026 11:59:32 PM ET",
   "pipeline": {
-    "jobsScanned": 838,
-    "eligible": 406,
-    "score7plus": 160,
-    "approved": 64,
-    "applications": 35,
-    "interviews": 3,
-    "rejections": 15,
-    "recruiters": 1,
-    "crmTracked": 20
+    "jobsScanned": 806,
+    "eligible": 243,
+    "score7plus": 56,
+    "approved": 16,
+    "applications": 46,
+    "interviews": 6,
+    "rejections": 11,
+    "recruiters": 7,
+    "crmTracked": 34
   },
   "lastRuns": {
-    "jobScan": "2026-11-21T23:24:10.253Z",
-    "news": "2026-11-21T19:24:10.253Z",
-    "gmailParsed": "2026-11-22T02:24:10.253Z",
-    "newsGenerated": "2026-11-21T19:24:10.253Z"
+    "jobScan": "2026-11-22T23:59:32.941Z",
+    "news": "2026-11-22T19:59:32.941Z",
+    "gmailParsed": "2026-11-23T02:59:32.941Z",
+    "newsGenerated": "2026-11-22T19:59:32.941Z"
   },
   "aiCosts": {
-    "totalSpent": 0.3606,
-    "totalCalls": 793,
-    "lastUpdated": "2026-11-22T03:24:10.253Z"
+    "totalSpent": 0.0245,
+    "totalCalls": 409,
+    "lastUpdated": "2026-11-23T03:59:32.941Z"
   },
   "recentNews": {
     "visa": "Mock item: placeholder visa and immigration update (demo data, not real).",
@@ -30,37 +30,37 @@
   },
   "topJobs": [
     {
-      "title": "Data Operations Analyst",
-      "company": "Example Corp",
+      "title": "Project Coordinator",
+      "company": "Initech Cloud",
       "location": "Indianapolis, IN",
       "score": 10,
-      "url": "https://example.com/job/1002"
-    },
-    {
-      "title": "Business Analyst",
-      "company": "Initech Cloud",
-      "location": "Austin, TX",
-      "score": 8,
       "url": "https://example.com/job/1000"
     },
     {
-      "title": "Data Operations Analyst",
-      "company": "Example Corp",
+      "title": "Business Analyst",
+      "company": "Acme Analytics",
       "location": "Chicago, IL",
-      "score": 8,
+      "score": 10,
       "url": "https://example.com/job/1003"
     },
     {
-      "title": "AI Product Manager",
-      "company": "Acme Analytics",
-      "location": "Indianapolis, IN",
+      "title": "Project Coordinator",
+      "company": "Initech Cloud",
+      "location": "Remote (US)",
       "score": 7,
       "url": "https://example.com/job/1001"
     },
     {
-      "title": "Product Operations Associate",
+      "title": "Technical Program Manager",
       "company": "Umbrella Data",
-      "location": "Remote (US)",
+      "location": "Austin, TX",
+      "score": 7,
+      "url": "https://example.com/job/1002"
+    },
+    {
+      "title": "Technical Program Manager",
+      "company": "Acme Analytics",
+      "location": "Columbus, OH",
       "score": 7,
       "url": "https://example.com/job/1004"
     }
