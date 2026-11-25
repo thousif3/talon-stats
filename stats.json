@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-11-24T07:49:14.396Z",
-  "generatedAtET": "11/24/2026 2:49:14 AM ET",
+  "generatedAt": "2026-11-25T06:21:30.269Z",
+  "generatedAtET": "11/25/2026 1:21:30 AM ET",
   "pipeline": {
-    "jobsScanned": 739,
-    "eligible": 208,
-    "score7plus": 47,
-    "approved": 18,
-    "applications": 31,
-    "interviews": 2,
-    "rejections": 17,
-    "recruiters": 1,
-    "crmTracked": 35
+    "jobsScanned": 777,
+    "eligible": 214,
+    "score7plus": 96,
+    "approved": 12,
+    "applications": 40,
+    "interviews": 3,
+    "rejections": 12,
+    "recruiters": 0,
+    "crmTracked": 44
   },
   "lastRuns": {
-    "jobScan": "2026-11-24T02:49:14.396Z",
-    "news": "2026-11-23T22:49:14.396Z",
-    "gmailParsed": "2026-11-24T05:49:14.396Z",
-    "newsGenerated": "2026-11-23T22:49:14.396Z"
+    "jobScan": "2026-11-25T01:21:30.269Z",
+    "news": "2026-11-24T21:21:30.269Z",
+    "gmailParsed": "2026-11-25T04:21:30.269Z",
+    "newsGenerated": "2026-11-24T21:21:30.269Z"
   },
   "aiCosts": {
-    "totalSpent": 0.405,
-    "totalCalls": 797,
-    "lastUpdated": "2026-11-24T06:49:14.396Z"
+    "totalSpent": 0.4081,
+    "totalCalls": 704,
+    "lastUpdated": "2026-11-25T05:21:30.269Z"
   },
   "recentNews": {
     "visa": "Mock item: placeholder visa and immigration update (demo data, not real).",
@@ -30,39 +30,39 @@
   },
   "topJobs": [
     {
-      "title": "Data Operations Analyst",
-      "company": "Acme Analytics",
-      "location": "Columbus, OH",
+      "title": "Project Coordinator",
+      "company": "Initech Cloud",
+      "location": "Remote (US)",
       "score": 10,
-      "url": "https://example.com/job/1002"
-    },
-    {
-      "title": "Product Operations Associate",
-      "company": "Globex Systems",
-      "location": "Austin, TX",
-      "score": 9,
-      "url": "https://example.com/job/1003"
-    },
-    {
-      "title": "Technical Program Manager",
-      "company": "Example Corp",
-      "location": "Austin, TX",
-      "score": 8,
       "url": "https://example.com/job/1000"
     },
     {
-      "title": "Product Operations Associate",
-      "company": "Example Corp",
-      "location": "Columbus, OH",
-      "score": 7,
+      "title": "Data Operations Analyst",
+      "company": "Acme Analytics",
+      "location": "Remote (US)",
+      "score": 9,
       "url": "https://example.com/job/1001"
     },
     {
-      "title": "Data Operations Analyst",
-      "company": "Initech Cloud",
+      "title": "Product Operations Associate",
+      "company": "Example Corp",
       "location": "Austin, TX",
-      "score": 7,
+      "score": 9,
       "url": "https://example.com/job/1004"
+    },
+    {
+      "title": "Data Operations Analyst",
+      "company": "Northwind Labs",
+      "location": "Indianapolis, IN",
+      "score": 7,
+      "url": "https://example.com/job/1002"
+    },
+    {
+      "title": "Data Operations Analyst",
+      "company": "Globex Systems",
+      "location": "Remote (US)",
+      "score": 7,
+      "url": "https://example.com/job/1003"
     }
   ]
 }
