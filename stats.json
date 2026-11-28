@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-11-27T06:02:20.901Z",
-  "generatedAtET": "11/27/2026 1:02:20 AM ET",
+  "generatedAt": "2026-11-28T05:44:37.593Z",
+  "generatedAtET": "11/28/2026 12:44:37 AM ET",
   "pipeline": {
-    "jobsScanned": 502,
-    "eligible": 232,
-    "score7plus": 102,
-    "approved": 41,
-    "applications": 15,
-    "interviews": 2,
-    "rejections": 5,
-    "recruiters": 3,
-    "crmTracked": 19
+    "jobsScanned": 320,
+    "eligible": 115,
+    "score7plus": 28,
+    "approved": 11,
+    "applications": 28,
+    "interviews": 3,
+    "rejections": 6,
+    "recruiters": 4,
+    "crmTracked": 75
   },
   "lastRuns": {
-    "jobScan": "2026-11-27T01:02:20.901Z",
-    "news": "2026-11-26T21:02:20.901Z",
-    "gmailParsed": "2026-11-27T04:02:20.901Z",
-    "newsGenerated": "2026-11-26T21:02:20.901Z"
+    "jobScan": "2026-11-28T00:44:37.593Z",
+    "news": "2026-11-27T20:44:37.593Z",
+    "gmailParsed": "2026-11-28T03:44:37.593Z",
+    "newsGenerated": "2026-11-27T20:44:37.593Z"
   },
   "aiCosts": {
-    "totalSpent": 0.4414,
-    "totalCalls": 327,
-    "lastUpdated": "2026-11-27T05:02:20.901Z"
+    "totalSpent": 0.3434,
+    "totalCalls": 247,
+    "lastUpdated": "2026-11-28T04:44:37.593Z"
   },
   "recentNews": {
     "visa": "Mock item: placeholder visa and immigration update (demo data, not real).",
@@ -30,39 +30,39 @@
   },
   "topJobs": [
     {
-      "title": "Product Operations Associate",
-      "company": "Initech Cloud",
+      "title": "Business Analyst",
+      "company": "Globex Systems",
       "location": "Indianapolis, IN",
-      "score": 8,
-      "url": "https://example.com/job/1002"
+      "score": 10,
+      "url": "https://example.com/job/1003"
     },
     {
-      "title": "Data Operations Analyst",
-      "company": "Umbrella Data",
-      "location": "Indianapolis, IN",
-      "score": 8,
+      "title": "AI Product Manager",
+      "company": "Globex Systems",
+      "location": "Chicago, IL",
+      "score": 10,
       "url": "https://example.com/job/1004"
     },
     {
-      "title": "Data Operations Analyst",
-      "company": "Initech Cloud",
-      "location": "Chicago, IL",
-      "score": 7,
+      "title": "Technical Program Manager",
+      "company": "Acme Analytics",
+      "location": "Indianapolis, IN",
+      "score": 9,
       "url": "https://example.com/job/1000"
     },
     {
-      "title": "Technical Program Manager",
-      "company": "Hooli Works",
-      "location": "Remote (US)",
-      "score": 7,
+      "title": "Business Analyst",
+      "company": "Northwind Labs",
+      "location": "Columbus, OH",
+      "score": 8,
       "url": "https://example.com/job/1001"
     },
     {
-      "title": "Project Coordinator",
-      "company": "Initech Cloud",
-      "location": "Indianapolis, IN",
-      "score": 7,
-      "url": "https://example.com/job/1003"
+      "title": "Product Operations Associate",
+      "company": "Acme Analytics",
+      "location": "Remote (US)",
+      "score": 8,
+      "url": "https://example.com/job/1002"
     }
   ]
 }
